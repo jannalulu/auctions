@@ -1,7 +1,6 @@
 import csv
 from datetime import datetime
 import os
-import io
 
 class CSVLogger:
     def __init__(self, filename):
