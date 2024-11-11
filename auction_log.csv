@@ -1,0 +1,284 @@
+Timestamp,Agent,Action,Current Price
+2024-10-05 17:47:21,Auctioneer,The current bid is $100. Do I hear any advance on $100?,100
+2024-10-05 17:47:22,Buyer_0,bid,100
+2024-10-05 17:47:22,Buyer_1,bid,100
+2024-10-05 17:47:22,Buyer_2,bid,100
+2024-10-05 17:47:22,Auctioneer,The current bid is $110. Do I hear any advance on $110?,110
+2024-10-05 17:47:23,Buyer_0,bid,110
+2024-10-05 17:47:23,Buyer_1,bid,110
+2024-10-05 17:47:23,Buyer_2,bid,110
+2024-10-05 17:47:23,Auctioneer,The current bid is $120. Do I hear any advance on $120?,120
+2024-10-05 17:47:23,Buyer_0,bid,120
+2024-10-05 17:47:24,Buyer_1,bid,120
+2024-10-05 17:47:24,Buyer_2,bid,120
+2024-10-05 17:47:24,Auctioneer,The current bid is $130. Do I hear any advance on $130?,130
+2024-10-05 17:47:24,Buyer_0,bid,130
+2024-10-05 17:47:25,Buyer_1,bid,130
+2024-10-05 17:47:25,Buyer_2,bid,130
+2024-10-05 17:47:25,Auctioneer,The current bid is $140. Do I hear any advance on $140?,140
+2024-10-05 17:47:25,Buyer_0,bid,140
+2024-10-05 17:47:26,Buyer_1,bid,140
+2024-10-05 17:47:26,Buyer_2,bid,140
+2024-10-05 17:47:26,Auctioneer,The current bid is $150. Do I hear any advance on $150?,150
+2024-10-05 17:47:26,Buyer_0,bid,150
+2024-10-05 17:47:27,Buyer_1,bid,150
+2024-10-05 17:47:27,Buyer_2,bid,150
+2024-10-05 17:47:27,Auctioneer,The current bid is $160. Do I hear any advance on $160?,160
+2024-10-05 17:47:27,Buyer_0,bid,160
+2024-10-05 17:47:27,Buyer_1,bid,160
+2024-10-05 17:47:28,Buyer_2,bid,160
+2024-10-05 17:47:28,Auctioneer,The current bid is $170. Do I hear any advance on $170?,170
+2024-10-05 17:47:28,Buyer_0,bid,170
+2024-10-05 17:47:28,Buyer_1,bid,170
+2024-10-05 17:47:29,Buyer_2,bid,170
+2024-10-05 17:47:29,Auctioneer,The current bid is $180. Do I hear any advance on $180?,180
+2024-10-05 17:47:29,Buyer_0,bid,180
+2024-10-05 17:47:29,Buyer_1,bid,180
+2024-10-05 17:47:30,Buyer_2,bid,180
+2024-10-05 17:47:30,Auctioneer,The current bid is $190. Do I hear any advance on $190?,190
+2024-10-05 17:47:30,Buyer_0,bid,190
+2024-10-05 17:47:30,Buyer_1,bid,190
+2024-10-05 17:47:31,Buyer_2,bid,190
+2024-10-05 17:47:31,Auctioneer,The current bid is $200. Do I hear any advance on $200?,200
+2024-10-05 17:47:31,Buyer_0,bid,200
+2024-10-05 17:47:31,Buyer_1,bid,200
+2024-10-05 17:47:32,Buyer_2,bid,200
+2024-10-05 17:47:32,Auctioneer,The current bid is $210. Do I hear any advance on $210?,210
+2024-10-05 17:47:32,Buyer_0,bid,210
+2024-10-05 17:47:32,Buyer_1,bid,210
+2024-10-05 17:47:33,Buyer_2,bid,210
+2024-10-05 17:47:33,Auctioneer,The current bid is $220. Do I hear any advance on $220?,220
+2024-10-05 17:47:33,Buyer_0,bid,220
+2024-10-05 17:47:33,Buyer_1,bid,220
+2024-10-05 17:47:34,Buyer_2,bid,220
+2024-10-05 17:47:34,Auctioneer,The current bid is $230. Do I hear any advance on $230?,230
+2024-10-05 17:47:34,Buyer_0,bid,230
+2024-10-05 17:47:34,Buyer_1,bid,230
+2024-10-05 17:47:35,Buyer_2,Bid,230
+2024-10-05 17:47:35,Auctioneer,The current bid is $240. Do I hear any advance on $240?,240
+2024-10-05 17:47:35,Buyer_0,bid,240
+2024-10-05 17:47:35,Buyer_1,bid,240
+2024-10-05 17:47:36,Buyer_2,bid,240
+2024-10-05 17:47:36,Auctioneer,The current bid is $250. Do I hear any advance on $250?,250
+2024-10-05 17:47:36,Buyer_0,bid,250
+2024-10-05 17:47:36,Buyer_1,bid,250
+2024-10-05 17:47:37,Buyer_2,bid,250
+2024-10-05 17:47:37,Auctioneer,The current bid is $260. Do I hear any advance on $260?,260
+2024-10-05 17:47:37,Buyer_0,bid,260
+2024-10-05 17:47:38,Buyer_1,bid,260
+2024-10-05 17:47:38,Buyer_2,bid,260
+2024-10-05 17:47:38,Auctioneer,The current bid is $270. Do I hear any advance on $270?,270
+2024-10-05 17:47:38,Buyer_0,bid,270
+2024-10-05 17:47:39,Buyer_1,bid,270
+2024-10-05 17:47:39,Buyer_2,bid,270
+2024-10-05 17:47:39,Auctioneer,The current bid is $280. Do I hear any advance on $280?,280
+2024-10-05 17:47:39,Buyer_0,bid,280
+2024-10-05 17:47:40,Buyer_1,bid,280
+2024-10-05 17:47:40,Buyer_2,bid,280
+2024-10-05 17:47:40,Auctioneer,The current bid is $290. Do I hear any advance on $290?,290
+2024-10-05 17:47:40,Buyer_0,bid,290
+2024-10-05 17:47:41,Buyer_1,pass,290
+2024-10-05 17:47:41,Buyer_1,Passed,290
+2024-10-05 17:47:41,Buyer_2,bid,290
+2024-10-05 17:47:41,Auctioneer,The current bid is $300. Do I hear any advance on $300?,300
+2024-10-05 17:47:41,Buyer_0,bid,300
+2024-10-05 17:47:42,Buyer_1,Pass,300
+2024-10-05 17:47:42,Buyer_1,Passed,300
+2024-10-05 17:47:42,Buyer_2,bid,300
+2024-10-05 17:47:42,Auctioneer,The current bid is $310. Do I hear any advance on $310?,310
+2024-10-05 17:47:43,Buyer_0,bid,310
+2024-10-05 17:47:43,Buyer_1,Pass,310
+2024-10-05 17:47:43,Buyer_1,Passed,310
+2024-10-05 17:47:43,Buyer_2,bid,310
+2024-10-05 17:47:43,Auctioneer,The current bid is $320. Do I hear any advance on $320?,320
+2024-10-05 17:47:44,Buyer_0,bid,320
+2024-10-05 17:47:44,Buyer_1,pass,320
+2024-10-05 17:47:44,Buyer_1,Passed,320
+2024-10-05 17:47:45,Buyer_2,bid,320
+2024-10-05 17:47:45,Auctioneer,The current bid is $330. Do I hear any advance on $330?,330
+2024-10-05 17:47:45,Buyer_0,bid,330
+2024-10-05 17:47:45,Buyer_1,pass,330
+2024-10-05 17:47:45,Buyer_1,Passed,330
+2024-10-05 17:47:46,Buyer_2,bid,330
+2024-10-05 17:47:46,Auctioneer,The current bid is $340. Do I hear any advance on $340?,340
+2024-10-05 17:47:46,Buyer_0,bid,340
+2024-10-05 17:47:46,Buyer_1,pass,340
+2024-10-05 17:47:46,Buyer_1,Passed,340
+2024-10-05 17:47:47,Buyer_2,bid,340
+2024-10-05 17:47:47,Auctioneer,The current bid is $350. Do I hear any advance on $350?,350
+2024-10-05 17:47:47,Buyer_0,bid,350
+2024-10-05 17:47:47,Buyer_1,pass,350
+2024-10-05 17:47:47,Buyer_1,Passed,350
+2024-10-05 17:47:48,Buyer_2,bid,350
+2024-10-05 17:47:48,Auctioneer,The current bid is $360. Do I hear any advance on $360?,360
+2024-10-05 17:47:48,Buyer_0,bid,360
+2024-10-05 17:47:48,Buyer_1,pass,360
+2024-10-05 17:47:48,Buyer_1,Passed,360
+2024-10-05 17:47:49,Buyer_2,bid,360
+2024-10-05 17:47:49,Auctioneer,The current bid is $370. Do I hear any advance on $370?,370
+2024-10-05 17:47:49,Buyer_0,bid,370
+2024-10-05 17:47:49,Buyer_1,pass,370
+2024-10-05 17:47:49,Buyer_1,Passed,370
+2024-10-05 17:47:50,Buyer_2,bid,370
+2024-10-05 17:47:50,Auctioneer,The current bid is $380. Do I hear any advance on $380?,380
+2024-10-05 17:47:50,Buyer_0,bid,380
+2024-10-05 17:47:50,Buyer_1,pass,380
+2024-10-05 17:47:50,Buyer_1,Passed,380
+2024-10-05 17:47:50,Buyer_2,bid,380
+2024-10-05 17:47:50,Auctioneer,The current bid is $390. Do I hear any advance on $390?,390
+2024-10-05 17:47:51,Buyer_0,bid,390
+2024-10-05 17:47:51,Buyer_1,Pass,390
+2024-10-05 17:47:51,Buyer_1,Passed,390
+2024-10-05 17:47:52,Buyer_2,pass,390
+2024-10-05 17:47:52,Buyer_2,Passed,390
+2024-10-05 17:47:52,Seller,accept,390
+2024-10-05 17:55:25,Auctioneer,The current bid is $100. Do I hear any advance on $100?,100
+2024-10-05 17:55:25,Buyer_0,bid,100
+2024-10-05 17:55:26,Buyer_1,bid,100
+2024-10-05 17:55:26,Buyer_2,bid,100
+2024-10-05 17:55:26,Auctioneer,The current bid is $110. Do I hear any advance on $110?,110
+2024-10-05 17:55:27,Buyer_0,bid,110
+2024-10-05 17:55:27,Buyer_1,bid,110
+2024-10-05 17:55:27,Buyer_2,bid,110
+2024-10-05 17:55:27,Auctioneer,The current bid is $120. Do I hear any advance on $120?,120
+2024-10-05 17:55:27,Buyer_0,bid,120
+2024-10-05 17:55:28,Buyer_1,bid,120
+2024-10-05 17:55:28,Buyer_2,bid,120
+2024-10-05 17:55:28,Auctioneer,The current bid is $130. Do I hear any advance on $130?,130
+2024-10-05 17:55:28,Buyer_0,bid,130
+2024-10-05 17:55:29,Buyer_1,bid,130
+2024-10-05 17:55:29,Buyer_2,bid,130
+2024-10-05 17:55:29,Auctioneer,The current bid is $140. Do I hear any advance on $140?,140
+2024-10-05 17:55:29,Buyer_0,bid,140
+2024-10-05 17:55:30,Buyer_1,bid,140
+2024-10-05 17:55:30,Buyer_2,bid,140
+2024-10-05 17:55:30,Auctioneer,The current bid is $150. Do I hear any advance on $150?,150
+2024-10-05 17:55:31,Buyer_0,bid,150
+2024-10-05 17:55:31,Buyer_1,bid,150
+2024-10-05 17:55:31,Buyer_2,bid,150
+2024-10-05 17:55:31,Auctioneer,The current bid is $160. Do I hear any advance on $160?,160
+2024-10-05 17:55:32,Buyer_0,bid,160
+2024-10-05 17:55:32,Buyer_1,bid,160
+2024-10-05 17:55:32,Buyer_2,bid,160
+2024-10-05 17:55:32,Auctioneer,The current bid is $170. Do I hear any advance on $170?,170
+2024-10-05 17:56:08,Auctioneer,The current bid is $100. Do I hear any advance on $100?,100
+2024-10-05 17:56:08,Buyer_0,bid,100
+2024-10-05 17:56:08,Buyer_1,bid,100
+2024-10-05 17:56:09,Buyer_2,bid,100
+2024-10-05 17:56:09,Auctioneer,The current bid is $110. Do I hear any advance on $110?,110
+2024-10-05 17:56:09,Buyer_0,bid,110
+2024-10-05 17:56:09,Buyer_1,bid,110
+2024-10-05 17:56:10,Buyer_2,bid,110
+2024-10-05 17:56:10,Auctioneer,The current bid is $120. Do I hear any advance on $120?,120
+2024-10-05 17:56:10,Buyer_0,bid,120
+2024-10-05 17:56:10,Buyer_1,bid,120
+2024-10-05 17:56:11,Buyer_2,bid,120
+2024-10-05 17:56:11,Auctioneer,The current bid is $130. Do I hear any advance on $130?,130
+2024-10-05 17:56:11,Buyer_0,bid,130
+2024-10-05 17:56:11,Buyer_1,bid,130
+2024-10-05 17:56:11,Buyer_2,Bid,130
+2024-10-05 17:56:11,Auctioneer,The current bid is $140. Do I hear any advance on $140?,140
+2024-10-05 17:56:12,Buyer_0,bid,140
+2024-10-05 17:56:12,Buyer_1,bid,140
+2024-10-05 17:56:12,Buyer_2,bid,140
+2024-10-05 17:56:12,Auctioneer,The current bid is $150. Do I hear any advance on $150?,150
+2024-10-05 17:56:13,Buyer_0,Bid,150
+2024-10-05 17:56:13,Buyer_1,bid,150
+2024-10-05 17:56:13,Buyer_2,bid,150
+2024-10-05 17:56:13,Auctioneer,The current bid is $160. Do I hear any advance on $160?,160
+2024-10-05 17:56:14,Buyer_0,bid,160
+2024-10-05 17:56:14,Buyer_1,bid,160
+2024-10-05 17:56:14,Buyer_2,bid,160
+2024-10-05 17:56:14,Auctioneer,The current bid is $170. Do I hear any advance on $170?,170
+2024-10-05 17:56:14,Buyer_0,bid,170
+2024-10-05 17:56:15,Buyer_1,bid,170
+2024-10-05 17:56:15,Buyer_2,bid,170
+2024-10-05 17:56:15,Auctioneer,The current bid is $180. Do I hear any advance on $180?,180
+2024-10-05 17:56:16,Buyer_0,bid,180
+2024-10-05 17:56:16,Buyer_1,bid,180
+2024-10-05 17:56:16,Buyer_2,Bid.,180
+2024-10-05 17:56:16,Auctioneer,The current bid is $190. Do I hear any advance on $190?,190
+2024-10-05 17:56:17,Buyer_0,bid,190
+2024-10-05 17:56:17,Buyer_1,bid,190
+2024-10-05 17:56:17,Buyer_2,bid,190
+2024-10-05 17:56:17,Auctioneer,The current bid is $200. Do I hear any advance on $200?,200
+2024-10-05 17:56:18,Buyer_0,bid,200
+2024-10-05 17:56:18,Buyer_1,bid,200
+2024-10-05 17:56:18,Buyer_2,bid,200
+2024-10-05 17:56:18,Auctioneer,The current bid is $210. Do I hear any advance on $210?,210
+2024-10-05 17:56:19,Buyer_0,bid,210
+2024-10-05 17:56:19,Buyer_1,bid,210
+2024-10-05 17:56:19,Buyer_2,Bid.,210
+2024-10-05 17:56:19,Auctioneer,The current bid is $220. Do I hear any advance on $220?,220
+2024-10-05 17:56:20,Buyer_0,bid,220
+2024-10-05 17:56:20,Buyer_1,bid,220
+2024-10-05 17:56:20,Buyer_2,Bid,220
+2024-10-05 17:56:20,Auctioneer,The current bid is $230. Do I hear any advance on $230?,230
+2024-10-05 17:56:21,Buyer_0,bid,230
+2024-10-05 17:56:21,Buyer_1,bid,230
+2024-10-05 17:56:21,Buyer_2,bid,230
+2024-10-05 17:56:21,Auctioneer,The current bid is $240. Do I hear any advance on $240?,240
+2024-10-05 17:56:22,Buyer_0,bid,240
+2024-10-05 17:56:22,Buyer_1,bid,240
+2024-10-05 17:56:22,Buyer_2,bid,240
+2024-10-05 17:56:22,Auctioneer,The current bid is $250. Do I hear any advance on $250?,250
+2024-10-05 17:56:22,Buyer_0,bid,250
+2024-10-05 17:56:23,Buyer_1,bid,250
+2024-10-05 17:56:23,Buyer_2,bid,250
+2024-10-05 17:56:23,Auctioneer,The current bid is $260. Do I hear any advance on $260?,260
+2024-10-05 17:56:23,Buyer_0,bid,260
+2024-10-05 17:56:24,Buyer_1,bid,260
+2024-10-05 17:56:24,Buyer_2,bid,260
+2024-10-05 17:56:24,Auctioneer,The current bid is $270. Do I hear any advance on $270?,270
+2024-10-05 17:56:24,Buyer_0,bid,270
+2024-10-05 17:56:25,Buyer_1,bid,270
+2024-10-05 17:56:25,Buyer_2,bid,270
+2024-10-05 17:56:25,Auctioneer,The current bid is $280. Do I hear any advance on $280?,280
+2024-10-05 17:56:25,Buyer_0,bid,280
+2024-10-05 17:56:26,Buyer_1,bid,280
+2024-10-05 17:56:26,Buyer_2,bid,280
+2024-10-05 17:56:26,Auctioneer,The current bid is $290. Do I hear any advance on $290?,290
+2024-10-05 17:56:26,Buyer_0,bid,290
+2024-10-05 17:56:27,Buyer_1,pass,290
+2024-10-05 17:56:27,Buyer_2,Bid,290
+2024-10-05 17:56:27,Auctioneer,The current bid is $300. Do I hear any advance on $300?,300
+2024-10-05 17:56:28,Buyer_0,bid,300
+2024-10-05 17:56:28,Buyer_1,pass,300
+2024-10-05 17:56:28,Buyer_2,bid,300
+2024-10-05 17:56:28,Auctioneer,The current bid is $310. Do I hear any advance on $310?,310
+2024-10-05 17:56:29,Buyer_0,bid,310
+2024-10-05 17:56:29,Buyer_1,pass,310
+2024-10-05 17:56:29,Buyer_2,bid,310
+2024-10-05 17:56:29,Auctioneer,The current bid is $320. Do I hear any advance on $320?,320
+2024-10-05 17:56:30,Buyer_0,bid,320
+2024-10-05 17:56:30,Buyer_1,pass,320
+2024-10-05 17:56:30,Buyer_2,bid,320
+2024-10-05 17:56:30,Auctioneer,The current bid is $330. Do I hear any advance on $330?,330
+2024-10-05 17:56:30,Buyer_0,bid,330
+2024-10-05 17:56:31,Buyer_1,pass,330
+2024-10-05 17:56:31,Buyer_2,bid,330
+2024-10-05 17:56:31,Auctioneer,The current bid is $340. Do I hear any advance on $340?,340
+2024-10-05 17:56:32,Buyer_0,bid,340
+2024-10-05 17:56:32,Buyer_1,pass,340
+2024-10-05 17:56:32,Buyer_2,bid,340
+2024-10-05 17:56:32,Auctioneer,The current bid is $350. Do I hear any advance on $350?,350
+2024-10-05 17:56:32,Buyer_0,bid,350
+2024-10-05 17:56:33,Buyer_1,pass,350
+2024-10-05 17:56:33,Buyer_2,bid,350
+2024-10-05 17:56:33,Auctioneer,The current bid is $360. Do I hear any advance on $360?,360
+2024-10-05 17:56:34,Buyer_0,bid,360
+2024-10-05 17:56:34,Buyer_1,Pass.,360
+2024-10-05 17:56:34,Buyer_2,bid,360
+2024-10-05 17:56:34,Auctioneer,The current bid is $370. Do I hear any advance on $370?,370
+2024-10-05 17:56:34,Buyer_0,bid,370
+2024-10-05 17:56:35,Buyer_1,pass,370
+2024-10-05 17:56:35,Buyer_2,bid,370
+2024-10-05 17:56:35,Auctioneer,The current bid is $380. Do I hear any advance on $380?,380
+2024-10-05 17:56:36,Buyer_0,bid,380
+2024-10-05 17:56:36,Buyer_1,pass,380
+2024-10-05 17:56:37,Buyer_2,bid,380
+2024-10-05 17:56:37,Auctioneer,The current bid is $390. Do I hear any advance on $390?,390
+2024-10-05 17:56:37,Buyer_0,bid,390
+2024-10-05 17:56:37,Buyer_1,pass,390
+2024-10-05 17:56:38,Buyer_2,Pass,390
+2024-10-05 17:56:38,Seller,accept,390
