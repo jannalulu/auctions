@@ -16,17 +16,55 @@ seller:
 
 buyers:
   - attributes:
-      risk_tolerance: "high"
+      risk_tolerance: "medium"
       art_knowledge: "expert"
+      rational_bidder: true
+    budget: 550
+  - attributes:
+      risk_tolerance: "medium"
+      art_knowledge: "expert"
+      rational_bidder: true
+    budget: 525
+  - attributes:
+      risk_tolerance: "medium"
+      art_knowledge: "expert"
+      rational_bidder: true
     budget: 500
   - attributes:
       risk_tolerance: "medium"
-      art_knowledge: "novice"
-    budget: 300
+      art_knowledge: "expert"
+      rational_bidder: true
+    budget: 475
   - attributes:
-      risk_tolerance: "low"
-      art_knowledge: "intermediate"
+      risk_tolerance: "medium"
+      art_knowledge: "expert"
+      rational_bidder: true
+    budget: 450
+  - attributes:
+      risk_tolerance: "medium"
+      art_knowledge: "expert"
+      rational_bidder: true
+    budget: 425
+  - attributes:
+      risk_tolerance: "medium"
+      art_knowledge: "expert"
+      rational_bidder: true
     budget: 400
+  - attributes:
+      risk_tolerance: "medium"
+      art_knowledge: "expert"
+      rational_bidder: true
+    budget: 375
+  - attributes:
+      risk_tolerance: "medium"
+      art_knowledge: "expert"
+      rational_bidder: true
+    budget: 350
+  - attributes:
+      risk_tolerance: "medium"
+      art_knowledge: "expert"
+      rational_bidder: true
+    budget: 325
 
 auctioneer_attributes:
   experience: "veteran"
