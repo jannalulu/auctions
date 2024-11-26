@@ -1,63 +1,63 @@
-item: "Valuable Painting"
-starting_price: 100
-price_increment: 10
+item: "Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer"
+starting_price: 40
+price_increment: 5
 log_file: "common_auction_log.csv"
 max_rounds: 100 # Not implemented in English
 
 seller:
   attributes:
-    art_knowledge: "expert"
+    bidding_knowledge: "sophiscated"
     urgency_to_sell: "medium"
 
 buyers:
   - attributes:
       risk_tolerance: "medium"
-      art_knowledge: "expert"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 550
   - attributes:
       risk_tolerance: "medium"
-      art_knowledge: "expert"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 525
   - attributes:
       risk_tolerance: "medium"
-      art_knowledge: "expert"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 500
   - attributes:
       risk_tolerance: "medium"
-      art_knowledge: "expert"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 475
   - attributes:
       risk_tolerance: "medium"
-      art_knowledge: "expert"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 450
   - attributes:
       risk_tolerance: "medium"
-      art_knowledge: "expert"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 425
   - attributes:
       risk_tolerance: "medium"
-      art_knowledge: "expert"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 400
   - attributes:
-      risk_tolerance: "medium"
-      art_knowledge: "expert"
+      risk_tolerance: "low"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 375
   - attributes:
-      risk_tolerance: "medium"
-      art_knowledge: "expert"
+      risk_tolerance: "low"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 350
   - attributes:
-      risk_tolerance: "medium"
-      art_knowledge: "expert"
+      risk_tolerance: "low"
+      bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 325
 

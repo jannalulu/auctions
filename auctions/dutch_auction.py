@@ -13,7 +13,7 @@ class DutchAuction(BaseAuction):
         round_count = 0
         
         while round_count < self.max_rounds and self.current_price > 0:
-            auctioneer_action = self.auctioneer.announce_price(self.current_price)
+            auctioneer_action = self.auctioneer.announce_price(self.current_price, self.item)
             self.log_action(self.auctioneer, auctioneer_action)
 
             for buyer in self.buyers:

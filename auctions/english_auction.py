@@ -12,7 +12,7 @@ class EnglishAuction(BaseAuction):
     def run(self):
         round_count = 0
         while round_count < self.max_rounds:
-            auctioneer_action = self.auctioneer.announce_price(self.current_price)
+            auctioneer_action = self.auctioneer.announce_price(self.current_price, self.item)
             self.log_action(self.auctioneer, auctioneer_action)
 
             active_bidders = 0
