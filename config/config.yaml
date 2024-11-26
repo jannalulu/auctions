@@ -1,12 +1,7 @@
-#item: "Valuable Painting"
-#starting_price: 100
-#price_increment: 10
-#log_file: "auction_log.csv"
-
 item: "Valuable Painting"
-starting_price: 600
-price_decrement: 10
-log_file: "dutch_auction_log.csv"
+starting_price: 100
+price_increment: 10
+log_file: "common_auction_log.csv"
 max_rounds: 100 # Not implemented in English
 
 seller:

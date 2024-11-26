@@ -1,0 +1,1458 @@
+2024-11-26 01:00:07,Auctioneer,The current bid is $400. Do I hear any advance on $400?,400
+2024-11-26 01:00:07,Buyer_0,bid,400
+2024-11-26 01:00:08,Buyer_1,bid,400
+2024-11-26 01:00:08,Buyer_2,bid,400
+2024-11-26 01:00:08,Buyer_3,bid,400
+2024-11-26 01:00:09,Buyer_4,bid,400
+2024-11-26 01:00:09,Buyer_5,bid,400
+2024-11-26 01:00:10,Buyer_6,pass,400
+2024-11-26 01:00:10,Buyer_7,pass,400
+2024-11-26 01:00:10,Buyer_8,pass,400
+2024-11-26 01:00:11,Buyer_9,pass,400
+2024-11-26 01:00:11,Auctioneer,The current bid is $410. Do I hear any advance on $410?,410
+2024-11-26 01:00:11,Buyer_0,bid,410
+2024-11-26 01:00:12,Buyer_1,bid,410
+2024-11-26 01:00:12,Buyer_2,bid,410
+2024-11-26 01:00:13,Buyer_3,bid,410
+2024-11-26 01:00:13,Buyer_4,bid,410
+2024-11-26 01:00:13,Buyer_5,bid,410
+2024-11-26 01:00:14,Buyer_6,pass,410
+2024-11-26 01:00:14,Buyer_7,pass,410
+2024-11-26 01:00:14,Buyer_8,Pass,410
+2024-11-26 01:00:15,Buyer_9,pass,410
+2024-11-26 01:00:15,Auctioneer,The current bid is $420. Do I hear any advance on $420?,420
+2024-11-26 01:00:15,Buyer_0,bid,420
+2024-11-26 01:00:15,Buyer_1,bid,420
+2024-11-26 01:00:16,Buyer_2,bid,420
+2024-11-26 01:00:16,Buyer_3,bid,420
+2024-11-26 01:00:16,Buyer_4,bid,420
+2024-11-26 01:00:17,Buyer_5,pass,420
+2024-11-26 01:00:17,Buyer_6,pass,420
+2024-11-26 01:00:18,Buyer_7,pass,420
+2024-11-26 01:00:18,Buyer_8,Pass,420
+2024-11-26 01:00:18,Buyer_9,pass,420
+2024-11-26 01:00:18,Auctioneer,The current bid is $430. Do I hear any advance on $430?,430
+2024-11-26 01:00:19,Buyer_0,bid,430
+2024-11-26 01:00:19,Buyer_1,bid,430
+2024-11-26 01:00:19,Buyer_2,bid,430
+2024-11-26 01:00:20,Buyer_3,bid,430
+2024-11-26 01:00:20,Buyer_4,bid,430
+2024-11-26 01:00:21,Buyer_5,pass,430
+2024-11-26 01:00:21,Buyer_6,pass,430
+2024-11-26 01:00:22,Buyer_7,pass,430
+2024-11-26 01:00:22,Buyer_8,pass,430
+2024-11-26 01:00:22,Buyer_9,Pass,430
+2024-11-26 01:00:22,Auctioneer,The current bid is $440. Do I hear any advance on $440?,440
+2024-11-26 01:00:23,Buyer_0,bid,440
+2024-11-26 01:00:23,Buyer_1,bid,440
+2024-11-26 01:00:24,Buyer_2,bid,440
+2024-11-26 01:00:24,Buyer_3,bid,440
+2024-11-26 01:00:24,Buyer_4,bid,440
+2024-11-26 01:00:25,Buyer_5,Pass,440
+2024-11-26 01:00:25,Buyer_6,pass,440
+2024-11-26 01:00:25,Buyer_7,pass,440
+2024-11-26 01:00:26,Buyer_8,pass,440
+2024-11-26 01:00:26,Buyer_9,Pass,440
+2024-11-26 01:00:26,Auctioneer,The current bid is $450. Do I hear any advance on $450?,450
+2024-11-26 01:00:27,Buyer_0,bid,450
+2024-11-26 01:00:27,Buyer_1,bid,450
+2024-11-26 01:00:27,Buyer_2,bid,450
+2024-11-26 01:00:28,Buyer_3,bid,450
+2024-11-26 01:00:28,Buyer_4,Pass,450
+2024-11-26 01:00:28,Buyer_5,pass,450
+2024-11-26 01:00:29,Buyer_6,pass,450
+2024-11-26 01:00:29,Buyer_7,pass,450
+2024-11-26 01:00:29,Buyer_8,pass,450
+2024-11-26 01:00:30,Buyer_9,pass,450
+2024-11-26 01:00:30,Auctioneer,The current bid is $460. Do I hear any advance on $460?,460
+2024-11-26 01:00:30,Buyer_0,bid,460
+2024-11-26 01:00:31,Buyer_1,bid,460
+2024-11-26 01:00:31,Buyer_2,bid,460
+2024-11-26 01:00:31,Buyer_3,bid,460
+2024-11-26 01:00:32,Buyer_4,pass,460
+2024-11-26 01:00:32,Buyer_5,pass,460
+2024-11-26 01:00:32,Buyer_6,pass,460
+2024-11-26 01:00:33,Buyer_7,Pass,460
+2024-11-26 01:00:33,Buyer_8,Pass,460
+2024-11-26 01:00:33,Buyer_9,pass,460
+2024-11-26 01:00:33,Auctioneer,The current bid is $470. Do I hear any advance on $470?,470
+2024-11-26 01:00:34,Buyer_0,bid,470
+2024-11-26 01:00:34,Buyer_1,bid,470
+2024-11-26 01:00:35,Buyer_2,bid,470
+2024-11-26 01:00:35,Buyer_3,bid,470
+2024-11-26 01:00:35,Buyer_4,pass,470
+2024-11-26 01:00:36,Buyer_5,pass,470
+2024-11-26 01:00:36,Buyer_6,pass,470
+2024-11-26 01:00:36,Buyer_7,pass,470
+2024-11-26 01:00:37,Buyer_8,pass,470
+2024-11-26 01:00:37,Buyer_9,pass,470
+2024-11-26 01:00:37,Auctioneer,The current bid is $480. Do I hear any advance on $480?,480
+2024-11-26 01:00:38,Buyer_0,bid,480
+2024-11-26 01:00:38,Buyer_1,bid,480
+2024-11-26 01:00:38,Buyer_2,bid,480
+2024-11-26 01:00:38,Buyer_3,Pass,480
+2024-11-26 01:00:39,Buyer_4,pass,480
+2024-11-26 01:00:39,Buyer_5,pass,480
+2024-11-26 01:00:39,Buyer_6,Pass,480
+2024-11-26 01:00:40,Buyer_7,pass,480
+2024-11-26 01:00:40,Buyer_8,pass,480
+2024-11-26 01:00:41,Buyer_9,pass,480
+2024-11-26 01:00:41,Auctioneer,The current bid is $490. Do I hear any advance on $490?,490
+2024-11-26 01:00:41,Buyer_0,bid,490
+2024-11-26 01:00:41,Buyer_1,bid,490
+2024-11-26 01:00:42,Buyer_2,Pass,490
+2024-11-26 01:00:42,Buyer_3,pass,490
+2024-11-26 01:00:43,Buyer_4,Pass,490
+2024-11-26 01:00:43,Buyer_5,pass,490
+2024-11-26 01:00:44,Buyer_6,pass,490
+2024-11-26 01:00:44,Buyer_7,pass,490
+2024-11-26 01:00:44,Buyer_8,Pass,490
+2024-11-26 01:00:45,Buyer_9,pass,490
+2024-11-26 01:00:45,Auctioneer,The current bid is $500. Do I hear any advance on $500?,500
+2024-11-26 01:00:45,Buyer_0,bid,500
+2024-11-26 01:00:45,Buyer_1,bid,500
+2024-11-26 01:00:46,Buyer_2,pass,500
+2024-11-26 01:00:46,Buyer_3,pass,500
+2024-11-26 01:00:47,Buyer_4,pass,500
+2024-11-26 01:00:47,Buyer_5,pass,500
+2024-11-26 01:00:47,Buyer_6,Pass,500
+2024-11-26 01:00:48,Buyer_7,pass,500
+2024-11-26 01:00:48,Buyer_8,Pass,500
+2024-11-26 01:00:48,Buyer_9,pass,500
+2024-11-26 01:00:48,Auctioneer,The current bid is $510. Do I hear any advance on $510?,510
+2024-11-26 01:00:48,Buyer_0,bid,510
+2024-11-26 01:00:49,Buyer_1,bid,510
+2024-11-26 01:00:49,Buyer_2,Pass,510
+2024-11-26 01:00:50,Buyer_3,pass,510
+2024-11-26 01:00:50,Buyer_4,pass,510
+2024-11-26 01:00:51,Buyer_5,pass,510
+2024-11-26 01:00:51,Buyer_6,Pass,510
+2024-11-26 01:00:51,Buyer_7,pass,510
+2024-11-26 01:00:52,Buyer_8,pass,510
+2024-11-26 01:00:52,Buyer_9,pass,510
+2024-11-26 01:00:52,Auctioneer,The current bid is $520. Do I hear any advance on $520?,520
+2024-11-26 01:00:53,Buyer_0,bid,520
+2024-11-26 01:00:53,Buyer_1,bid,520
+2024-11-26 01:00:53,Buyer_2,Pass,520
+2024-11-26 01:00:54,Buyer_3,pass,520
+2024-11-26 01:00:54,Buyer_4,pass,520
+2024-11-26 01:00:55,Buyer_5,pass,520
+2024-11-26 01:00:55,Buyer_6,pass,520
+2024-11-26 01:00:55,Buyer_7,pass,520
+2024-11-26 01:00:56,Buyer_8,Pass,520
+2024-11-26 01:00:57,Buyer_9,Pass,520
+2024-11-26 01:00:57,Auctioneer,The current bid is $530. Do I hear any advance on $530?,530
+2024-11-26 01:00:57,Buyer_0,bid,530
+2024-11-26 01:00:57,Buyer_1,Pass,530
+2024-11-26 01:00:58,Buyer_2,pass,530
+2024-11-26 01:00:58,Buyer_3,Pass.,530
+2024-11-26 01:00:58,Buyer_4,Pass,530
+2024-11-26 01:00:59,Buyer_5,pass,530
+2024-11-26 01:00:59,Buyer_6,pass,530
+2024-11-26 01:00:59,Buyer_7,pass,530
+2024-11-26 01:01:00,Buyer_8,pass,530
+2024-11-26 01:01:00,Buyer_9,Pass,530
+2024-11-26 01:01:00,Auctioneer,The current bid is $540. Do I hear any advance on $540?,540
+2024-11-26 01:01:00,Buyer_0,pass,540
+2024-11-26 01:01:01,Buyer_1,Pass,540
+2024-11-26 01:01:01,Buyer_2,pass,540
+2024-11-26 01:01:02,Buyer_3,pass,540
+2024-11-26 01:01:02,Buyer_4,Pass,540
+2024-11-26 01:01:03,Buyer_5,pass,540
+2024-11-26 01:01:03,Buyer_6,Pass,540
+2024-11-26 01:01:03,Buyer_7,pass,540
+2024-11-26 01:01:04,Buyer_8,Pass,540
+2024-11-26 01:01:04,Buyer_9,pass,540
+2024-11-26 01:01:04,Auctioneer,Buyer_0 pays $530,540
+2024-11-26 01:01:04,Auctioneer,Buyer_1 pays $520,540
+2024-11-26 01:01:04,Auctioneer,Buyer_2 pays $480,540
+2024-11-26 01:01:04,Auctioneer,Buyer_3 pays $470,540
+2024-11-26 01:01:04,Auctioneer,Buyer_4 pays $440,540
+2024-11-26 01:01:04,Auctioneer,Buyer_5 pays $410,540
+2024-11-26 01:02:17,Auctioneer,The current bid is $200. Do I hear any advance on $200?,200
+2024-11-26 01:02:17,Buyer_0,bid,200
+2024-11-26 01:02:19,Buyer_1,"With a budget of $525 and the current auction price at $200, you still have room to place a higher bid if you believe the item’s value should be higher than the current price. Given this information, my recommendation is to 'bid' if you believe the item's value exceeds the current price of $200.",200
+2024-11-26 01:02:19,Buyer_2,'bid',200
+2024-11-26 01:02:19,Buyer_3,bid,200
+2024-11-26 01:02:20,Buyer_4,bid,200
+2024-11-26 01:02:20,Buyer_5,Bid,200
+2024-11-26 01:02:22,Buyer_6,"In a common value auction, it's important to consider both the potential value of the item being auctioned and your budget. Since the current price is $200 and your budget is $400, you should assess whether you believe the item's value is significantly higher than the current price. If you believe the item is worth more than $200 and you have room in your budget, it may be advantageous to bid.
+
+Given this situation, my recommendation is to 'bid'.",200
+2024-11-26 01:02:22,Buyer_7,Bid,200
+2024-11-26 01:02:23,Buyer_8,bid,200
+2024-11-26 01:02:23,Buyer_9,bid,200
+2024-11-26 01:02:23,Auctioneer,The current bid is $210. Do I hear any advance on $210?,210
+2024-11-26 01:02:24,Buyer_0,bid,210
+2024-11-26 01:02:24,Buyer_1,Bid,210
+2024-11-26 01:02:26,Buyer_2,"If you believe the item's value is significantly higher than the current price of $210, and given that you have a budget of $500, it may be a good opportunity to bid. You would need to consider the potential competition and the likelihood of winning while staying within your budget. Without additional information on the perceived common value, it's a strategic decision. Assuming you have reasons to believe the item is worth more than $210 but less than your budget, your next action would be 'bid'.",210
+2024-11-26 01:02:26,Buyer_3,bid,210
+2024-11-26 01:02:26,Buyer_4,Bid,210
+2024-11-26 01:02:27,Buyer_5,Bid.,210
+2024-11-26 01:02:32,Buyer_6,"Given that the current price is $210 and your budget is $400, it is reasonable to consider placing a bid since the price is within your budget. Therefore, your next action should be 'bid'.",210
+2024-11-26 01:02:38,Buyer_7,"Given that the current price is $210 and your budget is $375, you have enough funds to place a bid. If you believe the item's common value is higher than the current price and it aligns with your valuation strategy, the rational action would be to 'bid'.",210
+2024-11-26 01:02:39,Buyer_8,bid,210
+2024-11-26 01:02:42,Buyer_9,"Based on the auction state, the current price is $210 and your budget is $325. Since the current price is within your budget, a common strategy would be to bid to remain competitive, especially considering this is a common value auction where the item's value is equal for all participants.
+
+Therefore, your next action would be to 'bid'.",210
+2024-11-26 01:02:42,Auctioneer,The current bid is $220. Do I hear any advance on $220?,220
+2024-11-26 01:02:48,Buyer_0,"In a common value auction, all bidders are trying to estimate the same underlying value of the item up for auction. Given your budget of $550 and the current price of $220, you have room to increase your bid if you believe the item's value exceeds the current price and is within your budget constraints.
+
+Since the current price of $220 is well below your budget of $550, and assuming you believe the item’s value is greater than $220, the rational action would be to 'bid'. However, make sure you consider any additional information you might have or any strategy you are following regarding the item's common value.",220
+2024-11-26 01:02:49,Buyer_1,"Based on the information provided, I will choose to 'bid'.",220
+2024-11-26 01:02:51,Buyer_2,"In a common value auction, each bidder estimates the value of the item and places bids accordingly. Given that your budget is $500 and the current price is $220, you have enough budget to bid. However, whether you should bid depends on your estimate of the item's value compared to the current price.
+
+Assuming you believe the value of the item is greater than $220, it would be reasonable to bid. If unsure about the item's value or if you estimate it to be less than or equal to $220, you might consider passing.
+
+If we assume you see value in the item being above $220, your action should be:
+
+'bid'",220
+2024-11-26 01:02:52,Buyer_3,Bid,220
+2024-11-26 01:02:52,Buyer_4,Bid,220
+2024-11-26 01:02:54,Buyer_5,"In a common value auction, all buyers have the same valuation for the item, but they may have different pieces of information about that value. Given that your budget is $425 and the current price is $220, you can still afford to place a bid. Therefore, your next action should be to 'bid'.",220
+2024-11-26 01:02:57,Buyer_6,"Given that your budget is $400 and the current price is $220, you have enough budget to place a bid. However, the decision to bid or pass also depends on your assessment of the item's common value and the likelihood of achieving a favorable outcome in the auction. If you believe the item is worth more than the current price and competition might drive the price up further, and if there is still room within your budget for further bidding, you might consider bidding. If you see the possible price exceeds the value or endangers your budget strategy, you might consider passing.
+
+In this case, without additional information about the item's estimated value, I would recommend placing a bid since you have room to make one, provided you believe it's a good opportunity. Therefore, your next action should be: 
+
+""bid""",220
+2024-11-26 01:02:57,Buyer_7,bid,220
+2024-11-26 01:02:57,Buyer_8,Bid,220
+2024-11-26 01:02:59,Buyer_9,"Based on the information given, as Buyer_9 with a budget of $325 and the current price at $220, you have enough budget to place a higher bid. Since it is a common value auction and assuming the item’s potential value is estimated to be higher than $220, it would be reasonable to bid in order to stay in the auction.
+
+Therefore, the next action should be: **bid**.",220
+2024-11-26 01:02:59,Auctioneer,The current bid is $230. Do I hear any advance on $230?,230
+2024-11-26 01:02:59,Buyer_0,bid,230
+2024-11-26 01:03:02,Buyer_1,"To decide whether to bid or pass in a common value auction, consider factors such as your budget, the current price, and the estimated common value of the item. As your budget is $525 and the current price is $230, you have enough budget to bid. However, without information on the estimated value of the item, a decision can't be made to maximize potential profit.
+
+In a typical scenario, if you believe the item's true value is significantly higher than $230 and still within your budget to outbid others, you might consider bidding. If the current bid is close to or above your estimate of the item's value, it would be prudent to pass.
+
+For this scenario, simply based on available budget and price:
+1. If you have a strong belief or information that the item's value exceeds the current price of $230 significantly, decide to 'bid.'
+2. If unsure or lack sufficient information about the true value or if the risk is high, 'pass' might be safe.
+
+Assuming no additional information was given about the item's value, I would recommend:
+- 'bid'",230
+2024-11-26 01:03:02,Buyer_2,bid,230
+2024-11-26 01:03:03,Buyer_3,Bid,230
+2024-11-26 01:03:03,Buyer_4,bid,230
+2024-11-26 01:03:06,Buyer_5,"In a common value auction, the item has a single true value that is the same for everyone, but bidders may have different information about that value. With the current price at $230 and a budget of $425, you still have room to bid. You should consider whether your estimate of the item's value is significantly higher than the current price to determine your potential profit.
+
+Given that you have budget space and assuming your estimate of the item's true value is higher than $230, it would be reasonable to bid again to potentially secure the item before it hits your maximum budget. Therefore, your next action should be: 'bid'.",230
+2024-11-26 01:03:06,Buyer_6,bid,230
+2024-11-26 01:03:06,Buyer_7,bid,230
+2024-11-26 01:03:07,Buyer_8,bid,230
+2024-11-26 01:03:07,Buyer_9,Bid,230
+2024-11-26 01:03:07,Auctioneer,The current bid is $240. Do I hear any advance on $240?,240
+2024-11-26 01:03:07,Buyer_0,bid,240
+2024-11-26 01:03:10,Buyer_1,"In a common value auction, all participants have the same value estimation for the item, but they might not know what it is. Given that my budget is $525 and the current price is $240, I can still afford to bid. Therefore, my next action would be to 'bid'.",240
+2024-11-26 01:03:10,Buyer_2,Bid,240
+2024-11-26 01:03:11,Buyer_3,bid,240
+2024-11-26 01:03:11,Buyer_4,Bid,240
+2024-11-26 01:03:11,Buyer_5,Bid,240
+2024-11-26 01:03:12,Buyer_6,bid,240
+2024-11-26 01:03:12,Buyer_7,bid,240
+2024-11-26 01:03:15,Buyer_8,"In a common value auction, all bidders estimate the item's value to be the same, but they might have different information. Since your budget is $350 and the current price is $240, you could still place a bid if you believe the item's actual value is above the current price and within your budget.
+
+However, without more information on the estimated value of the item, it's difficult to make a definitive decision. Generally, if you think the item's value exceeds $240 and it's still under your maximum budget, a strategic move would be to 'bid'. If you think the estimated value is already at or below the current price, you might decide to 'pass'.
+
+In this situation, assuming you have reason to believe the item's value is above $240, your next action should be to 'bid'.",240
+2024-11-26 01:03:15,Buyer_9,"Since your budget is $325 and the current auction price is $240, you have enough budget to place a bid. Therefore, your next action should be to 'bid'.",240
+2024-11-26 01:03:15,Auctioneer,The current bid is $250. Do I hear any advance on $250?,250
+2024-11-26 01:03:16,Buyer_0,"Given your budget of $550 and the current price of $250, you have enough funds to place a bid. Therefore, the strategic decision would be to continue participating in the auction by placing a bid. My recommendation is to 'bid'.",250
+2024-11-26 01:03:17,Buyer_1,Bid,250
+2024-11-26 01:03:26,Buyer_2,"In a common value auction, the item has the same value for all bidders, but that value is uncertain. Given the current auction state, with the current price at $250 and your budget of $500, you have room to place a bid without exceeding your budget. However, your decision should also consider whether the item's perceived common value exceeds the current price and potential future bids.
+
+Assuming you perceive the value of the item to be higher than $250 and believe it to be a good opportunity, your best action, given your budget allows, would be to 'bid'.",250
+2024-11-26 01:03:26,Buyer_3,Bid,250
+2024-11-26 01:03:26,Buyer_4,bid,250
+2024-11-26 01:03:27,Buyer_5,Bid,250
+2024-11-26 01:03:27,Buyer_6,bid,250
+2024-11-26 01:03:27,Buyer_7,Bid,250
+2024-11-26 01:03:28,Buyer_8,bid,250
+2024-11-26 01:03:28,Buyer_9,bid,250
+2024-11-26 01:03:28,Auctioneer,The current bid is $260. Do I hear any advance on $260?,260
+2024-11-26 01:03:29,Buyer_0,"Given your budget of $550 and the current price of $260, you have enough funds to place a bid. In a common value auction, where the item has the same intrinsic value for all bidders, the optimal decision would depend on your estimate of the item's true value relative to the current price. However, based solely on the provided budget and current price, you can afford to bid. Therefore, your next action would be to 'bid'.",260
+2024-11-26 01:03:30,Buyer_1,"Based on the auction state, I have a budget of $525, and the current price is $260. As Buyer_1 in a common value auction, I can still place a bid since the current price is well below my budget. Therefore, my next action will be to 'bid'.",260
+2024-11-26 01:03:31,Buyer_2,Bid,260
+2024-11-26 01:03:31,Buyer_3,bid,260
+2024-11-26 01:03:34,Buyer_4,"In a common value auction, the item has a single value, but that value is unknown to the bidders. Given your budget is $450 and the current price is $260, you have enough budget to place a higher bid. However, you need to consider whether you believe the value of the item is greater than $260 and whether you are comfortable bidding higher while remaining below your budget.
+
+Assuming you believe the value exceeds $260 and considering your budget allows for a higher bid, the logical next action would be to 'bid'.",260
+2024-11-26 01:03:34,Buyer_5,bid,260
+2024-11-26 01:03:35,Buyer_6,"Based on the information provided, I will choose to 'bid'.",260
+2024-11-26 01:03:36,Buyer_7,"Based on the given information, as Buyer_7 with a budget of $375, you have enough funds to place a bid in the auction where the current price is $260. Since your budget exceeds the current price and there may be potential value in the auction item, the strategic action would be to 'bid'.",260
+2024-11-26 01:03:37,Buyer_8,bid,260
+2024-11-26 01:03:37,Buyer_9,Bid,260
+2024-11-26 01:03:37,Auctioneer,The current bid is $270. Do I hear any advance on $270?,270
+2024-11-26 01:03:39,Buyer_0,"Based on the current price of $270 and your budget of $550, you can afford to place a bid. If you believe the common value of the item is higher than the current price and there are potential gains, then you should 'bid'. Otherwise, if you think the price may exceed the item's value to you, consider passing. Given just the current state without additional strategic considerations, I would suggest 'bid'.",270
+2024-11-26 01:03:39,Buyer_1,bid,270
+2024-11-26 01:03:40,Buyer_2,Bid,270
+2024-11-26 01:03:43,Buyer_3,"In a common value auction, all bidders have the same valuation for the item, but this valuation is uncertain. As Buyer_3 with a budget of $475 and the current price at $270, it's important to consider how much value you estimate the auctioned item to have and the remaining room in your budget.
+
+Without additional information about the estimated true value of the item, I can only provide a general assessment based on budget. Since the current price of $270 is below your budget of $475, you might still have room to place a competitive bid if you think the estimated true value exceeds the current price and any potential future bids still fit within your budget.
+
+Therefore, a strategic next action could be to 'bid', as long as your assessment of the item's value still makes it a worthwhile purchase considering your budget constraints. If this is not the case, or if you're at risk of exceeding your maximum willingness to pay, you might instead choose to 'pass'. However, based on the assumption of having room and potential value, I suggest you:
+
+Bid.",270
+2024-11-26 01:03:43,Buyer_4,pass,270
+2024-11-26 01:03:44,Buyer_5,bid,270
+2024-11-26 01:03:44,Buyer_6,bid,270
+2024-11-26 01:03:46,Buyer_7,"In a common value auction, all bidders are trying to estimate the same true value of the item, but they may have different pieces of information about it. With a budget of $375 and the current price at $270, there is room to place a bid without exceeding your budget. If you believe the item is worth more than the current price and the potential for profit justifies the risk, you should consider bidding. Thus, the next action would be to:
+
+'bid'",270
+2024-11-26 01:03:47,Buyer_8,bid,270
+2024-11-26 01:03:48,Buyer_9,"Since your budget is $325 and the current price is $270, you can afford to place a bid. Therefore, your next action should be 'bid'.",270
+2024-11-26 01:03:48,Auctioneer,The current bid is $280. Do I hear any advance on $280?,280
+2024-11-26 01:03:48,Buyer_0,bid,280
+2024-11-26 01:03:49,Buyer_1,bid,280
+2024-11-26 01:03:49,Buyer_2,Bid,280
+2024-11-26 01:03:50,Buyer_3,bid,280
+2024-11-26 01:03:50,Buyer_4,bid,280
+2024-11-26 01:03:52,Buyer_5,"Given that your budget is $425 and the current price is $280, you have sufficient funds to place a bid. In a common value auction, where the item has the same value for everyone, your decision to bid should consider your estimate of the item's actual value and the likelihood of other participants' valuations.
+
+If you believe the item's value is significantly higher than the current price and there could be advantages to securing it early, then you might choose to 'bid'. However, if you're uncertain about the actual value being higher than your budget allows or anticipate that the price might soon exceed what you can afford, you might decide to 'pass'.
+
+Without specific information about the item's value, a general strategy when you still have ample budget would be to 'bid'.",280
+2024-11-26 01:03:56,Buyer_6,"As Buyer_6, given that your budget is $400 and the current price is $280, you have enough budget to place a bid. In a common value auction, it's important to consider how the item’s value might be perceived by other bidders. If you believe the item's true common value is substantially higher than the current price, it might be beneficial to bid now.
+
+Therefore, considering you have room in your budget and assuming a higher anticipated value of the item, your next action should be to 'bid'.",280
+2024-11-26 01:03:56,Buyer_7,Bid,280
+2024-11-26 01:03:56,Buyer_8,bid,280
+2024-11-26 01:03:57,Buyer_9,Bid,280
+2024-11-26 01:03:57,Auctioneer,The current bid is $290. Do I hear any advance on $290?,290
+2024-11-26 01:03:57,Buyer_0,bid,290
+2024-11-26 01:03:58,Buyer_1,Bid,290
+2024-11-26 01:03:58,Buyer_2,bid,290
+2024-11-26 01:03:58,Buyer_3,Bid,290
+2024-11-26 01:03:59,Buyer_4,Bid,290
+2024-11-26 01:03:59,Buyer_5,bid,290
+2024-11-26 01:04:00,Buyer_6,bid,290
+2024-11-26 01:04:00,Buyer_7,bid,290
+2024-11-26 01:04:01,Buyer_8,Bid.,290
+2024-11-26 01:04:01,Buyer_9,bid,290
+2024-11-26 01:04:01,Auctioneer,The current bid is $300. Do I hear any advance on $300?,300
+2024-11-26 01:04:03,Buyer_0,"Based on the current state of the auction, where the current price is $300 and my budget is $550, my next action would be to 'bid'. This is because the current price is well within my budget, and it allows me the opportunity to potentially acquire the item at a favorable price.",300
+2024-11-26 01:04:03,Buyer_1,Bid,300
+2024-11-26 01:04:03,Buyer_2,bid,300
+2024-11-26 01:04:04,Buyer_3,bid,300
+2024-11-26 01:04:04,Buyer_4,bid,300
+2024-11-26 01:04:04,Buyer_5,bid,300
+2024-11-26 01:04:05,Buyer_6,Bid,300
+2024-11-26 01:04:05,Buyer_7,Bid,300
+2024-11-26 01:04:05,Buyer_8,bid,300
+2024-11-26 01:04:06,Buyer_9,bid,300
+2024-11-26 01:04:06,Auctioneer,The current bid is $310. Do I hear any advance on $310?,310
+2024-11-26 01:04:06,Buyer_0,bid,310
+2024-11-26 01:04:06,Buyer_1,Bid,310
+2024-11-26 01:04:07,Buyer_2,Bid,310
+2024-11-26 01:04:09,Buyer_3,"Given the current price of $310 and your budget of $475, you still have room to place a bid. In a common value auction, it’s important to consider the estimated value of the item when making decisions. Without additional information about the estimated value of the item, the rational choice would be to bid if the item is perceived as valuable and potentially higher than the current price. Therefore, if you believe the item value exceeds the current price and is worth pursuing within your budget, your next action should be to 'bid.'",310
+2024-11-26 01:04:09,Buyer_4,bid,310
+2024-11-26 01:04:10,Buyer_5,bid,310
+2024-11-26 01:04:10,Buyer_6,bid,310
+2024-11-26 01:04:12,Buyer_7,"Given your budget of $375 and the current price of $310, you have enough budget to place a bid in the auction. Therefore, your next action should be to 'bid'.",310
+2024-11-26 01:04:12,Buyer_8,bid,310
+2024-11-26 01:04:12,Buyer_9,pass,310
+2024-11-26 01:04:12,Auctioneer,The current bid is $320. Do I hear any advance on $320?,320
+2024-11-26 01:04:13,Buyer_0,bid,320
+2024-11-26 01:04:13,Buyer_1,bid,320
+2024-11-26 01:04:14,Buyer_2,bid,320
+2024-11-26 01:04:15,Buyer_3,bid,320
+2024-11-26 01:04:15,Buyer_4,bid,320
+2024-11-26 01:04:16,Buyer_5,bid,320
+2024-11-26 01:04:16,Buyer_6,bid,320
+2024-11-26 01:04:18,Buyer_7,"Given your budget of $375 and the current price of $320, you have the option to place a bid, assuming the bid increment doesn't push the price above your budget. Without specific information on bid increments or other auction dynamics like estimating a common value, the decision is balanced between potentially winning the item and staying within financial constraints.
+
+Since the current price is within your budget and there may still be room to increase your bid without exceeding $375, your next action would be to 'bid'.",320
+2024-11-26 01:04:18,Buyer_8,Pass.,320
+2024-11-26 01:04:19,Buyer_9,Pass,320
+2024-11-26 01:04:19,Auctioneer,The current bid is $330. Do I hear any advance on $330?,330
+2024-11-26 01:04:21,Buyer_0,"Given your budget of $550 and the current price of $330, you still have room to place a bid. Since this is a common value auction and the current price is within your budget, it could be beneficial to bid in order to have a chance at winning the item as long as you perceive the item's value to be above the current price.
+
+Therefore, your next action should be: 'bid'.",330
+2024-11-26 01:04:22,Buyer_1,bid,330
+2024-11-26 01:04:23,Buyer_2,"In a common value auction, the item has the same value for everyone, but the bidders may have different estimates of that value. Given the current price of $330 and a budget of $500, as Buyer_2, you would still have room to bid if you believe the value of the auction item exceeds the current price and fits within your budget. Thus, you should 'bid'.",330
+2024-11-26 01:04:24,Buyer_3,bid,330
+2024-11-26 01:04:24,Buyer_4,bid,330
+2024-11-26 01:04:25,Buyer_5,bid,330
+2024-11-26 01:04:25,Buyer_6,Bid.,330
+2024-11-26 01:04:28,Buyer_7,Bid,330
+2024-11-26 01:04:28,Buyer_8,bid,330
+2024-11-26 01:04:28,Buyer_9,pass,330
+2024-11-26 01:04:28,Auctioneer,The current bid is $340. Do I hear any advance on $340?,340
+2024-11-26 01:04:29,Buyer_0,bid,340
+2024-11-26 01:04:30,Buyer_1,"In a common value auction, all bidders have the same value for the item, but they may estimate it differently. Given that your budget is $525 and the current price is $340, you still have enough room to place a bid if you believe the item's value to you is greater than the current price. Thus, your next action should be to 'bid'.",340
+2024-11-26 01:04:31,Buyer_2,bid,340
+2024-11-26 01:04:32,Buyer_3,"Under these auction conditions, your budget is $475 and the current price is $340. Assuming that the item is valued the same by all participants in the auction and you believe this value exceeds the current price, it would be reasonable to continue participating in the auction. Therefore, your next action should be to 'bid'.",340
+2024-11-26 01:04:33,Buyer_4,bid,340
+2024-11-26 01:04:35,Buyer_5,"Given that the current price in the auction is $340 and your budget is $425, you have enough budget to place a higher bid if you believe the item’s value is greater than $340 and worth pursuing. Since this is a common value auction, if there is general consensus that the item is worth significantly more, it might be advisable to bid. However, it's also important to be cautious and not exceed the item's perceived true value.
+
+If you've assessed that the item is likely worth more than the current price and still within your budget constraints while providing value, you should choose to 'bid'. On the other hand, if you believe the true value is not much higher than $340 or you suspect a risk of winner's curse (paying more than the item's worth due to overbidding), you may consider choosing to 'pass'.
+
+Using the general assumption of the potential underlying value being greater and the remaining budget, the next action would be:
+
+'bid'",340
+2024-11-26 01:04:35,Buyer_6,bid,340
+2024-11-26 01:04:36,Buyer_7,bid,340
+2024-11-26 01:04:36,Buyer_8,Pass.,340
+2024-11-26 01:04:37,Buyer_9,Pass,340
+2024-11-26 01:04:37,Auctioneer,The current bid is $350. Do I hear any advance on $350?,350
+2024-11-26 01:04:37,Buyer_0,bid,350
+2024-11-26 01:04:37,Buyer_1,Bid,350
+2024-11-26 01:04:38,Buyer_2,Bid,350
+2024-11-26 01:04:38,Buyer_3,bid,350
+2024-11-26 01:04:38,Buyer_4,bid,350
+2024-11-26 01:04:39,Buyer_5,Bid,350
+2024-11-26 01:04:39,Buyer_6,bid,350
+2024-11-26 01:04:40,Buyer_7,bid,350
+2024-11-26 01:04:40,Buyer_8,Pass,350
+2024-11-26 01:04:40,Buyer_9,Pass,350
+2024-11-26 01:04:40,Auctioneer,The current bid is $360. Do I hear any advance on $360?,360
+2024-11-26 01:04:41,Buyer_0,"Based on the information provided and the budget constraint of $550, it would be reasonable to 'bid' in the auction since the current price of $360 is below your budget.",360
+2024-11-26 01:04:42,Buyer_1,"Given that your budget is $525 and the current price is $360, you can afford to place a bid. In a common value auction, assuming the item's value is perceived to be higher than $360 and within your budget, it would make sense to bid. Thus, your next action should be 'bid'.",360
+2024-11-26 01:04:43,Buyer_2,bid,360
+2024-11-26 01:04:43,Buyer_3,bid,360
+2024-11-26 01:04:43,Buyer_4,bid,360
+2024-11-26 01:04:44,Buyer_5,bid,360
+2024-11-26 01:04:46,Buyer_6,"Given that the current price is $360 and your budget is $400, you are still within your budget. In a common value auction, where the item has the same inherent value to all bidders, it's generally strategic to bid as long as you believe the item's value is higher than the current price and within your budget.
+
+Your next action should be to 'bid'.",360
+2024-11-26 01:04:46,Buyer_7,pass,360
+2024-11-26 01:04:46,Buyer_8,Pass,360
+2024-11-26 01:04:46,Buyer_9,Pass,360
+2024-11-26 01:04:46,Auctioneer,The current bid is $370. Do I hear any advance on $370?,370
+2024-11-26 01:04:47,Buyer_0,"Given your budget of $550 and the current auction price of $370, you should respond with 'bid'.",370
+2024-11-26 01:04:47,Buyer_1,bid,370
+2024-11-26 01:04:49,Buyer_2,"In a common value auction, all bidders have the same value for the item but they may have different information about that value. Given that the current price is $370 and my budget is $500, I still have the ability to place a higher bid. Assuming the common value potentially exceeds the current price and since I can afford it within my budget, my next action would be to 'bid'.",370
+2024-11-26 01:04:50,Buyer_3,bid,370
+2024-11-26 01:04:50,Buyer_4,bid,370
+2024-11-26 01:04:50,Buyer_5,bid,370
+2024-11-26 01:04:51,Buyer_6,bid,370
+2024-11-26 01:04:51,Buyer_7,Pass,370
+2024-11-26 01:04:52,Buyer_8,pass,370
+2024-11-26 01:04:52,Buyer_9,Pass,370
+2024-11-26 01:04:52,Auctioneer,The current bid is $380. Do I hear any advance on $380?,380
+2024-11-26 01:04:52,Buyer_0,Bid,380
+2024-11-26 01:04:54,Buyer_1,"Based on the current auction state, where the price is $380 and my budget is $525, I can afford to place a bid. Therefore, my next action would be to 'bid'.",380
+2024-11-26 01:04:55,Buyer_2,bid,380
+2024-11-26 01:04:56,Buyer_3,"Based on the current auction state and your budget, your next action should be to 'bid'. The current price of $380 is within your budget of $475, so placing a bid is a viable option.",380
+2024-11-26 01:04:56,Buyer_4,bid,380
+2024-11-26 01:04:56,Buyer_5,Bid,380
+2024-11-26 01:04:57,Buyer_6,Bid,380
+2024-11-26 01:04:57,Buyer_7,Pass,380
+2024-11-26 01:04:58,Buyer_8,Pass.,380
+2024-11-26 01:04:59,Buyer_9,Pass,380
+2024-11-26 01:04:59,Auctioneer,The current bid is $390. Do I hear any advance on $390?,390
+2024-11-26 01:04:59,Buyer_0,bid,390
+2024-11-26 01:04:59,Buyer_1,bid,390
+2024-11-26 01:04:59,Buyer_2,bid,390
+2024-11-26 01:05:00,Buyer_3,Bid,390
+2024-11-26 01:05:03,Buyer_4,"In a common value auction, the value of the item is the same for all buyers, but this value is uncertain. Since your budget is $450 and the current price is $390, you have the financial capability to place a higher bid.
+
+However, making a decision in a common value auction involves considering not just your budget, but also the potential true value of the item and the likelihood of winning. If the perceived value is significantly greater than $390 and staying within your budget, it might be advantageous to bid. If you think others perceive it as worth more and bidding will exceed your budget or exceed the perceived value, then it might be better to pass.
+
+Given your current capacity to bid without exceeding your budget and assuming the true value seems to be significantly above $390, my recommendation is to 'bid'.",390
+2024-11-26 01:05:04,Buyer_5,bid,390
+2024-11-26 01:05:05,Buyer_6,pass,390
+2024-11-26 01:05:05,Buyer_7,Pass.,390
+2024-11-26 01:05:05,Buyer_8,Pass,390
+2024-11-26 01:05:06,Buyer_9,Pass,390
+2024-11-26 01:05:06,Auctioneer,The current bid is $400. Do I hear any advance on $400?,400
+2024-11-26 01:05:06,Buyer_0,bid,400
+2024-11-26 01:05:07,Buyer_1,bid,400
+2024-11-26 01:05:07,Buyer_2,My next action is: bid.,400
+2024-11-26 01:05:09,Buyer_3,"In a common value auction, all buyers have the same value for the item but they may have different estimates of that value. Since your budget is $475 and the current price is $400, you can afford to place a bid within your budget. Assuming that your estimate of the item's value is greater than the current price and considering your maximum budget, your rational decision would be to 'bid'.",400
+2024-11-26 01:05:09,Buyer_4,bid,400
+2024-11-26 01:05:09,Buyer_5,bid,400
+2024-11-26 01:05:10,Buyer_6,pass,400
+2024-11-26 01:05:10,Buyer_7,pass,400
+2024-11-26 01:05:10,Buyer_8,Pass,400
+2024-11-26 01:05:11,Buyer_9,Pass.,400
+2024-11-26 01:05:11,Auctioneer,The current bid is $410. Do I hear any advance on $410?,410
+2024-11-26 01:05:11,Buyer_0,bid,410
+2024-11-26 01:05:12,Buyer_1,bid,410
+2024-11-26 01:05:12,Buyer_2,bid,410
+2024-11-26 01:05:14,Buyer_3,"Since you are participating in a common value auction, it is important to make strategic decisions based on both the current price and your available budget. Given that the current price is $410 and your budget is $475, you have enough budget to place a bid above the current price. However, you should also consider the perceived value of the item and whether placing a bid now would potentially outbid other participants and maximize your chances of winning while staying within your budget.
+
+Assuming you perceive the value to exceed $410 and considering your budget allows for at least one more bid increment, your strategic action would be to 'bid'. However, if you have reasons to believe that bidding further could exceed the common value or lead to overpayment, a strategic 'pass' might be considered. But given just the information provided, your next action should be to 'bid'.",410
+2024-11-26 01:05:14,Buyer_4,Bid,410
+2024-11-26 01:05:14,Buyer_5,Bid,410
+2024-11-26 01:05:14,Buyer_6,pass,410
+2024-11-26 01:05:15,Buyer_7,pass,410
+2024-11-26 01:05:16,Buyer_8,Pass.,410
+2024-11-26 01:05:16,Buyer_9,pass,410
+2024-11-26 01:05:16,Auctioneer,The current bid is $420. Do I hear any advance on $420?,420
+2024-11-26 01:05:16,Buyer_0,bid,420
+2024-11-26 01:05:17,Buyer_1,Bid,420
+2024-11-26 01:05:17,Buyer_2,bid,420
+2024-11-26 01:05:18,Buyer_3,bid,420
+2024-11-26 01:05:18,Buyer_4,Bid,420
+2024-11-26 01:05:18,Buyer_5,Pass,420
+2024-11-26 01:05:19,Buyer_6,pass,420
+2024-11-26 01:05:19,Buyer_7,Pass,420
+2024-11-26 01:05:19,Buyer_8,pass,420
+2024-11-26 01:05:20,Buyer_9,pass,420
+2024-11-26 01:05:20,Auctioneer,The current bid is $430. Do I hear any advance on $430?,430
+2024-11-26 01:05:21,Buyer_0,"Based on the auction state where the current price is $430 and considering that your budget is $550, the next action is to 'bid'. You have sufficient budget to place a bid above the current price.",430
+2024-11-26 01:05:22,Buyer_1,"In a common value auction, all bidders have the same valuation of the item, but they might not know exactly what that value is. Given your budget of $525 and the current price of $430, it would make sense to continue participating in the auction unless you believe the true value is lower than the current price. Since the current price is within your budget, the strategic decision would be to 'bid', assuming the perceived value is higher than $430 and close to your budget.",430
+2024-11-26 01:05:23,Buyer_2,bid,430
+2024-11-26 01:05:23,Buyer_3,Bid,430
+2024-11-26 01:05:23,Buyer_4,bid,430
+2024-11-26 01:05:24,Buyer_5,Pass,430
+2024-11-26 01:05:25,Buyer_6,Pass,430
+2024-11-26 01:05:25,Buyer_7,pass,430
+2024-11-26 01:05:25,Buyer_8,Pass,430
+2024-11-26 01:05:26,Buyer_9,Pass,430
+2024-11-26 01:05:26,Auctioneer,The current bid is $440. Do I hear any advance on $440?,440
+2024-11-26 01:05:26,Buyer_0,bid,440
+2024-11-26 01:05:27,Buyer_1,Bid,440
+2024-11-26 01:05:27,Buyer_2,bid,440
+2024-11-26 01:05:27,Buyer_3,Bid,440
+2024-11-26 01:05:28,Buyer_4,Pass.,440
+2024-11-26 01:05:28,Buyer_5,Pass,440
+2024-11-26 01:05:28,Buyer_6,Pass,440
+2024-11-26 01:05:29,Buyer_7,pass,440
+2024-11-26 01:05:29,Buyer_8,pass,440
+2024-11-26 01:05:29,Buyer_9,pass,440
+2024-11-26 01:05:29,Auctioneer,The current bid is $450. Do I hear any advance on $450?,450
+2024-11-26 01:05:30,Buyer_0,"Since the current price of $450 is within your budget of $550, your next action should be to 'bid'.",450
+2024-11-26 01:05:30,Buyer_1,Bid,450
+2024-11-26 01:05:31,Buyer_2,bid,450
+2024-11-26 01:05:31,Buyer_3,bid,450
+2024-11-26 01:05:32,Buyer_4,pass,450
+2024-11-26 01:05:32,Buyer_5,Pass,450
+2024-11-26 01:05:32,Buyer_6,Pass,450
+2024-11-26 01:05:33,Buyer_7,pass,450
+2024-11-26 01:05:34,Buyer_8,pass,450
+2024-11-26 01:05:34,Buyer_9,Pass.,450
+2024-11-26 01:05:34,Auctioneer,The current bid is $460. Do I hear any advance on $460?,460
+2024-11-26 01:05:35,Buyer_0,Bid,460
+2024-11-26 01:05:35,Buyer_1,bid,460
+2024-11-26 01:05:35,Buyer_2,Pass.,460
+2024-11-26 01:05:36,Buyer_3,Pass.,460
+2024-11-26 01:05:36,Buyer_4,Pass,460
+2024-11-26 01:05:37,Buyer_5,Pass,460
+2024-11-26 01:05:37,Buyer_6,Pass.,460
+2024-11-26 01:05:37,Buyer_7,pass,460
+2024-11-26 01:05:38,Buyer_8,pass,460
+2024-11-26 01:05:38,Buyer_9,Pass,460
+2024-11-26 01:05:38,Auctioneer,The current bid is $470. Do I hear any advance on $470?,470
+2024-11-26 01:05:38,Buyer_0,bid,470
+2024-11-26 01:05:39,Buyer_1,bid,470
+2024-11-26 01:05:39,Buyer_2,Pass,470
+2024-11-26 01:05:40,Buyer_3,Bid,470
+2024-11-26 01:05:40,Buyer_4,pass,470
+2024-11-26 01:05:40,Buyer_5,Pass,470
+2024-11-26 01:05:41,Buyer_6,Pass.,470
+2024-11-26 01:05:41,Buyer_7,pass,470
+2024-11-26 01:05:42,Buyer_8,pass,470
+2024-11-26 01:05:42,Buyer_9,Pass,470
+2024-11-26 01:05:42,Auctioneer,The current bid is $480. Do I hear any advance on $480?,480
+2024-11-26 01:05:42,Buyer_0,bid,480
+2024-11-26 01:05:43,Buyer_1,"Given the auction state and your budget, your next action should be to 'bid' because the current price of $480 is within your budget of $525.",480
+2024-11-26 01:05:44,Buyer_2,Bid.,480
+2024-11-26 01:05:44,Buyer_3,Pass.,480
+2024-11-26 01:05:44,Buyer_4,Pass,480
+2024-11-26 01:05:45,Buyer_5,Pass,480
+2024-11-26 01:05:45,Buyer_6,pass,480
+2024-11-26 01:05:45,Buyer_7,Pass,480
+2024-11-26 01:05:46,Buyer_8,pass,480
+2024-11-26 01:05:46,Buyer_9,pass,480
+2024-11-26 01:05:46,Auctioneer,The current bid is $490. Do I hear any advance on $490?,490
+2024-11-26 01:05:48,Buyer_0,"Since the current price of $490 is within your budget of $550, and assuming you value the item at or above the current price, your logical next action would be to 'bid'.",490
+2024-11-26 01:05:48,Buyer_1,bid,490
+2024-11-26 01:05:49,Buyer_2,Pass,490
+2024-11-26 01:05:49,Buyer_3,Pass,490
+2024-11-26 01:05:49,Buyer_4,pass,490
+2024-11-26 01:05:50,Buyer_5,Pass,490
+2024-11-26 01:05:50,Buyer_6,Pass,490
+2024-11-26 01:05:51,Buyer_7,Pass,490
+2024-11-26 01:05:51,Buyer_8,pass,490
+2024-11-26 01:05:52,Buyer_9,pass,490
+2024-11-26 01:05:52,Auctioneer,The current bid is $500. Do I hear any advance on $500?,500
+2024-11-26 01:05:52,Buyer_0,bid,500
+2024-11-26 01:05:52,Buyer_1,bid,500
+2024-11-26 01:05:53,Buyer_2,Pass,500
+2024-11-26 01:05:53,Buyer_3,pass,500
+2024-11-26 01:05:53,Buyer_4,pass,500
+2024-11-26 01:05:54,Buyer_5,Pass,500
+2024-11-26 01:05:54,Buyer_6,pass,500
+2024-11-26 01:05:58,Buyer_7,Pass,500
+2024-11-26 01:05:58,Buyer_8,pass,500
+2024-11-26 01:05:58,Buyer_9,pass,500
+2024-11-26 01:05:58,Auctioneer,The current bid is $510. Do I hear any advance on $510?,510
+2024-11-26 01:06:00,Buyer_0,"Given that your budget is $550 and the current price is $510, you have enough budget to place a new bid. To remain competitive in the auction, your best action is to 'bid'.",510
+2024-11-26 01:06:00,Buyer_1,bid,510
+2024-11-26 01:06:00,Buyer_2,Pass,510
+2024-11-26 01:06:01,Buyer_3,pass,510
+2024-11-26 01:06:01,Buyer_4,Pass,510
+2024-11-26 01:06:01,Buyer_5,Pass,510
+2024-11-26 01:06:02,Buyer_6,pass,510
+2024-11-26 01:06:03,Buyer_7,pass,510
+2024-11-26 01:06:03,Buyer_8,pass,510
+2024-11-26 01:06:03,Buyer_9,pass,510
+2024-11-26 01:06:03,Auctioneer,The current bid is $520. Do I hear any advance on $520?,520
+2024-11-26 01:06:04,Buyer_0,Bid,520
+2024-11-26 01:06:04,Buyer_1,Pass,520
+2024-11-26 01:06:04,Buyer_2,Pass,520
+2024-11-26 01:06:05,Buyer_3,Pass,520
+2024-11-26 01:06:05,Buyer_4,Pass,520
+2024-11-26 01:06:05,Buyer_5,pass,520
+2024-11-26 01:06:06,Buyer_6,Pass.,520
+2024-11-26 01:06:06,Buyer_7,pass,520
+2024-11-26 01:06:14,Buyer_8,pass,520
+2024-11-26 01:06:14,Buyer_9,pass,520
+2024-11-26 01:06:14,Auctioneer,The current bid is $530. Do I hear any advance on $530?,530
+2024-11-26 01:06:15,Buyer_0,bid,530
+2024-11-26 01:06:15,Buyer_1,pass,530
+2024-11-26 01:06:15,Buyer_2,pass,530
+2024-11-26 01:06:16,Buyer_3,Pass,530
+2024-11-26 01:06:16,Buyer_4,Pass,530
+2024-11-26 01:06:17,Buyer_5,Pass,530
+2024-11-26 01:06:17,Buyer_6,Pass,530
+2024-11-26 01:06:18,Buyer_7,pass,530
+2024-11-26 01:06:18,Buyer_8,pass,530
+2024-11-26 01:06:20,Buyer_9,"Given that your budget is $325 and the current price is $530, you cannot afford to place a bid. Therefore, the appropriate action is to 'pass'.",530
+2024-11-26 01:06:20,Auctioneer,The current bid is $540. Do I hear any advance on $540?,540
+2024-11-26 01:06:20,Buyer_0,Bid,540
+2024-11-26 01:06:20,Buyer_1,Pass,540
+2024-11-26 01:06:21,Buyer_2,pass,540
+2024-11-26 01:06:21,Buyer_3,Pass,540
+2024-11-26 01:06:21,Buyer_4,Pass,540
+2024-11-26 01:06:22,Buyer_5,"Based on the current auction state, the current price of $540 exceeds your budget of $425. Therefore, your next action should be 'pass'.",540
+2024-11-26 01:06:23,Buyer_6,Pass,540
+2024-11-26 01:06:23,Buyer_7,pass,540
+2024-11-26 01:06:23,Buyer_8,Pass,540
+2024-11-26 01:06:24,Buyer_9,pass,540
+2024-11-26 01:06:24,Auctioneer,The current bid is $550. Do I hear any advance on $550?,550
+2024-11-26 01:06:24,Buyer_0,pass,550
+2024-11-26 01:06:24,Buyer_1,Pass,550
+2024-11-26 01:06:25,Buyer_2,pass,550
+2024-11-26 01:06:26,Buyer_3,Pass,550
+2024-11-26 01:06:26,Buyer_4,Pass,550
+2024-11-26 01:06:26,Buyer_5,Pass,550
+2024-11-26 01:06:26,Buyer_6,pass,550
+2024-11-26 01:06:27,Buyer_7,pass,550
+2024-11-26 01:06:27,Buyer_8,pass,550
+2024-11-26 01:06:28,Buyer_9,pass,550
+2024-11-26 01:06:28,Auctioneer,Buyer_0 pays $540,550
+2024-11-26 01:06:28,Auctioneer,Buyer_1 pays $510,550
+2024-11-26 01:06:28,Auctioneer,Buyer_2 pays $450,550
+2024-11-26 01:06:28,Auctioneer,Buyer_3 pays $470,550
+2024-11-26 01:06:28,Auctioneer,Buyer_4 pays $430,550
+2024-11-26 01:06:28,Auctioneer,Buyer_5 pays $410,550
+2024-11-26 01:06:28,Auctioneer,Buyer_6 pays $380,550
+2024-11-26 01:06:28,Auctioneer,Buyer_7 pays $350,550
+2024-11-26 01:06:28,Auctioneer,Buyer_8 pays $330,550
+2024-11-26 01:06:28,Auctioneer,Buyer_9 pays $300,550
+2024-11-26 01:06:42,Auctioneer,The current bid is $200. Do I hear any advance on $200?,200
+2024-11-26 01:06:46,Buyer_0,"In a common value auction, the concern is the winner's curse, where the winner tends to overpay relative to the item's actual value since everyone has similar information about its worth. Given that the current price is $200, and your budget is $550, you need to consider the item's estimated value and how much you're willing to pay without exceeding that value or your budget.
+
+To avoid the winner's curse, you should have an estimate of the item's true common value. If the current price of $200 is significantly below your estimated value, it might be reasonable to place a bid while keeping a margin to ensure you don't overpay. However, if the $200 is close to or exceeds the estimated value, it's better to pass.
+
+Without specific information about the estimated value of the item, and assuming you're cautious about overpaying, the conservative strategy would be to 'pass'. If you have no strong reason to believe there's a significant upside at a higher value than $200, it's safer to avoid bidding.",200
+2024-11-26 01:06:49,Buyer_1,"In a common value auction, the actual value is the same for everyone, but each bidder has different information about it. To avoid the winner's curse, it's important to only bid if you believe the item is worth at least your bid based on your own assessment. Currently, the price is $200 and your budget is $525. You should consider not only bidding but also whether your assessment of the item's value justifies the increase.
+
+Without additional information about the item's value or how much more you are willing to incorporate into your analysis, the safest course of action is to 'pass'. Only bid if you have a strong belief, based on evidence or analysis, that the true value exceeds this price, considering the risk of paying more than it's worth. To act safely with limited information, I recommend you 'pass'.",200
+2024-11-26 01:06:52,Buyer_2,"In a common value auction, avoiding the winner's curse means being cautious about overestimating the true value of the item. Given that the current price is $200 and your budget is $500, you must consider whether the item's true value exceeds the current price. 
+
+Without clear information suggesting the item's value is above $200, the safest action is to 'pass'. This avoids the risk of overpaying based solely on competitive bidding, ensuring you do not fall victim to the winner's curse.",200
+2024-11-26 01:06:55,Buyer_3,"In a common value auction, the actual value of the item is the same for all bidders, but not known at the time of bidding, which could lead to overestimating the value and suffering the winner's curse. Given that my budget is $475 and the current price is $200, I should carefully consider whether the estimated common value is substantially higher than the current price and within my budget. Assuming I do not have enough information to confidently assess the common value being significantly higher than $200, it might be wise to opt for caution and avoid overbidding. Thus, my action would be to 'pass'.",200
+2024-11-26 01:06:59,Buyer_4,"In a common value auction, especially when concerned about the winner's curse, it is important to consider whether the current price is reflective of your estimate of the item's true value. Since the true value is common but unknown, avoid bidding unless you have a strong reason to believe that the item's true value exceeds the current price and offers a sufficient margin to prevent overpaying.
+
+Given the current price is $200 and your budget is $450, it's still within your affordable range. However, without additional information or confidence concerning the common value, it may be prudent to be cautious. If you have an estimate that the common value is significantly higher than $200, you could consider bidding. Otherwise, it may be best to wait for more information or pass.
+
+Based on the desire to avoid the winner's curse and the current information, the safest option is:
+'pass'.",200
+2024-11-26 01:07:02,Buyer_5,"In a common value auction, my goal is to avoid the winner's curse, which occurs when the winning bid exceeds the item's actual value. Given that the current price is $200 and my budget is $425, I should carefully consider whether the item is worth more than the current price and how likely it is that my estimate of its value aligns with its actual value. If I believe the item's actual value is significantly higher than $200 and my maximum budget allows for it, I could choose to bid. However, without more information about the item's estimated value, it's generally safer to wait and gather more data before making a decision. Thus, at this stage, my next action is 'pass'.",200
+2024-11-26 01:07:04,Buyer_6,"In a common value auction, it's important to consider the risk of overestimating the value of the item and falling victim to the winner's curse, where the winner ends up overpaying.
+
+Given the current price is $200 and your budget is $400, you have enough budget to make a bid. However, you should only bid if you are confident that the value of the item is significantly higher than $200 to justify the risk.
+
+Since you want to avoid overpaying, it would be prudent to pass at this stage unless you have reliable information that suggests the item's true value is comfortably higher than $200. Therefore, your next action should be: 
+
+'pass'.",200
+2024-11-26 01:07:08,Buyer_7,"In a common value auction, all bidders are essentially trying to estimate the value of an item that is the same for everyone, but each bidder may have different pieces of information. To avoid the winner's curse, it's crucial not to bid beyond a reasonable estimate of the item's actual value. Your budget is $375, and the current price is $200.
+
+Before deciding, consider whether you have enough information to accurately estimate the item's value. Since your goal is to avoid overpaying and your budget is only $375, if there is any uncertainty about the item's true value being substantially higher than $200, it might be prudent to pass, especially since the gap between the current price and your budget is narrowing, providing less margin for error.
+
+Therefore, based on wanting to avoid the winner's curse, if you don't have strong evidence that the item is worth significantly more than the current price, the cautious move at this point would be to 'pass'.",200
+2024-11-26 01:07:12,Buyer_8,"In a common value auction, the item has the same value for everyone, but bidders have different estimates of that value. The winner's curse occurs when the winning bidder overpays because they overestimate the item's value.
+
+Given the current price is $200 and my budget is $350, the key is to avoid overpaying based on an overestimation. Assuming I also have an estimate or valuation in mind for the item's true value, I should only bid if my valuation is greater than the current price and leaves me with a comfortable margin below my budget.
+
+Since the specifics of my valuation are not provided, a cautious approach is to assess whether $200 is comfortably below my valuation of the item's true worth. Since my objective is to not overpay, if there is any uncertainty or lack of information about the true value being significantly higher than $200, it is safer to 'pass' at this stage.
+
+Therefore, my next action is to:
+
+'pass'",200
+2024-11-26 01:07:16,Buyer_9,"In a common value auction, there's a risk of suffering the winner's curse, which occurs when the winner overpays for an item due to overestimating its value. Given the current auction state with a price of $200 and your budget of $325, you should carefully consider whether the item’s estimated value justifies a higher bid.
+
+To avoid the winner's curse, it's crucial to have an accurate valuation of the item. If your estimated value of the item is significantly higher than $200, you could consider bidding. However, if you're uncertain about its value or if your estimate is at or near the current price, passing might be the safer option to avoid overpaying.
+
+If you do not have enough information to confidently value the item above the current price, it would be wise to 'pass'.",200
+2024-11-26 01:08:24,Auctioneer,The current bid is $100. Do I hear any advance on $100?,100
+2024-11-26 01:08:24,Buyer_0,bid,100
+2024-11-26 01:08:25,Buyer_1,pass,100
+2024-11-26 01:08:25,Buyer_2,pass,100
+2024-11-26 01:08:25,Buyer_3,bid,100
+2024-11-26 01:08:26,Buyer_4,bid,100
+2024-11-26 01:08:27,Buyer_5,bid,100
+2024-11-26 01:08:27,Buyer_6,bid,100
+2024-11-26 01:08:27,Buyer_7,bid,100
+2024-11-26 01:08:28,Buyer_8,bid,100
+2024-11-26 01:08:28,Buyer_9,bid,100
+2024-11-26 01:08:28,Auctioneer,The current bid is $110. Do I hear any advance on $110?,110
+2024-11-26 01:08:29,Buyer_0,bid,110
+2024-11-26 01:08:29,Buyer_1,bid,110
+2024-11-26 01:08:30,Buyer_2,pass,110
+2024-11-26 01:08:30,Buyer_3,bid,110
+2024-11-26 01:08:30,Buyer_4,bid,110
+2024-11-26 01:08:31,Buyer_5,bid,110
+2024-11-26 01:08:31,Buyer_6,pass,110
+2024-11-26 01:08:31,Buyer_7,bid,110
+2024-11-26 01:08:32,Buyer_8,bid,110
+2024-11-26 01:08:32,Buyer_9,pass,110
+2024-11-26 01:08:32,Auctioneer,The current bid is $120. Do I hear any advance on $120?,120
+2024-11-26 01:08:33,Buyer_0,bid,120
+2024-11-26 01:08:33,Buyer_1,bid,120
+2024-11-26 01:08:33,Buyer_2,bid,120
+2024-11-26 01:08:34,Buyer_3,bid,120
+2024-11-26 01:08:34,Buyer_4,bid,120
+2024-11-26 01:08:34,Buyer_5,bid,120
+2024-11-26 01:08:35,Buyer_6,bid,120
+2024-11-26 01:08:35,Buyer_7,pass,120
+2024-11-26 01:08:35,Buyer_8,pass,120
+2024-11-26 01:08:36,Buyer_9,bid,120
+2024-11-26 01:08:36,Auctioneer,The current bid is $130. Do I hear any advance on $130?,130
+2024-11-26 01:08:37,Buyer_0,bid,130
+2024-11-26 01:08:38,Buyer_1,bid,130
+2024-11-26 01:08:38,Buyer_2,pass,130
+2024-11-26 01:08:38,Buyer_3,bid,130
+2024-11-26 01:08:39,Buyer_4,bid,130
+2024-11-26 01:08:39,Buyer_5,pass,130
+2024-11-26 01:08:40,Buyer_6,bid,130
+2024-11-26 01:08:40,Buyer_7,pass,130
+2024-11-26 01:08:40,Buyer_8,pass,130
+2024-11-26 01:08:41,Buyer_9,bid,130
+2024-11-26 01:08:41,Auctioneer,The current bid is $140. Do I hear any advance on $140?,140
+2024-11-26 01:08:41,Buyer_0,bid,140
+2024-11-26 01:08:42,Buyer_1,pass,140
+2024-11-26 01:08:42,Buyer_2,bid,140
+2024-11-26 01:08:42,Buyer_3,bid,140
+2024-11-26 01:08:43,Buyer_4,pass,140
+2024-11-26 01:08:43,Buyer_5,bid,140
+2024-11-26 01:08:43,Buyer_6,pass,140
+2024-11-26 01:08:44,Buyer_7,pass,140
+2024-11-26 01:08:44,Buyer_8,bid,140
+2024-11-26 01:08:44,Buyer_9,bid,140
+2024-11-26 01:08:44,Auctioneer,The current bid is $150. Do I hear any advance on $150?,150
+2024-11-26 01:08:45,Buyer_0,bid,150
+2024-11-26 01:08:45,Buyer_1,bid,150
+2024-11-26 01:08:45,Buyer_2,pass,150
+2024-11-26 01:08:46,Buyer_3,bid,150
+2024-11-26 01:08:46,Buyer_4,bid,150
+2024-11-26 01:08:46,Buyer_5,bid,150
+2024-11-26 01:08:47,Buyer_6,pass,150
+2024-11-26 01:08:47,Buyer_7,pass,150
+2024-11-26 01:08:48,Buyer_8,pass,150
+2024-11-26 01:08:48,Buyer_9,bid,150
+2024-11-26 01:08:48,Auctioneer,The current bid is $160. Do I hear any advance on $160?,160
+2024-11-26 01:08:48,Buyer_0,bid,160
+2024-11-26 01:08:49,Buyer_1,bid,160
+2024-11-26 01:08:49,Buyer_2,bid,160
+2024-11-26 01:08:49,Buyer_3,bid,160
+2024-11-26 01:08:50,Buyer_4,bid,160
+2024-11-26 01:08:50,Buyer_5,pass,160
+2024-11-26 01:08:50,Buyer_6,pass,160
+2024-11-26 01:08:51,Buyer_7,bid,160
+2024-11-26 01:08:51,Buyer_8,pass,160
+2024-11-26 01:08:52,Buyer_9,pass,160
+2024-11-26 01:08:52,Auctioneer,The current bid is $170. Do I hear any advance on $170?,170
+2024-11-26 01:08:52,Buyer_0,bid,170
+2024-11-26 01:08:52,Buyer_1,bid,170
+2024-11-26 01:08:53,Buyer_2,bid,170
+2024-11-26 01:08:53,Buyer_3,bid,170
+2024-11-26 01:08:53,Buyer_4,bid,170
+2024-11-26 01:08:54,Buyer_5,bid,170
+2024-11-26 01:08:55,Buyer_6,bid,170
+2024-11-26 01:08:55,Buyer_7,pass,170
+2024-11-26 01:08:55,Buyer_8,pass,170
+2024-11-26 01:08:56,Buyer_9,pass,170
+2024-11-26 01:08:56,Auctioneer,The current bid is $180. Do I hear any advance on $180?,180
+2024-11-26 01:08:56,Buyer_0,bid,180
+2024-11-26 01:08:57,Buyer_1,bid,180
+2024-11-26 01:08:57,Buyer_2,pass,180
+2024-11-26 01:08:58,Buyer_3,bid,180
+2024-11-26 01:08:58,Buyer_4,bid,180
+2024-11-26 01:08:58,Buyer_5,pass,180
+2024-11-26 01:08:59,Buyer_6,pass,180
+2024-11-26 01:08:59,Buyer_7,pass,180
+2024-11-26 01:09:00,Buyer_8,pass,180
+2024-11-26 01:09:00,Buyer_9,pass,180
+2024-11-26 01:09:00,Auctioneer,The current bid is $190. Do I hear any advance on $190?,190
+2024-11-26 01:09:01,Buyer_0,bid,190
+2024-11-26 01:09:01,Buyer_1,bid,190
+2024-11-26 01:09:01,Buyer_2,pass,190
+2024-11-26 01:09:02,Buyer_3,bid,190
+2024-11-26 01:09:02,Buyer_4,bid,190
+2024-11-26 01:09:03,Buyer_5,bid,190
+2024-11-26 01:09:03,Buyer_6,pass,190
+2024-11-26 01:09:03,Buyer_7,pass,190
+2024-11-26 01:09:04,Buyer_8,pass,190
+2024-11-26 01:09:04,Buyer_9,pass,190
+2024-11-26 01:09:04,Auctioneer,The current bid is $200. Do I hear any advance on $200?,200
+2024-11-26 01:09:04,Buyer_0,bid,200
+2024-11-26 01:09:05,Buyer_1,bid,200
+2024-11-26 01:09:05,Buyer_2,pass,200
+2024-11-26 01:09:05,Buyer_3,bid,200
+2024-11-26 01:09:06,Buyer_4,pass,200
+2024-11-26 01:09:06,Buyer_5,pass,200
+2024-11-26 01:09:06,Buyer_6,pass,200
+2024-11-26 01:09:07,Buyer_7,pass,200
+2024-11-26 01:09:07,Buyer_8,pass,200
+2024-11-26 01:09:07,Buyer_9,pass,200
+2024-11-26 01:09:07,Auctioneer,The current bid is $210. Do I hear any advance on $210?,210
+2024-11-26 01:09:08,Buyer_0,pass,210
+2024-11-26 01:09:08,Buyer_1,pass,210
+2024-11-26 01:09:09,Buyer_2,pass,210
+2024-11-26 01:09:09,Buyer_3,pass,210
+2024-11-26 01:09:09,Buyer_4,pass,210
+2024-11-26 01:09:10,Buyer_5,bid,210
+2024-11-26 01:09:10,Buyer_6,pass,210
+2024-11-26 01:09:10,Buyer_7,pass,210
+2024-11-26 01:09:11,Buyer_8,pass,210
+2024-11-26 01:09:11,Buyer_9,bid,210
+2024-11-26 01:09:11,Auctioneer,The current bid is $220. Do I hear any advance on $220?,220
+2024-11-26 01:09:12,Buyer_0,bid,220
+2024-11-26 01:09:12,Buyer_1,bid,220
+2024-11-26 01:09:12,Buyer_2,pass,220
+2024-11-26 01:09:12,Buyer_3,pass,220
+2024-11-26 01:09:13,Buyer_4,pass,220
+2024-11-26 01:09:13,Buyer_5,pass,220
+2024-11-26 01:09:13,Buyer_6,pass,220
+2024-11-26 01:09:14,Buyer_7,pass,220
+2024-11-26 01:09:14,Buyer_8,pass,220
+2024-11-26 01:09:14,Buyer_9,pass,220
+2024-11-26 01:09:14,Auctioneer,The current bid is $230. Do I hear any advance on $230?,230
+2024-11-26 01:09:15,Buyer_0,bid,230
+2024-11-26 01:09:15,Buyer_1,pass,230
+2024-11-26 01:09:16,Buyer_2,pass,230
+2024-11-26 01:09:16,Buyer_3,pass,230
+2024-11-26 01:09:16,Buyer_4,bid,230
+2024-11-26 01:09:17,Buyer_5,pass,230
+2024-11-26 01:09:17,Buyer_6,pass,230
+2024-11-26 01:09:18,Buyer_7,pass,230
+2024-11-26 01:09:18,Buyer_8,pass,230
+2024-11-26 01:09:18,Buyer_9,pass,230
+2024-11-26 01:09:18,Auctioneer,The current bid is $240. Do I hear any advance on $240?,240
+2024-11-26 01:09:19,Buyer_0,pass,240
+2024-11-26 01:09:19,Buyer_1,pass,240
+2024-11-26 01:09:19,Buyer_2,pass,240
+2024-11-26 01:09:20,Buyer_3,bid,240
+2024-11-26 01:09:20,Buyer_4,pass,240
+2024-11-26 01:09:20,Buyer_5,pass,240
+2024-11-26 01:09:21,Buyer_6,pass,240
+2024-11-26 01:09:21,Buyer_7,pass,240
+2024-11-26 01:09:22,Buyer_8,pass,240
+2024-11-26 01:09:22,Buyer_9,pass,240
+2024-11-26 01:09:22,Auctioneer,The current bid is $250. Do I hear any advance on $250?,250
+2024-11-26 01:09:23,Buyer_0,bid,250
+2024-11-26 01:09:23,Buyer_1,bid,250
+2024-11-26 01:09:23,Buyer_2,pass,250
+2024-11-26 01:09:23,Buyer_3,bid,250
+2024-11-26 01:09:24,Buyer_4,pass,250
+2024-11-26 01:09:24,Buyer_5,pass,250
+2024-11-26 01:09:25,Buyer_6,pass,250
+2024-11-26 01:09:25,Buyer_7,pass,250
+2024-11-26 01:09:25,Buyer_8,pass,250
+2024-11-26 01:09:26,Buyer_9,pass,250
+2024-11-26 01:09:26,Auctioneer,The current bid is $260. Do I hear any advance on $260?,260
+2024-11-26 01:09:26,Buyer_0,pass,260
+2024-11-26 01:09:27,Buyer_1,pass,260
+2024-11-26 01:09:27,Buyer_2,pass,260
+2024-11-26 01:09:27,Buyer_3,pass,260
+2024-11-26 01:09:27,Buyer_4,pass,260
+2024-11-26 01:09:28,Buyer_5,pass,260
+2024-11-26 01:09:28,Buyer_6,pass,260
+2024-11-26 01:09:28,Buyer_7,pass,260
+2024-11-26 01:09:31,Buyer_8,pass,260
+2024-11-26 01:09:32,Buyer_9,pass,260
+2024-11-26 01:09:32,Auctioneer,Buyer_0 pays $250,260
+2024-11-26 01:09:32,Auctioneer,Buyer_1 pays $250,260
+2024-11-26 01:09:32,Auctioneer,Buyer_2 pays $170,260
+2024-11-26 01:09:32,Auctioneer,Buyer_3 pays $250,260
+2024-11-26 01:09:32,Auctioneer,Buyer_4 pays $230,260
+2024-11-26 01:09:32,Auctioneer,Buyer_5 pays $210,260
+2024-11-26 01:09:32,Auctioneer,Buyer_6 pays $170,260
+2024-11-26 01:09:32,Auctioneer,Buyer_7 pays $160,260
+2024-11-26 01:09:32,Auctioneer,Buyer_8 pays $140,260
+2024-11-26 01:09:32,Auctioneer,Buyer_9 pays $210,260
+2024-11-26 01:19:11,Auctioneer,The current bid is $100. Do I hear any advance on $100?,100
+2024-11-26 01:19:13,Buyer_0,bid,100
+2024-11-26 01:19:13,Buyer_1,bid,100
+2024-11-26 01:19:13,Buyer_2,pass,100
+2024-11-26 01:19:14,Buyer_3,bid,100
+2024-11-26 01:19:14,Buyer_4,bid,100
+2024-11-26 01:19:15,Buyer_5,bid,100
+2024-11-26 01:19:15,Buyer_6,bid,100
+2024-11-26 01:19:15,Buyer_7,bid,100
+2024-11-26 01:19:16,Buyer_8,bid,100
+2024-11-26 01:19:16,Buyer_9,bid,100
+2024-11-26 01:19:16,Auctioneer,The current bid is $110. Do I hear any advance on $110?,110
+2024-11-26 01:19:16,Buyer_0,bid,110
+2024-11-26 01:19:17,Buyer_1,bid,110
+2024-11-26 01:19:17,Buyer_2,pass,110
+2024-11-26 01:19:18,Buyer_3,bid,110
+2024-11-26 01:19:18,Buyer_4,bid,110
+2024-11-26 01:19:18,Buyer_5,bid,110
+2024-11-26 01:19:19,Buyer_6,bid,110
+2024-11-26 01:19:19,Buyer_7,bid,110
+2024-11-26 01:19:20,Buyer_8,pass,110
+2024-11-26 01:19:20,Buyer_9,bid,110
+2024-11-26 01:19:20,Auctioneer,The current bid is $120. Do I hear any advance on $120?,120
+2024-11-26 01:19:21,Buyer_0,bid,120
+2024-11-26 01:19:21,Buyer_1,bid,120
+2024-11-26 01:19:21,Buyer_2,bid,120
+2024-11-26 01:19:23,Buyer_3,pass,120
+2024-11-26 01:19:24,Buyer_4,bid,120
+2024-11-26 01:19:24,Buyer_5,bid,120
+2024-11-26 01:19:25,Buyer_6,bid,120
+2024-11-26 01:19:25,Buyer_7,pass,120
+2024-11-26 01:19:26,Buyer_8,bid,120
+2024-11-26 01:19:26,Buyer_9,bid,120
+2024-11-26 01:19:26,Auctioneer,The current bid is $130. Do I hear any advance on $130?,130
+2024-11-26 01:19:27,Buyer_0,bid,130
+2024-11-26 01:19:27,Buyer_1,pass,130
+2024-11-26 01:19:28,Buyer_2,pass,130
+2024-11-26 01:19:28,Buyer_3,bid,130
+2024-11-26 01:19:28,Buyer_4,pass,130
+2024-11-26 01:19:29,Buyer_5,bid,130
+2024-11-26 01:19:29,Buyer_6,bid,130
+2024-11-26 01:19:30,Buyer_7,pass,130
+2024-11-26 01:19:30,Buyer_8,bid,130
+2024-11-26 01:19:30,Buyer_9,pass,130
+2024-11-26 01:19:30,Auctioneer,The current bid is $140. Do I hear any advance on $140?,140
+2024-11-26 01:19:31,Buyer_0,bid,140
+2024-11-26 01:19:31,Buyer_1,bid,140
+2024-11-26 01:19:31,Buyer_2,pass,140
+2024-11-26 01:19:32,Buyer_3,bid,140
+2024-11-26 01:19:32,Buyer_4,bid,140
+2024-11-26 01:19:32,Buyer_5,bid,140
+2024-11-26 01:19:33,Buyer_6,pass,140
+2024-11-26 01:19:33,Buyer_7,bid,140
+2024-11-26 01:19:34,Buyer_8,bid,140
+2024-11-26 01:19:34,Buyer_9,bid,140
+2024-11-26 01:19:34,Auctioneer,The current bid is $150. Do I hear any advance on $150?,150
+2024-11-26 01:19:34,Buyer_0,bid,150
+2024-11-26 01:19:35,Buyer_1,bid,150
+2024-11-26 01:19:35,Buyer_2,bid,150
+2024-11-26 01:19:36,Buyer_3,bid,150
+2024-11-26 01:19:37,Buyer_4,bid,150
+2024-11-26 01:19:37,Buyer_5,bid,150
+2024-11-26 01:19:38,Buyer_6,bid,150
+2024-11-26 01:19:38,Buyer_7,pass,150
+2024-11-26 01:19:39,Buyer_8,pass,150
+2024-11-26 01:19:39,Buyer_9,pass,150
+2024-11-26 01:19:39,Auctioneer,The current bid is $160. Do I hear any advance on $160?,160
+2024-11-26 01:19:40,Buyer_0,bid,160
+2024-11-26 01:19:40,Buyer_1,bid,160
+2024-11-26 01:19:41,Buyer_2,pass,160
+2024-11-26 01:19:42,Buyer_3,bid,160
+2024-11-26 01:19:42,Buyer_4,bid,160
+2024-11-26 01:19:42,Buyer_5,bid,160
+2024-11-26 01:19:43,Buyer_6,bid,160
+2024-11-26 01:19:43,Buyer_7,pass,160
+2024-11-26 01:19:43,Buyer_8,pass,160
+2024-11-26 01:19:44,Buyer_9,bid,160
+2024-11-26 01:19:44,Auctioneer,The current bid is $170. Do I hear any advance on $170?,170
+2024-11-26 01:19:44,Buyer_0,bid,170
+2024-11-26 01:19:45,Buyer_1,pass,170
+2024-11-26 01:19:45,Buyer_2,bid,170
+2024-11-26 01:19:46,Buyer_3,bid,170
+2024-11-26 01:19:46,Buyer_4,bid,170
+2024-11-26 01:19:46,Buyer_5,pass,170
+2024-11-26 01:19:47,Buyer_6,pass,170
+2024-11-26 01:19:47,Buyer_7,bid,170
+2024-11-26 01:19:47,Buyer_8,pass,170
+2024-11-26 01:19:48,Buyer_9,pass,170
+2024-11-26 01:19:48,Auctioneer,The current bid is $180. Do I hear any advance on $180?,180
+2024-11-26 01:19:48,Buyer_0,bid,180
+2024-11-26 01:19:49,Buyer_1,bid,180
+2024-11-26 01:19:49,Buyer_2,pass,180
+2024-11-26 01:19:49,Buyer_3,pass,180
+2024-11-26 01:19:50,Buyer_4,pass,180
+2024-11-26 01:19:50,Buyer_5,pass,180
+2024-11-26 01:19:51,Buyer_6,pass,180
+2024-11-26 01:19:51,Buyer_7,pass,180
+2024-11-26 01:19:51,Buyer_8,pass,180
+2024-11-26 01:19:52,Buyer_9,bid,180
+2024-11-26 01:19:52,Auctioneer,The current bid is $190. Do I hear any advance on $190?,190
+2024-11-26 01:19:52,Buyer_0,pass,190
+2024-11-26 01:19:52,Buyer_1,bid,190
+2024-11-26 01:19:53,Buyer_2,bid,190
+2024-11-26 01:19:53,Buyer_3,bid,190
+2024-11-26 01:19:54,Buyer_4,bid,190
+2024-11-26 01:19:54,Buyer_5,pass,190
+2024-11-26 01:19:54,Buyer_6,pass,190
+2024-11-26 01:19:55,Buyer_7,pass,190
+2024-11-26 01:19:55,Buyer_8,pass,190
+2024-11-26 01:19:55,Buyer_9,pass,190
+2024-11-26 01:19:55,Auctioneer,The current bid is $200. Do I hear any advance on $200?,200
+2024-11-26 01:19:56,Buyer_0,bid,200
+2024-11-26 01:19:56,Buyer_1,bid,200
+2024-11-26 01:19:57,Buyer_2,pass,200
+2024-11-26 01:19:57,Buyer_3,bid,200
+2024-11-26 01:19:58,Buyer_4,pass,200
+2024-11-26 01:19:58,Buyer_5,bid,200
+2024-11-26 01:19:58,Buyer_6,pass,200
+2024-11-26 01:19:59,Buyer_7,pass,200
+2024-11-26 01:19:59,Buyer_8,pass,200
+2024-11-26 01:19:59,Buyer_9,pass,200
+2024-11-26 01:19:59,Auctioneer,The current bid is $210. Do I hear any advance on $210?,210
+2024-11-26 01:20:00,Buyer_0,bid,210
+2024-11-26 01:20:00,Buyer_1,bid,210
+2024-11-26 01:20:00,Buyer_2,pass,210
+2024-11-26 01:20:01,Buyer_3,pass,210
+2024-11-26 01:20:01,Buyer_4,bid,210
+2024-11-26 01:20:02,Buyer_5,pass,210
+2024-11-26 01:20:02,Buyer_6,pass,210
+2024-11-26 01:20:02,Buyer_7,pass,210
+2024-11-26 01:20:03,Buyer_8,pass,210
+2024-11-26 01:20:03,Buyer_9,pass,210
+2024-11-26 01:20:03,Auctioneer,The current bid is $220. Do I hear any advance on $220?,220
+2024-11-26 01:20:03,Buyer_0,pass,220
+2024-11-26 01:20:04,Buyer_1,bid,220
+2024-11-26 01:20:04,Buyer_2,bid,220
+2024-11-26 01:20:05,Buyer_3,bid,220
+2024-11-26 01:20:05,Buyer_4,bid,220
+2024-11-26 01:20:05,Buyer_5,pass,220
+2024-11-26 01:20:06,Buyer_6,pass,220
+2024-11-26 01:20:06,Buyer_7,pass,220
+2024-11-26 01:20:06,Buyer_8,pass,220
+2024-11-26 01:20:07,Buyer_9,pass,220
+2024-11-26 01:20:07,Auctioneer,The current bid is $230. Do I hear any advance on $230?,230
+2024-11-26 01:20:07,Buyer_0,bid,230
+2024-11-26 01:20:07,Buyer_1,pass,230
+2024-11-26 01:20:08,Buyer_2,pass,230
+2024-11-26 01:20:08,Buyer_3,pass,230
+2024-11-26 01:20:09,Buyer_4,pass,230
+2024-11-26 01:20:09,Buyer_5,pass,230
+2024-11-26 01:20:10,Buyer_6,pass,230
+2024-11-26 01:20:10,Buyer_7,pass,230
+2024-11-26 01:20:11,Buyer_8,pass,230
+2024-11-26 01:20:11,Buyer_9,pass,230
+2024-11-26 01:20:11,Auctioneer,The current bid is $240. Do I hear any advance on $240?,240
+2024-11-26 01:20:11,Buyer_0,pass,240
+2024-11-26 01:20:12,Buyer_1,bid,240
+2024-11-26 01:20:12,Buyer_2,pass,240
+2024-11-26 01:20:12,Buyer_3,bid,240
+2024-11-26 01:20:13,Buyer_4,bid,240
+2024-11-26 01:20:13,Buyer_5,pass,240
+2024-11-26 01:20:14,Buyer_6,pass,240
+2024-11-26 01:20:14,Buyer_7,pass,240
+2024-11-26 01:20:14,Buyer_8,pass,240
+2024-11-26 01:20:15,Buyer_9,pass,240
+2024-11-26 01:20:15,Auctioneer,The current bid is $250. Do I hear any advance on $250?,250
+2024-11-26 01:20:15,Buyer_0,bid,250
+2024-11-26 01:20:16,Buyer_1,pass,250
+2024-11-26 01:20:16,Buyer_2,bid,250
+2024-11-26 01:20:16,Buyer_3,pass,250
+2024-11-26 01:20:19,Buyer_4,pass,250
+2024-11-26 01:20:19,Buyer_5,pass,250
+2024-11-26 01:20:20,Buyer_6,pass,250
+2024-11-26 01:20:20,Buyer_7,pass,250
+2024-11-26 01:20:20,Buyer_8,pass,250
+2024-11-26 01:20:21,Buyer_9,pass,250
+2024-11-26 01:20:21,Auctioneer,The current bid is $260. Do I hear any advance on $260?,260
+2024-11-26 01:20:21,Buyer_0,pass,260
+2024-11-26 01:20:21,Buyer_1,pass,260
+2024-11-26 01:20:22,Buyer_2,pass,260
+2024-11-26 01:20:22,Buyer_3,pass,260
+2024-11-26 01:20:23,Buyer_4,pass,260
+2024-11-26 01:20:23,Buyer_5,pass,260
+2024-11-26 01:20:23,Buyer_6,pass,260
+2024-11-26 01:20:24,Buyer_7,pass,260
+2024-11-26 01:20:24,Buyer_8,pass,260
+2024-11-26 01:20:24,Buyer_9,pass,260
+2024-11-26 01:20:24,Auctioneer,Buyer_0 pays $250,260
+2024-11-26 01:20:24,Auctioneer,Buyer_1 pays $240,260
+2024-11-26 01:20:24,Auctioneer,Buyer_2 pays $250,260
+2024-11-26 01:20:24,Auctioneer,Buyer_3 pays $240,260
+2024-11-26 01:20:24,Auctioneer,Buyer_4 pays $240,260
+2024-11-26 01:20:24,Auctioneer,Buyer_5 pays $200,260
+2024-11-26 01:20:24,Auctioneer,Buyer_6 pays $160,260
+2024-11-26 01:20:24,Auctioneer,Buyer_7 pays $170,260
+2024-11-26 01:20:24,Auctioneer,Buyer_8 pays $140,260
+2024-11-26 01:20:24,Auctioneer,Buyer_9 pays $180,260
+2024-11-26 01:22:52,Auctioneer,The current bid is $100. Do I hear any advance on $100?,100
+2024-11-26 01:22:53,Buyer_0,bid,100
+2024-11-26 01:22:54,Buyer_1,bid,100
+2024-11-26 01:22:54,Buyer_2,pass,100
+2024-11-26 01:22:54,Buyer_3,bid,100
+2024-11-26 01:22:54,Buyer_4,pass,100
+2024-11-26 01:22:55,Buyer_5,bid,100
+2024-11-26 01:22:55,Buyer_6,bid,100
+2024-11-26 01:22:56,Buyer_7,bid,100
+2024-11-26 01:22:56,Buyer_8,pass,100
+2024-11-26 01:22:56,Buyer_9,bid,100
+2024-11-26 01:22:56,Auctioneer,The current bid is $110. Do I hear any advance on $110?,110
+2024-11-26 01:22:57,Buyer_0,bid,110
+2024-11-26 01:22:57,Buyer_1,pass,110
+2024-11-26 01:22:57,Buyer_2,pass,110
+2024-11-26 01:22:58,Buyer_3,bid,110
+2024-11-26 01:22:58,Buyer_4,bid,110
+2024-11-26 01:22:58,Buyer_5,bid,110
+2024-11-26 01:22:59,Buyer_6,pass,110
+2024-11-26 01:22:59,Buyer_7,bid,110
+2024-11-26 01:23:00,Buyer_8,bid,110
+2024-11-26 01:23:00,Buyer_9,bid,110
+2024-11-26 01:23:00,Auctioneer,The current bid is $120. Do I hear any advance on $120?,120
+2024-11-26 01:23:00,Buyer_0,bid,120
+2024-11-26 01:23:01,Buyer_1,bid,120
+2024-11-26 01:23:01,Buyer_2,pass,120
+2024-11-26 01:23:02,Buyer_3,pass,120
+2024-11-26 01:23:02,Buyer_4,bid,120
+2024-11-26 01:23:02,Buyer_5,pass,120
+2024-11-26 01:23:03,Buyer_6,bid,120
+2024-11-26 01:23:03,Buyer_7,pass,120
+2024-11-26 01:23:04,Buyer_8,bid,120
+2024-11-26 01:23:04,Buyer_9,pass,120
+2024-11-26 01:23:04,Auctioneer,The current bid is $130. Do I hear any advance on $130?,130
+2024-11-26 01:23:05,Buyer_0,bid,130
+2024-11-26 01:23:05,Buyer_1,pass,130
+2024-11-26 01:23:05,Buyer_2,bid,130
+2024-11-26 01:23:06,Buyer_3,bid,130
+2024-11-26 01:23:06,Buyer_4,bid,130
+2024-11-26 01:23:07,Buyer_5,bid,130
+2024-11-26 01:23:07,Buyer_6,bid,130
+2024-11-26 01:23:07,Buyer_7,bid,130
+2024-11-26 01:23:08,Buyer_8,pass,130
+2024-11-26 01:23:08,Buyer_9,pass,130
+2024-11-26 01:23:08,Auctioneer,The current bid is $140. Do I hear any advance on $140?,140
+2024-11-26 01:23:08,Buyer_0,bid,140
+2024-11-26 01:23:09,Buyer_1,bid,140
+2024-11-26 01:23:09,Buyer_2,pass,140
+2024-11-26 01:23:10,Buyer_3,bid,140
+2024-11-26 01:23:10,Buyer_4,bid,140
+2024-11-26 01:23:10,Buyer_5,pass,140
+2024-11-26 01:23:11,Buyer_6,pass,140
+2024-11-26 01:23:11,Buyer_7,pass,140
+2024-11-26 01:23:11,Buyer_8,pass,140
+2024-11-26 01:23:12,Buyer_9,pass,140
+2024-11-26 01:23:12,Auctioneer,The current bid is $150. Do I hear any advance on $150?,150
+2024-11-26 01:23:12,Buyer_0,bid,150
+2024-11-26 01:23:12,Buyer_1,bid,150
+2024-11-26 01:23:13,Buyer_2,bid,150
+2024-11-26 01:23:14,Buyer_3,bid,150
+2024-11-26 01:23:14,Buyer_4,pass,150
+2024-11-26 01:23:15,Buyer_5,pass,150
+2024-11-26 01:23:15,Buyer_6,bid,150
+2024-11-26 01:23:16,Buyer_7,bid,150
+2024-11-26 01:23:16,Buyer_8,pass,150
+2024-11-26 01:23:16,Buyer_9,pass,150
+2024-11-26 01:23:16,Auctioneer,The current bid is $160. Do I hear any advance on $160?,160
+2024-11-26 01:23:17,Buyer_0,bid,160
+2024-11-26 01:23:17,Buyer_1,bid,160
+2024-11-26 01:23:17,Buyer_2,bid,160
+2024-11-26 01:23:18,Buyer_3,pass,160
+2024-11-26 01:23:18,Buyer_4,pass,160
+2024-11-26 01:23:18,Buyer_5,bid,160
+2024-11-26 01:23:19,Buyer_6,pass,160
+2024-11-26 01:23:19,Buyer_7,pass,160
+2024-11-26 01:23:19,Buyer_8,pass,160
+2024-11-26 01:23:20,Buyer_9,bid,160
+2024-11-26 01:23:20,Auctioneer,The current bid is $170. Do I hear any advance on $170?,170
+2024-11-26 01:23:20,Buyer_0,bid,170
+2024-11-26 01:23:20,Buyer_1,bid,170
+2024-11-26 01:23:21,Buyer_2,bid,170
+2024-11-26 01:23:21,Buyer_3,bid,170
+2024-11-26 01:23:21,Buyer_4,bid,170
+2024-11-26 01:23:22,Buyer_5,pass,170
+2024-11-26 01:23:23,Buyer_6,pass,170
+2024-11-26 01:23:23,Buyer_7,pass,170
+2024-11-26 01:23:23,Buyer_8,pass,170
+2024-11-26 01:23:24,Buyer_9,pass,170
+2024-11-26 01:23:24,Auctioneer,The current bid is $180. Do I hear any advance on $180?,180
+2024-11-26 01:23:24,Buyer_0,bid,180
+2024-11-26 01:23:24,Buyer_1,bid,180
+2024-11-26 01:23:25,Buyer_2,pass,180
+2024-11-26 01:23:25,Buyer_3,bid,180
+2024-11-26 01:23:25,Buyer_4,bid,180
+2024-11-26 01:23:26,Buyer_5,pass,180
+2024-11-26 01:23:26,Buyer_6,pass,180
+2024-11-26 01:23:28,Buyer_7,pass,180
+2024-11-26 01:23:28,Buyer_8,bid,180
+2024-11-26 01:23:28,Buyer_9,pass,180
+2024-11-26 01:23:28,Auctioneer,The current bid is $190. Do I hear any advance on $190?,190
+2024-11-26 01:23:29,Buyer_0,bid,190
+2024-11-26 01:23:29,Buyer_1,bid,190
+2024-11-26 01:23:29,Buyer_2,pass,190
+2024-11-26 01:23:30,Buyer_3,bid,190
+2024-11-26 01:23:31,Buyer_4,bid,190
+2024-11-26 01:23:31,Buyer_5,pass,190
+2024-11-26 01:23:31,Buyer_6,pass,190
+2024-11-26 01:23:32,Buyer_7,pass,190
+2024-11-26 01:23:32,Buyer_8,pass,190
+2024-11-26 01:23:33,Buyer_9,pass,190
+2024-11-26 01:23:33,Auctioneer,The current bid is $200. Do I hear any advance on $200?,200
+2024-11-26 01:23:33,Buyer_0,bid,200
+2024-11-26 01:23:34,Buyer_1,bid,200
+2024-11-26 01:23:34,Buyer_2,pass,200
+2024-11-26 01:23:34,Buyer_3,bid,200
+2024-11-26 01:23:35,Buyer_4,pass,200
+2024-11-26 01:23:35,Buyer_5,pass,200
+2024-11-26 01:23:35,Buyer_6,bid,200
+2024-11-26 01:23:36,Buyer_7,pass,200
+2024-11-26 01:23:36,Buyer_8,pass,200
+2024-11-26 01:23:36,Buyer_9,pass,200
+2024-11-26 01:23:36,Auctioneer,The current bid is $210. Do I hear any advance on $210?,210
+2024-11-26 01:23:37,Buyer_0,bid,210
+2024-11-26 01:23:37,Buyer_1,bid,210
+2024-11-26 01:23:38,Buyer_2,pass,210
+2024-11-26 01:23:38,Buyer_3,bid,210
+2024-11-26 01:23:38,Buyer_4,pass,210
+2024-11-26 01:23:39,Buyer_5,pass,210
+2024-11-26 01:23:39,Buyer_6,pass,210
+2024-11-26 01:23:40,Buyer_7,pass,210
+2024-11-26 01:23:40,Buyer_8,pass,210
+2024-11-26 01:23:40,Buyer_9,pass,210
+2024-11-26 01:23:40,Auctioneer,The current bid is $220. Do I hear any advance on $220?,220
+2024-11-26 01:23:41,Buyer_0,bid,220
+2024-11-26 01:23:41,Buyer_1,pass,220
+2024-11-26 01:23:42,Buyer_2,pass,220
+2024-11-26 01:23:42,Buyer_3,pass,220
+2024-11-26 01:23:42,Buyer_4,bid,220
+2024-11-26 01:23:43,Buyer_5,pass,220
+2024-11-26 01:23:43,Buyer_6,pass,220
+2024-11-26 01:23:43,Buyer_7,pass,220
+2024-11-26 01:23:44,Buyer_8,pass,220
+2024-11-26 01:23:44,Buyer_9,pass,220
+2024-11-26 01:23:44,Auctioneer,The current bid is $230. Do I hear any advance on $230?,230
+2024-11-26 01:23:45,Buyer_0,bid,230
+2024-11-26 01:23:45,Buyer_1,bid,230
+2024-11-26 01:23:45,Buyer_2,pass,230
+2024-11-26 01:23:46,Buyer_3,pass,230
+2024-11-26 01:23:46,Buyer_4,pass,230
+2024-11-26 01:23:46,Buyer_5,pass,230
+2024-11-26 01:23:47,Buyer_6,pass,230
+2024-11-26 01:23:47,Buyer_7,pass,230
+2024-11-26 01:23:48,Buyer_8,pass,230
+2024-11-26 01:23:48,Buyer_9,pass,230
+2024-11-26 01:23:48,Auctioneer,The current bid is $240. Do I hear any advance on $240?,240
+2024-11-26 01:23:48,Buyer_0,pass,240
+2024-11-26 01:23:49,Buyer_1,pass,240
+2024-11-26 01:23:49,Buyer_2,pass,240
+2024-11-26 01:23:49,Buyer_3,pass,240
+2024-11-26 01:23:50,Buyer_4,pass,240
+2024-11-26 01:23:50,Buyer_5,pass,240
+2024-11-26 01:23:51,Buyer_6,pass,240
+2024-11-26 01:23:51,Buyer_7,pass,240
+2024-11-26 01:23:51,Buyer_8,pass,240
+2024-11-26 01:23:52,Buyer_9,pass,240
+2024-11-26 01:23:52,Auctioneer,Buyer_0 pays $230,240
+2024-11-26 01:23:52,Auctioneer,Buyer_1 pays $230,240
+2024-11-26 01:23:52,Auctioneer,Buyer_2 pays $170,240
+2024-11-26 01:23:52,Auctioneer,Buyer_3 pays $210,240
+2024-11-26 01:23:52,Auctioneer,Buyer_4 pays $220,240
+2024-11-26 01:23:52,Auctioneer,Buyer_5 pays $160,240
+2024-11-26 01:23:52,Auctioneer,Buyer_6 pays $200,240
+2024-11-26 01:23:52,Auctioneer,Buyer_7 pays $150,240
+2024-11-26 01:23:52,Auctioneer,Buyer_8 pays $180,240
+2024-11-26 01:23:52,Auctioneer,Buyer_9 pays $160,240
+2024-11-26 01:26:04,Auctioneer,The current bid is $100. Do I hear any advance on $100?,100
+2024-11-26 01:26:04,Buyer_0,bid,100
+2024-11-26 01:26:04,Buyer_1,bid,100
+2024-11-26 01:26:05,Buyer_2,pass,100
+2024-11-26 01:26:05,Buyer_3,bid,100
+2024-11-26 01:26:06,Buyer_4,pass,100
+2024-11-26 01:26:06,Buyer_5,bid,100
+2024-11-26 01:26:06,Buyer_6,bid,100
+2024-11-26 01:26:07,Buyer_7,bid,100
+2024-11-26 01:26:07,Buyer_8,pass,100
+2024-11-26 01:26:07,Buyer_9,bid,100
+2024-11-26 01:26:07,Auctioneer,The current bid is $110. Do I hear any advance on $110?,110
+2024-11-26 01:26:08,Buyer_0,bid,110
+2024-11-26 01:26:09,Buyer_1,bid,110
+2024-11-26 01:26:09,Buyer_2,pass,110
+2024-11-26 01:26:09,Buyer_3,bid,110
+2024-11-26 01:26:10,Buyer_4,bid,110
+2024-11-26 01:26:10,Buyer_5,pass,110
+2024-11-26 01:26:10,Buyer_6,bid,110
+2024-11-26 01:26:11,Buyer_7,pass,110
+2024-11-26 01:26:11,Buyer_8,bid,110
+2024-11-26 01:26:11,Buyer_9,pass,110
+2024-11-26 01:26:11,Auctioneer,The current bid is $120. Do I hear any advance on $120?,120
+2024-11-26 01:26:12,Buyer_0,bid,120
+2024-11-26 01:26:12,Buyer_1,bid,120
+2024-11-26 01:26:13,Buyer_2,bid,120
+2024-11-26 01:26:13,Buyer_3,pass,120
+2024-11-26 01:26:13,Buyer_4,bid,120
+2024-11-26 01:26:14,Buyer_5,bid,120
+2024-11-26 01:26:14,Buyer_6,bid,120
+2024-11-26 01:26:14,Buyer_7,pass,120
+2024-11-26 01:26:15,Buyer_8,bid,120
+2024-11-26 01:26:15,Buyer_9,bid,120
+2024-11-26 01:26:15,Auctioneer,The current bid is $130. Do I hear any advance on $130?,130
+2024-11-26 01:26:15,Buyer_0,pass,130
+2024-11-26 01:26:16,Buyer_1,pass,130
+2024-11-26 01:26:16,Buyer_2,bid,130
+2024-11-26 01:26:16,Buyer_3,bid,130
+2024-11-26 01:26:17,Buyer_4,bid,130
+2024-11-26 01:26:17,Buyer_5,bid,130
+2024-11-26 01:26:18,Buyer_6,pass,130
+2024-11-26 01:26:18,Buyer_7,pass,130
+2024-11-26 01:26:18,Buyer_8,pass,130
+2024-11-26 01:26:18,Buyer_9,bid,130
+2024-11-26 01:26:18,Auctioneer,The current bid is $140. Do I hear any advance on $140?,140
+2024-11-26 01:26:19,Buyer_0,bid,140
+2024-11-26 01:26:19,Buyer_1,bid,140
+2024-11-26 01:26:20,Buyer_2,bid,140
+2024-11-26 01:26:20,Buyer_3,bid,140
+2024-11-26 01:26:20,Buyer_4,bid,140
+2024-11-26 01:26:21,Buyer_5,bid,140
+2024-11-26 01:26:21,Buyer_6,bid,140
+2024-11-26 01:26:21,Buyer_7,bid,140
+2024-11-26 01:26:22,Buyer_8,pass,140
+2024-11-26 01:26:23,Buyer_9,pass,140
+2024-11-26 01:26:23,Auctioneer,The current bid is $150. Do I hear any advance on $150?,150
+2024-11-26 01:26:23,Buyer_0,bid,150
+2024-11-26 01:26:24,Buyer_1,bid,150
+2024-11-26 01:26:24,Buyer_2,pass,150
+2024-11-26 01:26:24,Buyer_3,bid,150
+2024-11-26 01:26:25,Buyer_4,bid,150
+2024-11-26 01:26:25,Buyer_5,bid,150
+2024-11-26 01:26:25,Buyer_6,bid,150
+2024-11-26 01:26:26,Buyer_7,pass,150
+2024-11-26 01:26:26,Buyer_8,bid,150
+2024-11-26 01:26:27,Buyer_9,pass,150
+2024-11-26 01:26:27,Auctioneer,The current bid is $160. Do I hear any advance on $160?,160
+2024-11-26 01:26:27,Buyer_0,bid,160
+2024-11-26 01:26:27,Buyer_1,bid,160
+2024-11-26 01:26:27,Buyer_2,pass,160
+2024-11-26 01:26:28,Buyer_3,bid,160
+2024-11-26 01:26:28,Buyer_4,bid,160
+2024-11-26 01:26:29,Buyer_5,bid,160
+2024-11-26 01:26:29,Buyer_6,pass,160
+2024-11-26 01:26:30,Buyer_7,pass,160
+2024-11-26 01:26:30,Buyer_8,bid,160
+2024-11-26 01:26:30,Buyer_9,bid,160
+2024-11-26 01:26:30,Auctioneer,The current bid is $170. Do I hear any advance on $170?,170
+2024-11-26 01:26:31,Buyer_0,pass,170
+2024-11-26 01:26:31,Buyer_1,bid,170
+2024-11-26 01:26:32,Buyer_2,bid,170
+2024-11-26 01:26:32,Buyer_3,bid,170
+2024-11-26 01:26:32,Buyer_4,bid,170
+2024-11-26 01:26:33,Buyer_5,pass,170
+2024-11-26 01:26:33,Buyer_6,pass,170
+2024-11-26 01:26:34,Buyer_7,pass,170
+2024-11-26 01:26:34,Buyer_8,pass,170
+2024-11-26 01:26:34,Buyer_9,pass,170
+2024-11-26 01:26:34,Auctioneer,The current bid is $180. Do I hear any advance on $180?,180
+2024-11-26 01:26:35,Buyer_0,bid,180
+2024-11-26 01:26:35,Buyer_1,bid,180
+2024-11-26 01:26:36,Buyer_2,pass,180
+2024-11-26 01:26:36,Buyer_3,bid,180
+2024-11-26 01:26:36,Buyer_4,pass,180
+2024-11-26 01:26:37,Buyer_5,pass,180
+2024-11-26 01:26:38,Buyer_6,pass,180
+2024-11-26 01:26:38,Buyer_7,pass,180
+2024-11-26 01:26:38,Buyer_8,pass,180
+2024-11-26 01:26:39,Buyer_9,pass,180
+2024-11-26 01:26:39,Auctioneer,The current bid is $190. Do I hear any advance on $190?,190
+2024-11-26 01:26:39,Buyer_0,pass,190
+2024-11-26 01:26:40,Buyer_1,bid,190
+2024-11-26 01:26:40,Buyer_2,pass,190
+2024-11-26 01:26:41,Buyer_3,bid,190
+2024-11-26 01:26:41,Buyer_4,bid,190
+2024-11-26 01:26:42,Buyer_5,pass,190
+2024-11-26 01:26:42,Buyer_6,pass,190
+2024-11-26 01:26:42,Buyer_7,pass,190
+2024-11-26 01:26:43,Buyer_8,pass,190
+2024-11-26 01:26:43,Buyer_9,pass,190
+2024-11-26 01:26:43,Auctioneer,The current bid is $200. Do I hear any advance on $200?,200
+2024-11-26 01:26:44,Buyer_0,bid,200
+2024-11-26 01:26:44,Buyer_1,bid,200
+2024-11-26 01:26:44,Buyer_2,pass,200
+2024-11-26 01:26:45,Buyer_3,pass,200
+2024-11-26 01:26:45,Buyer_4,pass,200
+2024-11-26 01:26:45,Buyer_5,bid,200
+2024-11-26 01:26:46,Buyer_6,pass,200
+2024-11-26 01:26:46,Buyer_7,pass,200
+2024-11-26 01:26:47,Buyer_8,pass,200
+2024-11-26 01:26:47,Buyer_9,pass,200
+2024-11-26 01:26:47,Auctioneer,The current bid is $210. Do I hear any advance on $210?,210
+2024-11-26 01:26:47,Buyer_0,bid,210
+2024-11-26 01:26:48,Buyer_1,pass,210
+2024-11-26 01:26:48,Buyer_2,pass,210
+2024-11-26 01:26:48,Buyer_3,pass,210
+2024-11-26 01:26:49,Buyer_4,pass,210
+2024-11-26 01:26:49,Buyer_5,pass,210
+2024-11-26 01:26:49,Buyer_6,pass,210
+2024-11-26 01:26:50,Buyer_7,pass,210
+2024-11-26 01:26:50,Buyer_8,pass,210
+2024-11-26 01:26:50,Buyer_9,pass,210
+2024-11-26 01:26:50,Auctioneer,The current bid is $220. Do I hear any advance on $220?,220
+2024-11-26 01:26:51,Buyer_0,bid,220
+2024-11-26 01:26:51,Buyer_1,pass,220
+2024-11-26 01:26:52,Buyer_2,pass,220
+2024-11-26 01:26:52,Buyer_3,pass,220
+2024-11-26 01:26:52,Buyer_4,pass,220
+2024-11-26 01:26:53,Buyer_5,pass,220
+2024-11-26 01:26:53,Buyer_6,pass,220
+2024-11-26 01:26:54,Buyer_7,pass,220
+2024-11-26 01:26:54,Buyer_8,pass,220
+2024-11-26 01:26:54,Buyer_9,pass,220
+2024-11-26 01:26:54,Auctioneer,The current bid is $230. Do I hear any advance on $230?,230
+2024-11-26 01:26:55,Buyer_0,bid,230
+2024-11-26 01:26:55,Buyer_1,pass,230
+2024-11-26 01:26:56,Buyer_2,pass,230
+2024-11-26 01:26:56,Buyer_3,pass,230
+2024-11-26 01:26:56,Buyer_4,pass,230
+2024-11-26 01:26:57,Buyer_5,pass,230
+2024-11-26 01:26:57,Buyer_6,pass,230
+2024-11-26 01:26:57,Buyer_7,pass,230
+2024-11-26 01:26:58,Buyer_8,pass,230
+2024-11-26 01:27:08,Buyer_9,pass,230
+2024-11-26 01:27:08,Auctioneer,The current bid is $240. Do I hear any advance on $240?,240
+2024-11-26 01:27:08,Buyer_0,pass,240
+2024-11-26 01:27:09,Buyer_1,bid,240
+2024-11-26 01:27:09,Buyer_2,pass,240
+2024-11-26 01:27:10,Buyer_3,pass,240
+2024-11-26 01:27:10,Buyer_4,pass,240
+2024-11-26 01:27:10,Buyer_5,pass,240
+2024-11-26 01:27:11,Buyer_6,pass,240
+2024-11-26 01:27:11,Buyer_7,pass,240
+2024-11-26 01:27:11,Buyer_8,pass,240
+2024-11-26 01:27:12,Buyer_9,pass,240
+2024-11-26 01:27:12,Auctioneer,The current bid is $250. Do I hear any advance on $250?,250
+2024-11-26 01:27:13,Buyer_0,bid,250
+2024-11-26 01:27:14,Buyer_1,pass,250
+2024-11-26 01:27:14,Buyer_2,pass,250
+2024-11-26 01:27:15,Buyer_3,pass,250
+2024-11-26 01:27:15,Buyer_4,pass,250
+2024-11-26 01:27:16,Buyer_5,pass,250
+2024-11-26 01:27:16,Buyer_6,pass,250
+2024-11-26 01:27:16,Buyer_7,pass,250
+2024-11-26 01:27:17,Buyer_8,pass,250
+2024-11-26 01:27:17,Buyer_9,pass,250
+2024-11-26 01:27:17,Auctioneer,The current bid is $260. Do I hear any advance on $260?,260
+2024-11-26 01:27:17,Buyer_0,pass,260
+2024-11-26 01:27:18,Buyer_1,pass,260
+2024-11-26 01:27:18,Buyer_2,pass,260
+2024-11-26 01:27:19,Buyer_3,pass,260
+2024-11-26 01:27:19,Buyer_4,pass,260
+2024-11-26 01:27:19,Buyer_5,pass,260
+2024-11-26 01:27:20,Buyer_6,pass,260
+2024-11-26 01:27:20,Buyer_7,pass,260
+2024-11-26 01:27:21,Buyer_8,pass,260
+2024-11-26 01:27:21,Buyer_9,pass,260
+2024-11-26 01:27:21,Auctioneer,Buyer_0 pays $250,260
+2024-11-26 01:27:21,Auctioneer,Buyer_1 pays $240,260
+2024-11-26 01:27:21,Auctioneer,Buyer_2 pays $170,260
+2024-11-26 01:27:21,Auctioneer,Buyer_3 pays $190,260
+2024-11-26 01:27:21,Auctioneer,Buyer_4 pays $190,260
+2024-11-26 01:27:21,Auctioneer,Buyer_5 pays $200,260
+2024-11-26 01:27:21,Auctioneer,Buyer_6 pays $150,260
+2024-11-26 01:27:21,Auctioneer,Buyer_7 pays $140,260
+2024-11-26 01:27:21,Auctioneer,Buyer_8 pays $160,260
+2024-11-26 01:27:21,Auctioneer,Buyer_9 pays $160,260

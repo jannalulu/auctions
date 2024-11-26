@@ -46,7 +46,6 @@ class DutchAuction(BaseAuction):
             return f"{buyer.name} passed"
         
     def process_seller_action(self, action):
-        #
         return True
     
     def end_auction(self):
