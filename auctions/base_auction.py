@@ -18,6 +18,7 @@ class BaseAuction(ABC):
 
     def log_action(self, agent, action):
         self.logger.log_action(agent.name, action, self.current_price)
+        agent.add_to_history(f"Price ${self.current_price}: {action}")
 
     def close_logger(self):
         self.logger.close()

@@ -8,7 +8,13 @@ class BuyerAgent(BaseAgent):
         self.last_bid = 0
 
     def act(self, auction_state):
-        prompt = f"You are {self.name}, a buyer in a common value auction. Your budget is ${self.budget}. The current auction state is: {auction_state}. Your goal is to not suffer the winner's curse and overpay. What is your next action? Respond with either 'bid' or 'pass'. Do not say anything else."
+        history = "\n".join(self.conversation_history) if self.conversation_history else "No previous actions"
+        prompt = f"""You are {self.name}, a buyer in a common value auction. Your budget is ${self.budget}.
+Your previous actions in this auction:
+{history}
+
+The current auction state is: {auction_state}
+Your goal is to not suffer the winner's curse and overpay. What is your next action? Respond with either 'bid' or 'pass'. Do not say anything else."""
         action = query_llm(prompt)
         current_price = int(auction_state.split("$")[1])
         if action.lower() == "bid" and current_price <= self.budget:

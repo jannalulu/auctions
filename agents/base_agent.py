@@ -5,6 +5,7 @@ class BaseAgent(ABC):
         self.name = name
         self.attributes = attributes
         self.memory = []
+        self.conversation_history = []
 
     @abstractmethod
     def act(self, auction_state):
@@ -15,3 +16,9 @@ class BaseAgent(ABC):
 
     def get_memory(self):
         return self.memory
+
+    def add_to_history(self, message):
+        self.conversation_history.append(message)
+
+    def get_conversation_history(self):
+        return self.conversation_history

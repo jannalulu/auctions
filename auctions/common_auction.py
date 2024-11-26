@@ -22,11 +22,21 @@ class CommonAuction(BaseAuction):
             
             if active_bidders == 0:
                 break
+            elif active_bidders == 1:
+                # Determine winner and collect payments
+                self.determine_winner_and_payments()
+                self.close_logger()
+                return self.end_auction()
             
             self.current_price += self.increment
             round_count += 1
 
-        # Determine winner and collect payments
+        # If we get here, auction ended without a winner
+        self.determine_winner_and_payments()
+        self.close_logger()
+        return self.end_auction()
+
+    def determine_winner_and_payments(self):
         if any(self.bids.values()):
             self.winner = max(self.bids.items(), key=lambda x: x[1])[0]
             self.final_price = self.bids[self.winner]
@@ -35,9 +45,6 @@ class CommonAuction(BaseAuction):
             for buyer, bid_amount in self.bids.items():
                 if bid_amount > 0:
                     self.log_action(self.auctioneer, f"{buyer.name} pays ${bid_amount}")
-
-        self.close_logger()
-        return self.end_auction()
 
     def process_buyer_action(self, buyer, action):
         if action.lower() == "bid":
