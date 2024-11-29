@@ -1,6 +1,6 @@
 # from auctions.english_auction import EnglishAuction
-from auctions.dutch_auction import DutchAuction
-# from auctions.common_auction import CommonAuction
+#from auctions.dutch_auction import DutchAuction
+from auctions.common_auction import CommonAuction
 from agents.buyer_agent import BuyerAgent
 from agents.seller_agent import SellerAgent
 from agents.auctioneer_agent import AuctioneerAgent
@@ -13,15 +13,15 @@ def run_auction(config):
     auctioneer = AuctioneerAgent("Auctioneer", config['auctioneer_attributes'])
     
     # Type of auction that I'm running
-    auction = DutchAuction( # auction = EnglishAuction( for English
+    auction = CommonAuction( # auction = EnglishAuction( for English
         config['item'],
         config['starting_price'],
         seller,
         buyers,
         auctioneer,
-        config['price_decrement'], #or config['price_decrement'] for Dutch Auctions
+        config['price_increment'], #or config['price_decrement'] for Dutch Auctions
         config['log_file'],
-        config ['max_rounds'] # comment out for English auctions
+        # config ['max_rounds'] # comment out for English and common auctions
     )
     
     results = auction.run()
