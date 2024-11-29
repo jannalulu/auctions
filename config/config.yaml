@@ -1,7 +1,7 @@
 item: "Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer"
-starting_price: 40
-price_increment: 5
-log_file: "common_auction_log.csv"
+starting_price: 2000
+price_decrement: 100
+log_file: "dutch_auction_log.csv"
 max_rounds: 100 # Not implemented in English
 
 seller:
@@ -14,52 +14,52 @@ buyers:
       risk_tolerance: "medium"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 550
+    budget: 2000
   - attributes:
       risk_tolerance: "medium"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 525
+    budget: 2000
   - attributes:
       risk_tolerance: "medium"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 500
+    budget: 2000
   - attributes:
       risk_tolerance: "medium"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 475
+    budget: 2000
   - attributes:
       risk_tolerance: "medium"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 450
+    budget: 2000
   - attributes:
       risk_tolerance: "medium"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 425
+    budget: 2000
   - attributes:
       risk_tolerance: "medium"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 400
+    budget: 2000
   - attributes:
       risk_tolerance: "low"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 375
+    budget: 2000
   - attributes:
       risk_tolerance: "low"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 350
+    budget: 2000
   - attributes:
       risk_tolerance: "low"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 325
+    budget: 2000
 
 auctioneer_attributes:
   experience: "veteran"

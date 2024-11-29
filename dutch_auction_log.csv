@@ -780,3 +780,456 @@ In this case, I recommend you 'pass' to remain strictly within your budget, keep
 2024-11-06 20:40:06,Buyer_0,bid,460
 2024-11-06 20:40:06,Auctioneer,Accepted bid from Buyer_0 at $460,460
 2024-11-06 20:40:06,Auctioneer,Sold to Buyer_0 for $460!,460
+2024-11-26 00:45:24,Auctioneer,The current bid is $600. Do I hear any advance on $600?,600
+2024-11-26 00:45:25,Buyer_0,pass,600
+2024-11-26 00:45:25,Auctioneer,Buyer_0 passed,600
+2024-11-26 00:45:25,Buyer_1,Pass,600
+2024-11-26 00:45:25,Auctioneer,Buyer_1 passed,600
+2024-11-26 00:45:25,Buyer_2,pass,600
+2024-11-26 00:45:25,Auctioneer,Buyer_2 passed,600
+2024-11-26 00:45:26,Buyer_3,pass,600
+2024-11-26 00:45:26,Auctioneer,Buyer_3 passed,600
+2024-11-26 00:45:27,Buyer_4,pass,600
+2024-11-26 00:45:27,Auctioneer,Buyer_4 passed,600
+2024-11-26 00:45:27,Buyer_5,pass,600
+2024-11-26 00:45:27,Auctioneer,Buyer_5 passed,600
+2024-11-26 00:45:28,Buyer_6,pass,600
+2024-11-26 00:45:28,Auctioneer,Buyer_6 passed,600
+2024-11-26 00:45:28,Buyer_7,pass,600
+2024-11-26 00:45:28,Auctioneer,Buyer_7 passed,600
+2024-11-26 00:45:29,Buyer_8,pass,600
+2024-11-26 00:45:29,Auctioneer,Buyer_8 passed,600
+2024-11-26 00:45:29,Buyer_9,pass,600
+2024-11-26 00:45:29,Auctioneer,Buyer_9 passed,600
+2024-11-26 00:45:29,Auctioneer,The current bid is $590. Do I hear any advance on $590?,590
+2024-11-26 00:45:30,Buyer_0,pass,590
+2024-11-26 00:45:30,Auctioneer,Buyer_0 passed,590
+2024-11-26 00:45:30,Buyer_1,pass,590
+2024-11-26 00:45:30,Auctioneer,Buyer_1 passed,590
+2024-11-26 00:45:30,Buyer_2,pass,590
+2024-11-26 00:45:30,Auctioneer,Buyer_2 passed,590
+2024-11-26 00:45:31,Buyer_3,pass,590
+2024-11-26 00:45:31,Auctioneer,Buyer_3 passed,590
+2024-11-26 00:45:31,Buyer_4,pass,590
+2024-11-26 00:45:31,Auctioneer,Buyer_4 passed,590
+2024-11-26 00:45:31,Buyer_5,pass,590
+2024-11-26 00:45:31,Auctioneer,Buyer_5 passed,590
+2024-11-26 00:45:32,Buyer_6,Pass,590
+2024-11-26 00:45:32,Auctioneer,Buyer_6 passed,590
+2024-11-26 00:45:32,Buyer_7,pass,590
+2024-11-26 00:45:32,Auctioneer,Buyer_7 passed,590
+2024-11-26 00:45:33,Buyer_8,Pass,590
+2024-11-26 00:45:33,Auctioneer,Buyer_8 passed,590
+2024-11-26 00:45:33,Buyer_9,pass,590
+2024-11-26 00:45:33,Auctioneer,Buyer_9 passed,590
+2024-11-26 00:45:33,Auctioneer,The current bid is $580. Do I hear any advance on $580?,580
+2024-11-26 00:45:33,Buyer_0,pass,580
+2024-11-26 00:45:33,Auctioneer,Buyer_0 passed,580
+2024-11-26 00:45:34,Buyer_1,Pass,580
+2024-11-26 00:45:34,Auctioneer,Buyer_1 passed,580
+2024-11-26 00:45:34,Buyer_2,pass,580
+2024-11-26 00:45:34,Auctioneer,Buyer_2 passed,580
+2024-11-26 00:45:34,Buyer_3,pass,580
+2024-11-26 00:45:34,Auctioneer,Buyer_3 passed,580
+2024-11-26 00:45:35,Buyer_4,pass,580
+2024-11-26 00:45:35,Auctioneer,Buyer_4 passed,580
+2024-11-26 00:45:35,Buyer_5,pass,580
+2024-11-26 00:45:35,Auctioneer,Buyer_5 passed,580
+2024-11-26 00:45:35,Buyer_6,pass,580
+2024-11-26 00:45:35,Auctioneer,Buyer_6 passed,580
+2024-11-26 00:45:36,Buyer_7,Pass.,580
+2024-11-26 00:45:36,Auctioneer,Buyer_7 passed,580
+2024-11-26 00:45:36,Buyer_8,pass,580
+2024-11-26 00:45:36,Auctioneer,Buyer_8 passed,580
+2024-11-26 00:45:36,Buyer_9,pass,580
+2024-11-26 00:45:36,Auctioneer,Buyer_9 passed,580
+2024-11-26 00:45:36,Auctioneer,The current bid is $570. Do I hear any advance on $570?,570
+2024-11-26 00:45:37,Buyer_0,pass,570
+2024-11-26 00:45:37,Auctioneer,Buyer_0 passed,570
+2024-11-26 00:45:37,Buyer_1,pass,570
+2024-11-26 00:45:37,Auctioneer,Buyer_1 passed,570
+2024-11-26 00:45:37,Buyer_2,pass,570
+2024-11-26 00:45:37,Auctioneer,Buyer_2 passed,570
+2024-11-26 00:45:38,Buyer_3,pass,570
+2024-11-26 00:45:38,Auctioneer,Buyer_3 passed,570
+2024-11-26 00:45:38,Buyer_4,Pass,570
+2024-11-26 00:45:38,Auctioneer,Buyer_4 passed,570
+2024-11-26 00:45:39,Buyer_5,Pass,570
+2024-11-26 00:45:39,Auctioneer,Buyer_5 passed,570
+2024-11-26 00:45:39,Buyer_6,pass,570
+2024-11-26 00:45:39,Auctioneer,Buyer_6 passed,570
+2024-11-26 00:45:39,Buyer_7,pass,570
+2024-11-26 00:45:39,Auctioneer,Buyer_7 passed,570
+2024-11-26 00:45:40,Buyer_8,pass,570
+2024-11-26 00:45:40,Auctioneer,Buyer_8 passed,570
+2024-11-26 00:45:40,Buyer_9,pass,570
+2024-11-26 00:45:40,Auctioneer,Buyer_9 passed,570
+2024-11-26 00:45:40,Auctioneer,The current bid is $560. Do I hear any advance on $560?,560
+2024-11-26 00:45:40,Buyer_0,pass,560
+2024-11-26 00:45:40,Auctioneer,Buyer_0 passed,560
+2024-11-26 00:45:41,Buyer_1,pass,560
+2024-11-26 00:45:41,Auctioneer,Buyer_1 passed,560
+2024-11-26 00:45:41,Buyer_2,pass,560
+2024-11-26 00:45:41,Auctioneer,Buyer_2 passed,560
+2024-11-26 00:45:41,Buyer_3,Pass,560
+2024-11-26 00:45:41,Auctioneer,Buyer_3 passed,560
+2024-11-26 00:45:42,Buyer_4,Pass,560
+2024-11-26 00:45:42,Auctioneer,Buyer_4 passed,560
+2024-11-26 00:45:42,Buyer_5,Pass,560
+2024-11-26 00:45:42,Auctioneer,Buyer_5 passed,560
+2024-11-26 00:45:43,Buyer_6,Pass,560
+2024-11-26 00:45:43,Auctioneer,Buyer_6 passed,560
+2024-11-26 00:45:43,Buyer_7,pass,560
+2024-11-26 00:45:43,Auctioneer,Buyer_7 passed,560
+2024-11-26 00:45:43,Buyer_8,pass,560
+2024-11-26 00:45:43,Auctioneer,Buyer_8 passed,560
+2024-11-26 00:45:44,Buyer_9,pass,560
+2024-11-26 00:45:44,Auctioneer,Buyer_9 passed,560
+2024-11-26 00:45:44,Auctioneer,The current bid is $550. Do I hear any advance on $550?,550
+2024-11-26 00:45:44,Buyer_0,Pass,550
+2024-11-26 00:45:44,Auctioneer,Buyer_0 passed,550
+2024-11-26 00:45:44,Buyer_1,pass,550
+2024-11-26 00:45:44,Auctioneer,Buyer_1 passed,550
+2024-11-26 00:45:45,Buyer_2,pass,550
+2024-11-26 00:45:45,Auctioneer,Buyer_2 passed,550
+2024-11-26 00:45:45,Buyer_3,Pass,550
+2024-11-26 00:45:45,Auctioneer,Buyer_3 passed,550
+2024-11-26 00:45:45,Buyer_4,pass,550
+2024-11-26 00:45:45,Auctioneer,Buyer_4 passed,550
+2024-11-26 00:45:45,Buyer_5,Pass,550
+2024-11-26 00:45:45,Auctioneer,Buyer_5 passed,550
+2024-11-26 00:45:46,Buyer_6,pass,550
+2024-11-26 00:45:46,Auctioneer,Buyer_6 passed,550
+2024-11-26 00:45:46,Buyer_7,pass,550
+2024-11-26 00:45:46,Auctioneer,Buyer_7 passed,550
+2024-11-26 00:45:47,Buyer_8,pass,550
+2024-11-26 00:45:47,Auctioneer,Buyer_8 passed,550
+2024-11-26 00:45:47,Buyer_9,pass,550
+2024-11-26 00:45:47,Auctioneer,Buyer_9 passed,550
+2024-11-26 00:45:47,Auctioneer,The current bid is $540. Do I hear any advance on $540?,540
+2024-11-26 00:45:47,Buyer_0,bid,540
+2024-11-26 00:45:47,Auctioneer,Accepted bid from Buyer_0 at $540,540
+2024-11-26 00:45:47,Auctioneer,Sold to Buyer_0 for $540!,540
+2024-11-26 00:58:42,Auctioneer,The current bid is $600. Do I hear any advance on $600?,600
+2024-11-26 00:58:43,Buyer_0,pass,600
+2024-11-26 00:58:43,Buyer_1,pass,600
+2024-11-26 00:58:44,Buyer_2,pass,600
+2024-11-26 00:58:44,Buyer_3,pass,600
+2024-11-26 00:58:44,Buyer_4,pass,600
+2024-11-26 00:58:44,Buyer_5,pass,600
+2024-11-26 00:58:45,Buyer_6,pass,600
+2024-11-26 00:58:45,Buyer_7,pass,600
+2024-11-26 00:58:46,Buyer_8,pass,600
+2024-11-26 00:58:46,Buyer_9,Pass,600
+2024-11-28 20:12:17,Auctioneer,"The current bid is $2000 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $2000?",2000
+2024-11-28 20:12:18,Buyer_0,pass,2000
+2024-11-28 20:12:18,Auctioneer,Buyer_0 passed,2000
+2024-11-28 20:12:18,Buyer_1,pass,2000
+2024-11-28 20:12:18,Auctioneer,Buyer_1 passed,2000
+2024-11-28 20:12:19,Buyer_2,pass,2000
+2024-11-28 20:12:19,Auctioneer,Buyer_2 passed,2000
+2024-11-28 20:12:19,Buyer_3,pass,2000
+2024-11-28 20:12:19,Auctioneer,Buyer_3 passed,2000
+2024-11-28 20:12:20,Buyer_4,pass,2000
+2024-11-28 20:12:20,Auctioneer,Buyer_4 passed,2000
+2024-11-28 20:12:20,Buyer_5,pass,2000
+2024-11-28 20:12:20,Auctioneer,Buyer_5 passed,2000
+2024-11-28 20:12:21,Buyer_6,pass,2000
+2024-11-28 20:12:21,Auctioneer,Buyer_6 passed,2000
+2024-11-28 20:12:21,Buyer_7,pass,2000
+2024-11-28 20:12:21,Auctioneer,Buyer_7 passed,2000
+2024-11-28 20:12:21,Buyer_8,pass,2000
+2024-11-28 20:12:21,Auctioneer,Buyer_8 passed,2000
+2024-11-28 20:12:22,Buyer_9,pass,2000
+2024-11-28 20:12:22,Auctioneer,Buyer_9 passed,2000
+2024-11-28 20:12:22,Auctioneer,"The current bid is $1900 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1900?",1900
+2024-11-28 20:12:23,Buyer_0,pass,1900
+2024-11-28 20:12:23,Auctioneer,Buyer_0 passed,1900
+2024-11-28 20:12:23,Buyer_1,pass,1900
+2024-11-28 20:12:23,Auctioneer,Buyer_1 passed,1900
+2024-11-28 20:12:24,Buyer_2,pass,1900
+2024-11-28 20:12:24,Auctioneer,Buyer_2 passed,1900
+2024-11-28 20:12:24,Buyer_3,pass,1900
+2024-11-28 20:12:24,Auctioneer,Buyer_3 passed,1900
+2024-11-28 20:12:25,Buyer_4,pass,1900
+2024-11-28 20:12:25,Auctioneer,Buyer_4 passed,1900
+2024-11-28 20:12:25,Buyer_5,pass,1900
+2024-11-28 20:12:25,Auctioneer,Buyer_5 passed,1900
+2024-11-28 20:12:25,Buyer_6,pass,1900
+2024-11-28 20:12:25,Auctioneer,Buyer_6 passed,1900
+2024-11-28 20:12:26,Buyer_7,pass,1900
+2024-11-28 20:12:26,Auctioneer,Buyer_7 passed,1900
+2024-11-28 20:12:26,Buyer_8,bid,1900
+2024-11-28 20:12:26,Auctioneer,Accepted bid from Buyer_8 at $1900,1900
+2024-11-28 20:12:26,Auctioneer,Sold to Buyer_8 for $1900!,1900
+2024-11-28 20:13:08,Auctioneer,"The current bid is $2000 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $2000?",2000
+2024-11-28 20:13:09,Buyer_0,pass,2000
+2024-11-28 20:13:09,Auctioneer,Buyer_0 passed,2000
+2024-11-28 20:13:10,Buyer_1,pass,2000
+2024-11-28 20:13:10,Auctioneer,Buyer_1 passed,2000
+2024-11-28 20:13:10,Buyer_2,pass,2000
+2024-11-28 20:13:10,Auctioneer,Buyer_2 passed,2000
+2024-11-28 20:13:10,Buyer_3,pass,2000
+2024-11-28 20:13:10,Auctioneer,Buyer_3 passed,2000
+2024-11-28 20:13:11,Buyer_4,pass,2000
+2024-11-28 20:13:11,Auctioneer,Buyer_4 passed,2000
+2024-11-28 20:13:16,Buyer_5,pass,2000
+2024-11-28 20:13:16,Auctioneer,Buyer_5 passed,2000
+2024-11-28 20:13:17,Buyer_6,pass,2000
+2024-11-28 20:13:17,Auctioneer,Buyer_6 passed,2000
+2024-11-28 20:13:17,Buyer_7,pass,2000
+2024-11-28 20:13:17,Auctioneer,Buyer_7 passed,2000
+2024-11-28 20:13:17,Buyer_8,pass,2000
+2024-11-28 20:13:17,Auctioneer,Buyer_8 passed,2000
+2024-11-28 20:13:18,Buyer_9,pass,2000
+2024-11-28 20:13:18,Auctioneer,Buyer_9 passed,2000
+2024-11-28 20:13:18,Auctioneer,"The current bid is $1900 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1900?",1900
+2024-11-28 20:13:18,Buyer_0,pass,1900
+2024-11-28 20:13:18,Auctioneer,Buyer_0 passed,1900
+2024-11-28 20:13:19,Buyer_1,pass,1900
+2024-11-28 20:13:19,Auctioneer,Buyer_1 passed,1900
+2024-11-28 20:13:19,Buyer_2,pass,1900
+2024-11-28 20:13:19,Auctioneer,Buyer_2 passed,1900
+2024-11-28 20:13:20,Buyer_3,pass,1900
+2024-11-28 20:13:20,Auctioneer,Buyer_3 passed,1900
+2024-11-28 20:13:21,Buyer_4,pass,1900
+2024-11-28 20:13:21,Auctioneer,Buyer_4 passed,1900
+2024-11-28 20:13:21,Buyer_5,bid,1900
+2024-11-28 20:13:21,Auctioneer,Accepted bid from Buyer_5 at $1900,1900
+2024-11-28 20:13:21,Auctioneer,Sold to Buyer_5 for $1900!,1900
+2024-11-28 20:13:58,Auctioneer,"The current bid is $2000 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $2000?",2000
+2024-11-28 20:13:58,Buyer_0,pass,2000
+2024-11-28 20:13:58,Auctioneer,Buyer_0 passed,2000
+2024-11-28 20:13:59,Buyer_1,pass,2000
+2024-11-28 20:13:59,Auctioneer,Buyer_1 passed,2000
+2024-11-28 20:13:59,Buyer_2,pass,2000
+2024-11-28 20:13:59,Auctioneer,Buyer_2 passed,2000
+2024-11-28 20:14:00,Buyer_3,pass,2000
+2024-11-28 20:14:00,Auctioneer,Buyer_3 passed,2000
+2024-11-28 20:14:00,Buyer_4,pass,2000
+2024-11-28 20:14:00,Auctioneer,Buyer_4 passed,2000
+2024-11-28 20:14:01,Buyer_5,pass,2000
+2024-11-28 20:14:01,Auctioneer,Buyer_5 passed,2000
+2024-11-28 20:14:01,Buyer_6,pass,2000
+2024-11-28 20:14:01,Auctioneer,Buyer_6 passed,2000
+2024-11-28 20:14:01,Buyer_7,pass,2000
+2024-11-28 20:14:01,Auctioneer,Buyer_7 passed,2000
+2024-11-28 20:14:02,Buyer_8,pass,2000
+2024-11-28 20:14:02,Auctioneer,Buyer_8 passed,2000
+2024-11-28 20:14:02,Buyer_9,pass,2000
+2024-11-28 20:14:02,Auctioneer,Buyer_9 passed,2000
+2024-11-28 20:14:02,Auctioneer,"The current bid is $1900 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1900?",1900
+2024-11-28 20:14:03,Buyer_0,pass,1900
+2024-11-28 20:14:03,Auctioneer,Buyer_0 passed,1900
+2024-11-28 20:14:03,Buyer_1,pass,1900
+2024-11-28 20:14:03,Auctioneer,Buyer_1 passed,1900
+2024-11-28 20:14:04,Buyer_2,pass,1900
+2024-11-28 20:14:04,Auctioneer,Buyer_2 passed,1900
+2024-11-28 20:14:04,Buyer_3,pass,1900
+2024-11-28 20:14:04,Auctioneer,Buyer_3 passed,1900
+2024-11-28 20:14:04,Buyer_4,bid,1900
+2024-11-28 20:14:04,Auctioneer,Accepted bid from Buyer_4 at $1900,1900
+2024-11-28 20:14:04,Auctioneer,Sold to Buyer_4 for $1900!,1900
+2024-11-29 13:21:55,Auctioneer,"The current bid is $2000 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $2000?",2000
+2024-11-29 13:21:57,Buyer_0,pass,2000
+2024-11-29 13:21:57,Auctioneer,Buyer_0 passed,2000
+2024-11-29 13:21:57,Buyer_1,pass,2000
+2024-11-29 13:21:57,Auctioneer,Buyer_1 passed,2000
+2024-11-29 13:21:58,Buyer_2,pass,2000
+2024-11-29 13:21:58,Auctioneer,Buyer_2 passed,2000
+2024-11-29 13:21:58,Buyer_3,pass,2000
+2024-11-29 13:21:58,Auctioneer,Buyer_3 passed,2000
+2024-11-29 13:21:58,Buyer_4,pass,2000
+2024-11-29 13:21:58,Auctioneer,Buyer_4 passed,2000
+2024-11-29 13:21:59,Buyer_5,pass,2000
+2024-11-29 13:21:59,Auctioneer,Buyer_5 passed,2000
+2024-11-29 13:22:00,Buyer_6,pass,2000
+2024-11-29 13:22:00,Auctioneer,Buyer_6 passed,2000
+2024-11-29 13:22:00,Buyer_7,pass,2000
+2024-11-29 13:22:00,Auctioneer,Buyer_7 passed,2000
+2024-11-29 13:22:01,Buyer_8,pass,2000
+2024-11-29 13:22:01,Auctioneer,Buyer_8 passed,2000
+2024-11-29 13:22:01,Buyer_9,pass,2000
+2024-11-29 13:22:01,Auctioneer,Buyer_9 passed,2000
+2024-11-29 13:22:01,Auctioneer,"The current bid is $1900 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1900?",1900
+2024-11-29 13:22:01,Buyer_0,pass,1900
+2024-11-29 13:22:01,Auctioneer,Buyer_0 passed,1900
+2024-11-29 13:22:02,Buyer_1,pass,1900
+2024-11-29 13:22:02,Auctioneer,Buyer_1 passed,1900
+2024-11-29 13:22:02,Buyer_2,pass,1900
+2024-11-29 13:22:02,Auctioneer,Buyer_2 passed,1900
+2024-11-29 13:22:03,Buyer_3,pass,1900
+2024-11-29 13:22:03,Auctioneer,Buyer_3 passed,1900
+2024-11-29 13:22:03,Buyer_4,pass,1900
+2024-11-29 13:22:03,Auctioneer,Buyer_4 passed,1900
+2024-11-29 13:22:03,Buyer_5,pass,1900
+2024-11-29 13:22:03,Auctioneer,Buyer_5 passed,1900
+2024-11-29 13:22:04,Buyer_6,pass,1900
+2024-11-29 13:22:04,Auctioneer,Buyer_6 passed,1900
+2024-11-29 13:22:04,Buyer_7,pass,1900
+2024-11-29 13:22:04,Auctioneer,Buyer_7 passed,1900
+2024-11-29 13:22:04,Buyer_8,pass,1900
+2024-11-29 13:22:04,Auctioneer,Buyer_8 passed,1900
+2024-11-29 13:22:04,Buyer_9,pass,1900
+2024-11-29 13:22:04,Auctioneer,Buyer_9 passed,1900
+2024-11-29 13:22:04,Auctioneer,"The current bid is $1800 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1800?",1800
+2024-11-29 13:22:05,Buyer_0,bid,1800
+2024-11-29 13:22:05,Auctioneer,Accepted bid from Buyer_0 at $1800,1800
+2024-11-29 13:22:05,Auctioneer,Sold to Buyer_0 for $1800!,1800
+2024-11-29 13:22:24,Auctioneer,"The current bid is $2000 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $2000?",2000
+2024-11-29 13:22:25,Buyer_0,pass,2000
+2024-11-29 13:22:25,Auctioneer,Buyer_0 passed,2000
+2024-11-29 13:22:25,Buyer_1,pass,2000
+2024-11-29 13:22:25,Auctioneer,Buyer_1 passed,2000
+2024-11-29 13:22:25,Buyer_2,pass,2000
+2024-11-29 13:22:25,Auctioneer,Buyer_2 passed,2000
+2024-11-29 13:22:26,Buyer_3,pass,2000
+2024-11-29 13:22:26,Auctioneer,Buyer_3 passed,2000
+2024-11-29 13:22:26,Buyer_4,pass,2000
+2024-11-29 13:22:26,Auctioneer,Buyer_4 passed,2000
+2024-11-29 13:22:26,Buyer_5,pass,2000
+2024-11-29 13:22:26,Auctioneer,Buyer_5 passed,2000
+2024-11-29 13:22:27,Buyer_6,pass,2000
+2024-11-29 13:22:27,Auctioneer,Buyer_6 passed,2000
+2024-11-29 13:22:27,Buyer_7,pass,2000
+2024-11-29 13:22:27,Auctioneer,Buyer_7 passed,2000
+2024-11-29 13:22:28,Buyer_8,pass,2000
+2024-11-29 13:22:28,Auctioneer,Buyer_8 passed,2000
+2024-11-29 13:22:28,Buyer_9,pass,2000
+2024-11-29 13:22:28,Auctioneer,Buyer_9 passed,2000
+2024-11-29 13:22:28,Auctioneer,"The current bid is $1900 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1900?",1900
+2024-11-29 13:22:29,Buyer_0,pass,1900
+2024-11-29 13:22:29,Auctioneer,Buyer_0 passed,1900
+2024-11-29 13:22:29,Buyer_1,pass,1900
+2024-11-29 13:22:29,Auctioneer,Buyer_1 passed,1900
+2024-11-29 13:22:30,Buyer_2,pass,1900
+2024-11-29 13:22:30,Auctioneer,Buyer_2 passed,1900
+2024-11-29 13:22:30,Buyer_3,bid,1900
+2024-11-29 13:22:30,Auctioneer,Accepted bid from Buyer_3 at $1900,1900
+2024-11-29 13:22:30,Auctioneer,Sold to Buyer_3 for $1900!,1900
+2024-11-29 13:22:34,Auctioneer,"The current bid is $2000 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $2000?",2000
+2024-11-29 13:22:34,Buyer_0,pass,2000
+2024-11-29 13:22:34,Auctioneer,Buyer_0 passed,2000
+2024-11-29 13:22:35,Buyer_1,pass,2000
+2024-11-29 13:22:35,Auctioneer,Buyer_1 passed,2000
+2024-11-29 13:22:36,Buyer_2,pass,2000
+2024-11-29 13:22:36,Auctioneer,Buyer_2 passed,2000
+2024-11-29 13:22:36,Buyer_3,pass,2000
+2024-11-29 13:22:36,Auctioneer,Buyer_3 passed,2000
+2024-11-29 13:22:36,Buyer_4,pass,2000
+2024-11-29 13:22:36,Auctioneer,Buyer_4 passed,2000
+2024-11-29 13:22:37,Buyer_5,pass,2000
+2024-11-29 13:22:37,Auctioneer,Buyer_5 passed,2000
+2024-11-29 13:22:37,Buyer_6,pass,2000
+2024-11-29 13:22:37,Auctioneer,Buyer_6 passed,2000
+2024-11-29 13:22:37,Buyer_7,pass,2000
+2024-11-29 13:22:37,Auctioneer,Buyer_7 passed,2000
+2024-11-29 13:22:38,Buyer_8,pass,2000
+2024-11-29 13:22:38,Auctioneer,Buyer_8 passed,2000
+2024-11-29 13:22:38,Buyer_9,pass,2000
+2024-11-29 13:22:38,Auctioneer,Buyer_9 passed,2000
+2024-11-29 13:22:38,Auctioneer,"The current bid is $1900 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1900?",1900
+2024-11-29 13:22:38,Buyer_0,pass,1900
+2024-11-29 13:22:38,Auctioneer,Buyer_0 passed,1900
+2024-11-29 13:22:39,Buyer_1,pass,1900
+2024-11-29 13:22:39,Auctioneer,Buyer_1 passed,1900
+2024-11-29 13:22:39,Buyer_2,bid,1900
+2024-11-29 13:22:39,Auctioneer,Accepted bid from Buyer_2 at $1900,1900
+2024-11-29 13:22:39,Auctioneer,Sold to Buyer_2 for $1900!,1900
+2024-11-29 13:22:54,Auctioneer,"The current bid is $2000 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $2000?",2000
+2024-11-29 13:22:55,Buyer_0,"Given that the current price is exactly equal to your budget of $2000, bidding now would mean you would use your entire budget. In a Dutch auction, the price decreases over time, and the goal is to purchase below your maximum willingness to pay to avoid the winner's curse. Therefore, a more strategic move could be to wait for the price to decrease in hopes of getting a better deal. Your next action should be 'pass'.",2000
+2024-11-29 13:22:55,Auctioneer,Buyer_0 passed,2000
+2024-11-29 13:22:56,Buyer_1,pass,2000
+2024-11-29 13:22:56,Auctioneer,Buyer_1 passed,2000
+2024-11-29 13:22:56,Buyer_2,pass,2000
+2024-11-29 13:22:56,Auctioneer,Buyer_2 passed,2000
+2024-11-29 13:22:56,Buyer_3,pass,2000
+2024-11-29 13:22:56,Auctioneer,Buyer_3 passed,2000
+2024-11-29 13:22:57,Buyer_4,pass,2000
+2024-11-29 13:22:57,Auctioneer,Buyer_4 passed,2000
+2024-11-29 13:23:00,Buyer_5,"In a Dutch auction, the price starts high and decreases over time until someone places a bid. Given that the current price is exactly $2000, which is your budget, you could place a bid and potentially win, but you'd be spending your entire budget. Considering the risk of winner's curse, it's worth considering whether the item is worth your full budget or if there's a possibility that the price might decrease further and still be within a reasonable range for you. However, since the question states the importance of being careful of the winner's curse, it might imply that bidding at the very limit of your budget could leave little room for any unforeseen costs or bidder's remorse if the item's value doesn't meet expectations. Thus, a cautious approach might be:
+
+pass",2000
+2024-11-29 13:23:00,Auctioneer,Buyer_5 passed,2000
+2024-11-29 13:23:01,Buyer_6,pass,2000
+2024-11-29 13:23:01,Auctioneer,Buyer_6 passed,2000
+2024-11-29 13:23:01,Buyer_7,pass,2000
+2024-11-29 13:23:01,Auctioneer,Buyer_7 passed,2000
+2024-11-29 13:23:03,Buyer_8,"In a Dutch auction, prices descend until a bid is made. At the current price of $2000, bidding would exactly match your budget, leaving no room for error, potential adjustments, or additional costs that might arise. To avoid the risk of winner's curse, it's prudent to either wait for the price to lower or pass entirely if the price does not fall within a safer range relative to your budget and the item's estimated value.
+
+Therefore, my recommended action is: 'pass'.",2000
+2024-11-29 13:23:03,Auctioneer,Buyer_8 passed,2000
+2024-11-29 13:23:03,Buyer_9,pass,2000
+2024-11-29 13:23:03,Auctioneer,Buyer_9 passed,2000
+2024-11-29 13:23:03,Auctioneer,"The current bid is $1900 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1900?",1900
+2024-11-29 13:23:05,Buyer_0,"In this Dutch auction scenario, it's important to balance the risk of waiting too long and possibly someone else bidding, against bidding too early and not getting the best price possible. Since the current price is now $1900, which is below your budget, but still relatively high, a prudent approach would be to wait a bit longer to see if the price drops further. Therefore, my next action should be 'pass'.",1900
+2024-11-29 13:23:05,Auctioneer,Buyer_0 passed,1900
+2024-11-29 13:23:05,Buyer_1,Pass,1900
+2024-11-29 13:23:05,Auctioneer,Buyer_1 passed,1900
+2024-11-29 13:23:05,Buyer_2,Pass,1900
+2024-11-29 13:23:05,Auctioneer,Buyer_2 passed,1900
+2024-11-29 13:23:06,Buyer_3,Pass,1900
+2024-11-29 13:23:06,Auctioneer,Buyer_3 passed,1900
+2024-11-29 13:23:06,Buyer_4,pass,1900
+2024-11-29 13:23:06,Auctioneer,Buyer_4 passed,1900
+2024-11-29 13:23:06,Buyer_5,pass,1900
+2024-11-29 13:23:06,Auctioneer,Buyer_5 passed,1900
+2024-11-29 13:23:07,Buyer_6,pass,1900
+2024-11-29 13:23:07,Auctioneer,Buyer_6 passed,1900
+2024-11-29 13:23:07,Buyer_7,pass,1900
+2024-11-29 13:23:07,Auctioneer,Buyer_7 passed,1900
+2024-11-29 13:23:07,Buyer_8,Pass,1900
+2024-11-29 13:23:07,Auctioneer,Buyer_8 passed,1900
+2024-11-29 13:23:09,Buyer_9,"Based on the information provided and considering the possibility of a winner's curse, it would be prudent to evaluate whether the item is worth the current price of $1900. If you believe the value of the item is at least $1900 or greater and aligns with your valuation and needs, you might decide to 'bid.' However, if you are uncertain about the value of the item or think it may not justify the $1900 price, then 'pass' would be the safer choice. Assuming you are exercising caution regarding winner's curse and price valuation, it would be advisable to 'pass.'",1900
+2024-11-29 13:23:09,Auctioneer,Buyer_9 passed,1900
+2024-11-29 13:23:09,Auctioneer,"The current bid is $1800 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1800?",1800
+2024-11-29 13:23:11,Buyer_0,"Given the current price of $1800, which is below your budget of $2000, you still have the option to wait in hopes that the price drops further, maximizing your potential savings. However, you also risk another buyer placing a bid before the price decreases further. Balancing these factors, a strategic move at this point would be to 'pass', allowing you to wait and see if the price drops further while remaining cautious of the winner's curse.",1800
+2024-11-29 13:23:11,Auctioneer,Buyer_0 passed,1800
+2024-11-29 13:23:11,Buyer_1,Bid,1800
+2024-11-29 13:23:11,Auctioneer,Buyer_1 passed,1800
+2024-11-29 13:23:11,Buyer_2,Pass,1800
+2024-11-29 13:23:11,Auctioneer,Buyer_2 passed,1800
+2024-11-29 13:23:14,Buyer_3,"Based on your budget and previous actions in the auction, it's important to consider the winner's curse, which suggests you might overvalue an item compared to its actual worth. At the current price of $1800, your decision depends on your estimation of the item's value compared to this price. Since you've already passed at higher prices, this could imply that you value the item below $1800 or are waiting for a better price to maximize your budget. Considering the potential of the winner's curse and given your budget constraint and previous actions, it would be prudent to 'pass' at this point, assuming you are waiting for a lower price or have reservations about the item's value justifying the current price.",1800
+2024-11-29 13:23:14,Auctioneer,Buyer_3 passed,1800
+2024-11-29 13:23:18,Buyer_4,"In a Dutch auction, the price of the item is gradually lowered until a bidder accepts the current price. As a participant with a budget of $2000, passing at higher prices suggests you are either looking for a better deal or have concerns about the true value of the item (possibly related to worries about the winner's curse, where the winner overpays).
+
+Given the current price of $1800, which is within your budget, and considering the potential to still secure a good deal:
+
+I would recommend making a 'bid' at this price if you believe the value of the item justifies the expense relative to your budget and any information you have about its market value. However, if there is substantial uncertainty about its true value or if similar auctions or items suggest a lower final price, you may choose to 'pass' in hopes of the price dropping further.
+
+In this scenario, given no additional information about the item's value or competing bids, a cautious approach considering your budget and past passes would be to 'bid' if you're fairly confident in its worth.",1800
+2024-11-29 13:23:18,Auctioneer,Buyer_4 passed,1800
+2024-11-29 13:23:18,Buyer_5,pass,1800
+2024-11-29 13:23:18,Auctioneer,Buyer_5 passed,1800
+2024-11-29 13:23:19,Buyer_6,pass,1800
+2024-11-29 13:23:19,Auctioneer,Buyer_6 passed,1800
+2024-11-29 13:23:21,Buyer_7,"In a Dutch auction, prices decrease until a buyer accepts the current price. With a budget of $2000, you can afford to bid at $1800. However, you should consider the value of the item relative to the price, along with any concerns pertaining to the winner's curse—winning the auction at a price higher than what the item is actually worth to you.
+
+Since you've already passed at $2000 and $1900, it indicates you're either waiting for a lower price or the item’s perceived value to you is less than those amounts. If $1800 aligns with the perceived value you're willing to pay or below it, you might consider bidding. If you still believe the price is higher than the item's value or are concerned about winning the item at a disadvantageous price, then passing is wise.
+
+Given the context and your previous decisions, I suggest to 'bid' at this price if it aligns with or is below the item's valuation in your perception. Otherwise, 'pass'. However, based on your cautious strategy so far, it could be more prudent to 'pass'.",1800
+2024-11-29 13:23:21,Auctioneer,Buyer_7 passed,1800
+2024-11-29 13:23:21,Buyer_8,Pass,1800
+2024-11-29 13:23:21,Auctioneer,Buyer_8 passed,1800
+2024-11-29 13:23:22,Buyer_9,Bid,1800
+2024-11-29 13:23:22,Auctioneer,Buyer_9 passed,1800
+2024-11-29 13:23:22,Auctioneer,"The current bid is $1700 for Lightly played Charizard Pokemon Go Card, valued at $1200 on TCGPlayer. Do I hear any advance on $1700?",1700
+2024-11-29 13:23:24,Buyer_0,"Given the current price of $1700, which is significantly below your budget of $2000, you need to weigh the possibility of achieving even greater savings by waiting against the risk of another buyer stepping in and bidding before you. At this price, you would achieve substantial savings and still fall well within your budget, mitigating the risk of overpaying in this auction. Therefore, a strategic decision at this point would be to 'bid'.",1700
+2024-11-29 13:23:24,Auctioneer,Buyer_0 passed,1700
+2024-11-29 13:23:24,Buyer_1,Pass,1700
+2024-11-29 13:23:24,Auctioneer,Buyer_1 passed,1700
+2024-11-29 13:23:28,Buyer_2,"Based on your previous actions where you passed at higher prices, and considering you are still within your budget, you may be interested in the item if the price decreases further. However, with the current price at $1700, there is a risk of winner's curse if the value of the item is perceived lower than that by you or other participants.
+
+Given that, you should consider how much you value the item and whether there might be further opportunities or auctions to purchase the same or similar item, perhaps at an even lower price or better condition. If you believe $1700 is a fair price and aligns with your valuation of the item, then it could be a strategic opportunity to bid.
+
+If you still have uncertainties or reservations about the actual value of the item and fear overestimating its worth, it might be prudent to 'pass' once more and observe further price reductions or similar opportunities.
+
+Ultimately, your decision should reflect your valuation strategy and comfort with the price based on all available information.
+
+Since you are cautious, the next action is: 'pass'.",1700
+2024-11-29 13:23:28,Auctioneer,Buyer_2 passed,1700
+2024-11-29 13:23:28,Buyer_3,Pass,1700
+2024-11-29 13:23:28,Auctioneer,Buyer_3 passed,1700
+2024-11-29 13:23:28,Buyer_4,bid,1700
+2024-11-29 13:23:28,Auctioneer,Accepted bid from Buyer_4 at $1700,1700
+2024-11-29 13:23:28,Auctioneer,Sold to Buyer_4 for $1700!,1700
