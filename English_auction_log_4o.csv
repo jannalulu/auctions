@@ -1,0 +1,562 @@
+Timestamp,Agent,Action,Current Price
+2024-11-30 14:14:46,Auctioneer,"The current bid is $0 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $0?",0
+2024-11-30 14:14:47,Buyer_0,bid,0
+2024-11-30 14:14:47,Buyer_1,bid,0
+2024-11-30 14:14:48,Buyer_2,bid,0
+2024-11-30 14:14:58,Buyer_3,"In an English auction, the price will continue to increase as other participants place their bids. Given that the current price is $0 and my budget is $40, I have room to bid without exceeding my budget. However, I should be cautious of the winner's curse, which suggests that winning an auction at too high a price can lead to overpaying for the item. 
+
+Since there have been no bids yet, and I have a reasonable budget of $40, I have room to participate in the bidding process for now. Therefore, my next action is to 'bid'.",0
+2024-11-30 14:14:58,Buyer_4,bid,0
+2024-11-30 14:14:59,Buyer_5,bid,0
+2024-11-30 14:15:00,Buyer_6,"Given the current price is $0 and your budget is $40, you have room to place a bid without exceeding your budget. Since you have not yet bid and the current price is $0, it would be strategic to place an initial bid. Therefore, your next action should be to 'bid'.",0
+2024-11-30 14:15:00,Buyer_7,bid,0
+2024-11-30 14:15:00,Buyer_8,bid,0
+2024-11-30 14:15:01,Buyer_9,bid,0
+2024-11-30 14:15:01,Auctioneer,"The current bid is $1 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $1?",1
+2024-11-30 14:15:01,Buyer_0,bid,1
+2024-11-30 14:15:01,Buyer_1,bid,1
+2024-11-30 14:15:02,Buyer_2,bid,1
+2024-11-30 14:15:03,Buyer_3,"Based on the current auction state, the price is $1, and since it is well within my budget of $40, I will choose to 'bid'.",1
+2024-11-30 14:15:04,Buyer_4,bid,1
+2024-11-30 14:15:04,Buyer_5,bid,1
+2024-11-30 14:15:05,Buyer_6,bid,1
+2024-11-30 14:15:05,Buyer_7,bid,1
+2024-11-30 14:15:05,Buyer_8,bid,1
+2024-11-30 14:15:06,Buyer_9,bid,1
+2024-11-30 14:15:06,Auctioneer,"The current bid is $2 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $2?",2
+2024-11-30 14:15:08,Buyer_0,"In this scenario, the current price is $2, and since my budget is $40, I have enough budget to continue bidding. However, I should also consider the potential for the winner's curse, which occurs when the winner of an auction overpays for an item, often due to competition driving the price above its true value.
+
+Since there is little information on the value of the Pokemon card or the behavior of other bidders, I need to weigh my decision carefully. Given that the current price is only $2 and significantly below my budget, it is reasonable to continue participating in the auction at this stage.
+
+Therefore, my next action is: bid.",2
+2024-11-30 14:15:08,Buyer_1,bid,2
+2024-11-30 14:15:09,Buyer_2,bid,2
+2024-11-30 14:15:10,Buyer_3,"Given that the current price is $2 and my budget is $40, I still have plenty of room to bid without exceeding my budget. However, I should remain cautious of the winner's curse and not overpay as the auction progresses. At this point, since the price is still very low compared to my budget, I will choose to 'bid'.",2
+2024-11-30 14:15:10,Buyer_4,bid,2
+2024-11-30 14:15:11,Buyer_5,bid,2
+2024-11-30 14:15:14,Buyer_6,"Given the current price of $2 and your budget of $40, you still have plenty of room to place a bid without exceeding your budget. However, it is important to be cautious of the winner's curse, which happens when a bidder wins by overvaluing the item. With the auction in its early stages and the price still low, it may be advantageous to continue bidding to secure the item at a low cost. Given your current situation, your next action should be to 'bid'.",2
+2024-11-30 14:15:15,Buyer_7,"Based on your budget of $40 and the current price of $2, you have ample budget remaining to continue bidding. However, it's important to consider the value of the item and not overpay to avoid the winner's curse, where you might win the auction but find that you've paid more than the item's worth. Since the price is still low and within your budget, your next action is likely to ""bid.""",2
+2024-11-30 14:15:16,Buyer_8,bid,2
+2024-11-30 14:15:16,Buyer_9,bid,2
+2024-11-30 14:15:16,Auctioneer,"The current bid is $3 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $3?",3
+2024-11-30 14:15:17,Buyer_0,"Given that the current price is $3 and still significantly below your budget of $40, it is reasonable to continue participating in the auction. However, you should continue to be cautious of the winner's curse, especially if the price starts to approach your perceived value of the card. 
+
+For now, at this low price, your next action should be: bid.",3
+2024-11-30 14:15:20,Buyer_1,bid,3
+2024-11-30 14:15:21,Buyer_2,bid,3
+2024-11-30 14:15:22,Buyer_3,"Given the current auction state with a price of $3 and my budget of $40, I still have plenty of room to bid without exceeding my budget. However, I should continue to be mindful of the winner's curse and not let the price go too high. Since the current price is still quite low in comparison to my budget, my next action is to 'bid'.",3
+2024-11-30 14:15:22,Buyer_4,bid,3
+2024-11-30 14:15:22,Buyer_5,pass,3
+2024-11-30 14:15:24,Buyer_6,"Given the current price of $3 and your budget of $40, you have ample room to continue participating in the auction. However, you should remain aware of the winner's curse, wherein you might end up paying more than the item is worth. At this stage, with the price still relatively low, it would be strategic to maintain your bidding position while remaining vigilant about not overpaying as the auction progresses.
+
+Your next action should be to 'bid'.",3
+2024-11-30 14:15:27,Buyer_7,"Based on your budget of $40 and the current price of $3, you still have ample budget remaining. Since the price is within your budget and considering the potential value of the Pokemon card, it's reasonable to continue participating at this stage without overpaying. Therefore, your next action is to ""bid.""",3
+2024-11-30 14:15:28,Buyer_8,pass,3
+2024-11-30 14:15:28,Buyer_9,bid,3
+2024-11-30 14:15:28,Auctioneer,"The current bid is $4 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $4?",4
+2024-11-30 14:15:29,Buyer_0,"Given that the current price is $4 and still significantly below my budget of $40, it remains reasonable to continue participating in the auction. However, I should still be mindful of the winner's curse as the price increases. At this stage, the price is low enough to keep bidding. Therefore, my next action is: bid.",4
+2024-11-30 14:15:30,Buyer_1,bid,4
+2024-11-30 14:15:32,Buyer_2,"In an English auction, the price increases incrementally, and each participant can decide whether to stay in or exit by passing. Given your budget is $40 and the current price is $4, you have room to continue bidding without exceeding your budget. However, to avoid the winner's curse—overpaying for an item relative to its true value—you need to consider the item's value to you compared to its potential resell value or personal worth. 
+
+Assuming you assess the value of the card to be more than the current price and well within your budget, and you have no reason to believe other bidders know something you don't about the card's true value, it might still be strategic to continue.
+
+Therefore, for now, the sensible choice with all given information is to 'bid'.",4
+2024-11-30 14:15:33,Buyer_3,"Given the current auction state with a price of $4 and my budget of $40, I still have significant room to bid without exceeding my budget. However, it's important to continue being cautious about the winner's curse and avoid overpaying for the item. Since the current price is relatively low compared to my budget, my next action is to 'bid'.",4
+2024-11-30 14:15:34,Buyer_4,"Given that the auction is currently at $4 and considering your budget of $40, it is reasonable for you to continue participating in the auction without exceeding your budget or exposing yourself to the winner's curse at this point. Therefore, your next action should be to 'bid'.",4
+2024-11-30 14:15:35,Buyer_5,pass,4
+2024-11-30 14:15:36,Buyer_6,"Given the current price of $4 and your budget of $40, you still have a lot of leeway to continue participating in the auction without risking your budget. The price remains relatively low, and it can be strategic to maintain your bidding position while being cautious about not exceeding the item's perceived value. At this stage, it would be advantageous to continue bidding. Therefore, your next action should be to 'bid'.",4
+2024-11-30 14:15:37,Buyer_7,"Given your budget of $40 and the current price of $4, you still have substantial room within your budget to continue bidding. The price is still relatively low, and considering the potential value of the Pokemon card, it is reasonable to continue participating without the immediate risk of overpaying. Therefore, your next action is to ""bid.""",4
+2024-11-30 14:15:38,Buyer_8,pass,4
+2024-11-30 14:15:38,Buyer_9,bid,4
+2024-11-30 14:15:38,Auctioneer,"The current bid is $5 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $5?",5
+2024-11-30 14:15:39,Buyer_0,"Given that the current price is $5 and it is still significantly below my budget of $40, it is reasonable to continue participating in the auction at this stage. I should, however, remain cautious about the possibility of the winner's curse as the price increases. At this point, the price is low enough relative to my budget to continue without immediate concern.
+
+Therefore, my next action is: bid.",5
+2024-11-30 14:15:40,Buyer_1,bid,5
+2024-11-30 14:15:40,Buyer_2,bid,5
+2024-11-30 14:15:41,Buyer_3,"Given the current price of $5 and your budget of $40, you still have plenty of room to participate in the bidding. However, it's important to remain cautious of the winner's curse and overpaying as the price increases. Since the current price is relatively low compared to your budget, your best course of action is to 'bid'.",5
+2024-11-30 14:15:42,Buyer_4,bid,5
+2024-11-30 14:15:42,Buyer_5,pass,5
+2024-11-30 14:15:43,Buyer_6,"At the current price of $5, you still have room within your budget of $40 to continue bidding. Since the price remains relatively low, it would be strategic to maintain your bidding position while staying vigilant about not exceeding the item's perceived value. Therefore, your next action should be to 'bid'.",5
+2024-11-30 14:15:44,Buyer_7,"Given your budget of $40, you still have a significant amount of your budget remaining at the current price of $5. While it is essential to be cautious of the winner's curse, the price is still relatively low compared to your budget, and it is reasonable to continue participating. Therefore, your next action is to ""bid.""",5
+2024-11-30 14:15:45,Buyer_8,pass,5
+2024-11-30 14:15:45,Buyer_9,bid,5
+2024-11-30 14:15:45,Auctioneer,"The current bid is $6 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $6?",6
+2024-11-30 14:15:46,Buyer_0,"Given that the current price is $6 and still comfortably below my budget of $40, it is reasonable to continue participating in the auction. However, I should remain cautious of the winner's curse, especially as the price rises closer to my perceived value of the card. At this stage, the price is low enough to continue bidding without immediate concern.
+
+Therefore, my next action is: bid.",6
+2024-11-30 14:15:47,Buyer_1,bid,6
+2024-11-30 14:15:47,Buyer_2,bid,6
+2024-11-30 14:15:48,Buyer_3,"Given the current price of $6 and my budget of $40, I still have sufficient room to participate in the bidding without exceeding my budget. However, I need to remain cautious of the winner's curse and avoid overpaying as the auction progresses. Since the current price is still relatively low compared to my budget, I will choose to 'bid'.",6
+2024-11-30 14:15:50,Buyer_4,"Given your budget of $40 and the current price of $6, you still have room to continue bidding without exceeding your budget. The winner's curse refers to the tendency of the winning bid in an auction to exceed the intrinsic value or true worth of an item, leading the winner to potentially overpay. However, since the current price is still significantly below your budget, the risk of experiencing the winner's curse remains low. Therefore, your next action should be to 'bid'.",6
+2024-11-30 14:15:50,Buyer_5,pass,6
+2024-11-30 14:15:51,Buyer_6,"At the current price of $6, you are still well within your budget of $40. However, it's important to be mindful of the winner's curse and to ensure that you don't overvalue the item. Given your budget and the current relatively low price, it would be strategic to continue participating in the auction while keeping an eye on not overpaying. Therefore, your next action should be to 'bid'.",6
+2024-11-30 14:15:52,Buyer_7,"Given your budget of $40, at the current price of $6, you still have ample room within your budget to continue bidding. It's important, however, to remain cautious about overpaying in relation to the card's value, considering the winner's curse. Since the price is still relatively low compared to your budget, it is reasonable to continue participating at this stage. Your next action is to ""bid.""",6
+2024-11-30 14:15:53,Buyer_8,pass,6
+2024-11-30 14:15:55,Buyer_9,"In an English auction, the price increases incrementally, and each participant decides whether to continue bidding or pass. Given your budget of $40 and the current price of $6, you are still within your budget. However, you should remain cautious of overpaying and consider the potential value of the card to you. Given that the current auction price of $6 is far below your budget, it is reasonable to continue bidding while still being careful not to exceed your budget or go beyond the card's value to you.
+
+Thus, your next action is: 'bid'.",6
+2024-11-30 14:15:55,Auctioneer,"The current bid is $7 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $7?",7
+2024-11-30 14:15:57,Buyer_0,"Given that the current price is $7 and still significantly below my budget of $40, it's reasonable to continue participating in the auction. However, I should continue to be mindful of the winner's curse as the price increases, especially if it starts approaching my perceived value of the card. At this stage, the price is low enough relative to my budget, so I will continue to bid. 
+
+Therefore, my next action is: bid.",7
+2024-11-30 14:15:58,Buyer_1,"Given that your budget is $40 and the current price is $7, continuing to bid is within your budget. However, it's important to stay mindful of the winner's curse, which suggests being cautious about overvaluing the item simply because of the competition. Nonetheless, since the current price is still well under your budget, your best strategy right now is to continue bidding. 
+
+Therefore, your next action should be: 'bid'.",7
+2024-11-30 14:15:59,Buyer_2,"Given your budget of $40 and the current price of $7, you still have room to bid. Assuming you still assess the value of the card to be higher than the current price and it aligns with your personal or investment goals, it may be advantageous to continue. Considering the winner’s curse and assuming no new negative information about the card's value has come to light, the strategic choice would be to 'bid'.",7
+2024-11-30 14:16:00,Buyer_3,"Given the current price of $7 and your budget of $40, you still have substantial room to continue bidding without exceeding your budget. While it's important to remain mindful of the winner's curse and not overpay as the auction progresses, the current price is still quite low compared to your budget. Therefore, your next action is to 'bid'.",7
+2024-11-30 14:16:02,Buyer_4,"Given that the current price is $7 and your budget is $40, you still have ample room to continue bidding. The risk of the winner's curse is relatively low at this price point since it's well below your budget. Therefore, your next action should be to 'bid'.",7
+2024-11-30 14:16:03,Buyer_5,pass,7
+2024-11-30 14:16:05,Buyer_6,"Price $7: With the current price of $7, you are still comfortably within your budget of $40. However, it's crucial to remain cautious of the winner's curse, which involves paying more than the item might be worth. Since the price is still relatively low compared to your budget, it would be advantageous to maintain your position in the auction by continuing to bid. Given these considerations, your next action should be to 'bid'.",7
+2024-11-30 14:16:14,Auctioneer,"The current bid is $0 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $0?",0
+2024-11-30 14:16:15,Buyer_0,bid,0
+2024-11-30 14:16:15,Buyer_1,bid,0
+2024-11-30 14:16:15,Buyer_2,bid,0
+2024-11-30 14:16:16,Buyer_3,bid,0
+2024-11-30 14:16:16,Buyer_4,bid,0
+2024-11-30 14:16:17,Buyer_5,bid,0
+2024-11-30 14:16:18,Buyer_6,bid,0
+2024-11-30 14:16:18,Buyer_7,bid,0
+2024-11-30 14:16:19,Buyer_8,bid,0
+2024-11-30 14:16:19,Buyer_9,bid,0
+2024-11-30 14:16:19,Auctioneer,"The current bid is $1 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $1?",1
+2024-11-30 14:16:20,Buyer_0,bid,1
+2024-11-30 14:16:20,Buyer_1,bid,1
+2024-11-30 14:16:20,Buyer_2,bid,1
+2024-11-30 14:16:21,Buyer_3,bid,1
+2024-11-30 14:16:22,Buyer_4,bid,1
+2024-11-30 14:16:23,Buyer_5,bid,1
+2024-11-30 14:16:23,Buyer_6,bid,1
+2024-11-30 14:16:24,Buyer_7,bid,1
+2024-11-30 14:16:24,Buyer_8,bid,1
+2024-11-30 14:16:25,Buyer_9,bid,1
+2024-11-30 14:16:25,Auctioneer,"The current bid is $2 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $2?",2
+2024-11-30 14:16:25,Buyer_0,bid,2
+2024-11-30 14:16:25,Buyer_1,bid,2
+2024-11-30 14:16:26,Buyer_2,bid,2
+2024-11-30 14:16:26,Buyer_3,bid,2
+2024-11-30 14:16:26,Buyer_4,bid,2
+2024-11-30 14:16:27,Buyer_5,bid,2
+2024-11-30 14:16:27,Buyer_6,bid,2
+2024-11-30 14:16:27,Buyer_7,bid,2
+2024-11-30 14:16:28,Buyer_8,bid,2
+2024-11-30 14:16:28,Buyer_9,bid,2
+2024-11-30 14:16:28,Auctioneer,"The current bid is $3 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $3?",3
+2024-11-30 14:16:28,Buyer_0,bid,3
+2024-11-30 14:16:29,Buyer_1,bid,3
+2024-11-30 14:16:29,Buyer_2,bid,3
+2024-11-30 14:16:29,Buyer_3,bid,3
+2024-11-30 14:16:30,Buyer_4,bid,3
+2024-11-30 14:16:30,Buyer_5,bid,3
+2024-11-30 14:16:31,Buyer_6,bid,3
+2024-11-30 14:16:32,Buyer_7,bid,3
+2024-11-30 14:16:32,Buyer_8,bid,3
+2024-11-30 14:16:32,Buyer_9,bid,3
+2024-11-30 14:16:32,Auctioneer,"The current bid is $4 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $4?",4
+2024-11-30 14:16:33,Buyer_0,bid,4
+2024-11-30 14:16:33,Buyer_1,bid,4
+2024-11-30 14:16:34,Buyer_2,bid,4
+2024-11-30 14:16:34,Buyer_3,bid,4
+2024-11-30 14:16:34,Buyer_4,bid,4
+2024-11-30 14:16:35,Buyer_5,bid,4
+2024-11-30 14:16:35,Buyer_6,bid,4
+2024-11-30 14:16:36,Buyer_7,bid,4
+2024-11-30 14:16:36,Buyer_8,bid,4
+2024-11-30 14:16:36,Buyer_9,bid,4
+2024-11-30 14:16:36,Auctioneer,"The current bid is $5 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $5?",5
+2024-11-30 14:16:37,Buyer_0,bid,5
+2024-11-30 14:16:37,Buyer_1,bid,5
+2024-11-30 14:16:38,Buyer_2,bid,5
+2024-11-30 14:16:38,Buyer_3,bid,5
+2024-11-30 14:16:38,Buyer_4,bid,5
+2024-11-30 14:16:39,Buyer_5,bid,5
+2024-11-30 14:16:39,Buyer_6,bid,5
+2024-11-30 14:16:40,Buyer_7,bid,5
+2024-11-30 14:16:40,Buyer_8,bid,5
+2024-11-30 14:16:41,Buyer_9,bid,5
+2024-11-30 14:16:41,Auctioneer,"The current bid is $6 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $6?",6
+2024-11-30 14:16:42,Buyer_0,bid,6
+2024-11-30 14:16:42,Buyer_1,bid,6
+2024-11-30 14:16:42,Buyer_2,bid,6
+2024-11-30 14:16:43,Buyer_3,bid,6
+2024-11-30 14:16:43,Buyer_4,bid,6
+2024-11-30 14:16:43,Buyer_5,bid,6
+2024-11-30 14:16:44,Buyer_6,bid,6
+2024-11-30 14:16:44,Buyer_7,bid,6
+2024-11-30 14:16:45,Buyer_8,bid,6
+2024-11-30 14:16:45,Buyer_9,bid,6
+2024-11-30 14:16:45,Auctioneer,"The current bid is $7 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $7?",7
+2024-11-30 14:16:46,Buyer_0,bid,7
+2024-11-30 14:16:46,Buyer_1,bid,7
+2024-11-30 14:16:47,Buyer_2,bid,7
+2024-11-30 14:16:47,Buyer_3,bid,7
+2024-11-30 14:16:48,Buyer_4,bid,7
+2024-11-30 14:16:48,Buyer_5,bid,7
+2024-11-30 14:16:48,Buyer_6,bid,7
+2024-11-30 14:16:49,Buyer_7,bid,7
+2024-11-30 14:16:49,Buyer_8,bid,7
+2024-11-30 14:16:49,Buyer_9,bid,7
+2024-11-30 14:16:49,Auctioneer,"The current bid is $8 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $8?",8
+2024-11-30 14:16:50,Buyer_0,bid,8
+2024-11-30 14:16:50,Buyer_1,bid,8
+2024-11-30 14:16:51,Buyer_2,bid,8
+2024-11-30 14:16:51,Buyer_3,bid,8
+2024-11-30 14:16:51,Buyer_4,bid,8
+2024-11-30 14:16:52,Buyer_5,bid,8
+2024-11-30 14:16:52,Buyer_6,bid,8
+2024-11-30 14:16:53,Buyer_7,bid,8
+2024-11-30 14:16:53,Buyer_8,bid,8
+2024-11-30 14:16:53,Buyer_9,bid,8
+2024-11-30 14:16:53,Auctioneer,"The current bid is $9 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $9?",9
+2024-11-30 14:16:54,Buyer_0,bid,9
+2024-11-30 14:16:54,Buyer_1,bid,9
+2024-11-30 14:16:55,Buyer_2,bid,9
+2024-11-30 14:16:55,Buyer_3,bid,9
+2024-11-30 14:16:55,Buyer_4,bid,9
+2024-11-30 14:16:56,Buyer_5,bid,9
+2024-11-30 14:16:56,Buyer_6,bid,9
+2024-11-30 14:16:56,Buyer_7,bid,9
+2024-11-30 14:16:57,Buyer_8,bid,9
+2024-11-30 14:16:57,Buyer_9,bid,9
+2024-11-30 14:16:57,Auctioneer,"The current bid is $10 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $10?",10
+2024-11-30 14:16:58,Buyer_0,bid,10
+2024-11-30 14:16:58,Buyer_1,bid,10
+2024-11-30 14:16:59,Buyer_2,bid,10
+2024-11-30 14:17:00,Buyer_3,bid,10
+2024-11-30 14:17:00,Buyer_4,bid,10
+2024-11-30 14:17:01,Buyer_5,bid,10
+2024-11-30 14:17:01,Buyer_6,bid,10
+2024-11-30 14:17:02,Buyer_7,bid,10
+2024-11-30 14:17:02,Buyer_8,bid,10
+2024-11-30 14:17:03,Buyer_9,bid,10
+2024-11-30 14:17:03,Auctioneer,"The current bid is $11 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $11?",11
+2024-11-30 14:17:03,Buyer_0,bid,11
+2024-11-30 14:17:03,Buyer_1,bid,11
+2024-11-30 14:17:04,Buyer_2,bid,11
+2024-11-30 14:17:04,Buyer_3,bid,11
+2024-11-30 14:17:05,Buyer_4,bid,11
+2024-11-30 14:17:05,Buyer_5,bid,11
+2024-11-30 14:17:06,Buyer_6,bid,11
+2024-11-30 14:17:06,Buyer_7,bid,11
+2024-11-30 14:17:06,Buyer_8,bid,11
+2024-11-30 14:17:07,Buyer_9,bid,11
+2024-11-30 14:17:07,Auctioneer,"The current bid is $12 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $12?",12
+2024-11-30 14:17:08,Buyer_0,bid,12
+2024-11-30 14:17:09,Buyer_1,bid,12
+2024-11-30 14:17:09,Buyer_2,bid,12
+2024-11-30 14:17:09,Buyer_3,bid,12
+2024-11-30 14:17:10,Buyer_4,bid,12
+2024-11-30 14:17:10,Buyer_5,bid,12
+2024-11-30 14:17:11,Buyer_6,bid,12
+2024-11-30 14:17:11,Buyer_7,bid,12
+2024-11-30 14:17:12,Buyer_8,bid,12
+2024-11-30 14:17:12,Buyer_9,bid,12
+2024-11-30 14:17:12,Auctioneer,"The current bid is $13 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $13?",13
+2024-11-30 14:17:13,Buyer_0,bid,13
+2024-11-30 14:17:14,Buyer_1,bid,13
+2024-11-30 14:17:14,Buyer_2,bid,13
+2024-11-30 14:17:15,Buyer_3,bid,13
+2024-11-30 14:17:15,Buyer_4,bid,13
+2024-11-30 14:17:16,Buyer_5,bid,13
+2024-11-30 14:17:16,Buyer_6,bid,13
+2024-11-30 14:17:17,Buyer_7,bid,13
+2024-11-30 14:17:17,Buyer_8,bid,13
+2024-11-30 14:17:18,Buyer_9,bid,13
+2024-11-30 14:17:18,Auctioneer,"The current bid is $14 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $14?",14
+2024-11-30 14:17:18,Buyer_0,bid,14
+2024-11-30 14:17:19,Buyer_1,bid,14
+2024-11-30 14:17:19,Buyer_2,bid,14
+2024-11-30 14:17:19,Buyer_3,bid,14
+2024-11-30 14:17:20,Buyer_4,bid,14
+2024-11-30 14:17:21,Buyer_5,bid,14
+2024-11-30 14:17:21,Buyer_6,bid,14
+2024-11-30 14:17:21,Buyer_7,bid,14
+2024-11-30 14:17:22,Buyer_8,bid,14
+2024-11-30 14:17:22,Buyer_9,bid,14
+2024-11-30 14:17:22,Auctioneer,"The current bid is $15 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $15?",15
+2024-11-30 14:17:22,Buyer_0,bid,15
+2024-11-30 14:17:23,Buyer_1,bid,15
+2024-11-30 14:17:23,Buyer_2,bid,15
+2024-11-30 14:17:24,Buyer_3,bid,15
+2024-11-30 14:17:24,Buyer_4,bid,15
+2024-11-30 14:17:24,Buyer_5,bid,15
+2024-11-30 14:17:25,Buyer_6,bid,15
+2024-11-30 14:17:25,Buyer_7,bid,15
+2024-11-30 14:17:26,Buyer_8,bid,15
+2024-11-30 14:17:26,Buyer_9,bid,15
+2024-11-30 14:17:26,Auctioneer,"The current bid is $16 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $16?",16
+2024-11-30 14:17:26,Buyer_0,bid,16
+2024-11-30 14:17:27,Buyer_1,bid,16
+2024-11-30 14:17:27,Buyer_2,bid,16
+2024-11-30 14:17:28,Buyer_3,bid,16
+2024-11-30 14:17:28,Buyer_4,bid,16
+2024-11-30 14:17:29,Buyer_5,bid,16
+2024-11-30 14:17:29,Buyer_6,bid,16
+2024-11-30 14:17:29,Buyer_7,bid,16
+2024-11-30 14:17:30,Buyer_8,bid,16
+2024-11-30 14:17:30,Buyer_9,bid,16
+2024-11-30 14:17:30,Auctioneer,"The current bid is $17 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $17?",17
+2024-11-30 14:17:31,Buyer_0,bid,17
+2024-11-30 14:17:31,Buyer_1,bid,17
+2024-11-30 14:17:32,Buyer_2,bid,17
+2024-11-30 14:17:32,Buyer_3,bid,17
+2024-11-30 14:17:32,Buyer_4,bid,17
+2024-11-30 14:17:33,Buyer_5,bid,17
+2024-11-30 14:17:33,Buyer_6,bid,17
+2024-11-30 14:17:34,Buyer_7,bid,17
+2024-11-30 14:17:34,Buyer_8,bid,17
+2024-11-30 14:17:35,Buyer_9,bid,17
+2024-11-30 14:17:35,Auctioneer,"The current bid is $18 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $18?",18
+2024-11-30 14:17:35,Buyer_0,bid,18
+2024-11-30 14:17:35,Buyer_1,bid,18
+2024-11-30 14:17:36,Buyer_2,bid,18
+2024-11-30 14:17:37,Buyer_3,bid,18
+2024-11-30 14:17:37,Buyer_4,bid,18
+2024-11-30 14:17:37,Buyer_5,bid,18
+2024-11-30 14:17:38,Buyer_6,bid,18
+2024-11-30 14:17:38,Buyer_7,bid,18
+2024-11-30 14:17:38,Buyer_8,bid,18
+2024-11-30 14:17:39,Buyer_9,bid,18
+2024-11-30 14:17:39,Auctioneer,"The current bid is $19 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $19?",19
+2024-11-30 14:17:39,Buyer_0,bid,19
+2024-11-30 14:17:40,Buyer_1,bid,19
+2024-11-30 14:17:41,Buyer_2,bid,19
+2024-11-30 14:17:41,Buyer_3,bid,19
+2024-11-30 14:17:42,Buyer_4,bid,19
+2024-11-30 14:17:42,Buyer_5,bid,19
+2024-11-30 14:17:43,Buyer_6,bid,19
+2024-11-30 14:17:44,Buyer_7,bid,19
+2024-11-30 14:17:44,Buyer_8,bid,19
+2024-11-30 14:17:45,Buyer_9,bid,19
+2024-11-30 14:17:45,Auctioneer,"The current bid is $20 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $20?",20
+2024-11-30 14:17:45,Buyer_0,bid,20
+2024-11-30 14:17:45,Buyer_1,bid,20
+2024-11-30 14:17:46,Buyer_2,bid,20
+2024-11-30 14:17:46,Buyer_3,bid,20
+2024-11-30 14:17:47,Buyer_4,bid,20
+2024-11-30 14:17:47,Buyer_5,bid,20
+2024-11-30 14:17:47,Buyer_6,bid,20
+2024-11-30 14:17:48,Buyer_7,bid,20
+2024-11-30 14:17:48,Buyer_8,bid,20
+2024-11-30 14:17:49,Buyer_9,bid,20
+2024-11-30 14:17:49,Auctioneer,"The current bid is $21 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $21?",21
+2024-11-30 14:17:49,Buyer_0,bid,21
+2024-11-30 14:17:49,Buyer_1,bid,21
+2024-11-30 14:17:50,Buyer_2,bid,21
+2024-11-30 14:17:50,Buyer_3,bid,21
+2024-11-30 14:17:51,Buyer_4,bid,21
+2024-11-30 14:17:51,Buyer_5,bid,21
+2024-11-30 14:17:51,Buyer_6,bid,21
+2024-11-30 14:17:52,Buyer_7,bid,21
+2024-11-30 14:17:52,Buyer_8,bid,21
+2024-11-30 14:17:52,Buyer_9,bid,21
+2024-11-30 14:17:52,Auctioneer,"The current bid is $22 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $22?",22
+2024-11-30 14:17:53,Buyer_0,bid,22
+2024-11-30 14:17:53,Buyer_1,bid,22
+2024-11-30 14:17:54,Buyer_2,bid,22
+2024-11-30 14:17:54,Buyer_3,bid,22
+2024-11-30 14:17:54,Buyer_4,bid,22
+2024-11-30 14:17:55,Buyer_5,bid,22
+2024-11-30 14:17:55,Buyer_6,bid,22
+2024-11-30 14:17:55,Buyer_7,bid,22
+2024-11-30 14:17:56,Buyer_8,bid,22
+2024-11-30 14:17:56,Buyer_9,bid,22
+2024-11-30 14:17:56,Auctioneer,"The current bid is $23 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $23?",23
+2024-11-30 14:17:57,Buyer_0,bid,23
+2024-11-30 14:17:57,Buyer_1,bid,23
+2024-11-30 14:17:58,Buyer_2,bid,23
+2024-11-30 14:17:58,Buyer_3,bid,23
+2024-11-30 14:17:58,Buyer_4,bid,23
+2024-11-30 14:17:59,Buyer_5,bid,23
+2024-11-30 14:17:59,Buyer_6,bid,23
+2024-11-30 14:17:59,Buyer_7,bid,23
+2024-11-30 14:17:59,Buyer_8,bid,23
+2024-11-30 14:18:00,Buyer_9,bid,23
+2024-11-30 14:18:00,Auctioneer,"The current bid is $24 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $24?",24
+2024-11-30 14:18:00,Buyer_0,bid,24
+2024-11-30 14:18:01,Buyer_1,bid,24
+2024-11-30 14:18:01,Buyer_2,bid,24
+2024-11-30 14:18:02,Buyer_3,bid,24
+2024-11-30 14:18:02,Buyer_4,bid,24
+2024-11-30 14:18:02,Buyer_5,bid,24
+2024-11-30 14:18:03,Buyer_6,bid,24
+2024-11-30 14:18:03,Buyer_7,bid,24
+2024-11-30 14:18:04,Buyer_8,bid,24
+2024-11-30 14:18:05,Buyer_9,bid,24
+2024-11-30 14:18:05,Auctioneer,"The current bid is $25 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $25?",25
+2024-11-30 14:18:05,Buyer_0,bid,25
+2024-11-30 14:18:05,Buyer_1,bid,25
+2024-11-30 14:18:06,Buyer_2,bid,25
+2024-11-30 14:18:06,Buyer_3,bid,25
+2024-11-30 14:18:06,Buyer_4,bid,25
+2024-11-30 14:18:07,Buyer_5,bid,25
+2024-11-30 14:18:07,Buyer_6,bid,25
+2024-11-30 14:18:08,Buyer_7,bid,25
+2024-11-30 14:18:08,Buyer_8,bid,25
+2024-11-30 14:18:08,Buyer_9,bid,25
+2024-11-30 14:18:08,Auctioneer,"The current bid is $26 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $26?",26
+2024-11-30 14:18:09,Buyer_0,bid,26
+2024-11-30 14:18:09,Buyer_1,bid,26
+2024-11-30 14:18:09,Buyer_2,bid,26
+2024-11-30 14:18:10,Buyer_3,bid,26
+2024-11-30 14:18:10,Buyer_4,bid,26
+2024-11-30 14:18:10,Buyer_5,bid,26
+2024-11-30 14:18:11,Buyer_6,bid,26
+2024-11-30 14:18:12,Buyer_7,bid,26
+2024-11-30 14:18:12,Buyer_8,bid,26
+2024-11-30 14:18:12,Buyer_9,bid,26
+2024-11-30 14:18:12,Auctioneer,"The current bid is $27 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $27?",27
+2024-11-30 14:18:13,Buyer_0,bid,27
+2024-11-30 14:18:14,Buyer_1,bid,27
+2024-11-30 14:18:14,Buyer_2,bid,27
+2024-11-30 14:18:15,Buyer_3,bid,27
+2024-11-30 14:18:15,Buyer_4,bid,27
+2024-11-30 14:18:16,Buyer_5,bid,27
+2024-11-30 14:18:17,Buyer_6,bid,27
+2024-11-30 14:18:17,Buyer_7,bid,27
+2024-11-30 14:18:18,Buyer_8,bid,27
+2024-11-30 14:18:18,Buyer_9,bid,27
+2024-11-30 14:18:18,Auctioneer,"The current bid is $28 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $28?",28
+2024-11-30 14:18:18,Buyer_0,bid,28
+2024-11-30 14:18:19,Buyer_1,bid,28
+2024-11-30 14:18:19,Buyer_2,bid,28
+2024-11-30 14:18:19,Buyer_3,bid,28
+2024-11-30 14:18:20,Buyer_4,bid,28
+2024-11-30 14:18:20,Buyer_5,bid,28
+2024-11-30 14:18:20,Buyer_6,bid,28
+2024-11-30 14:18:21,Buyer_7,bid,28
+2024-11-30 14:18:22,Buyer_8,bid,28
+2024-11-30 14:18:22,Buyer_9,bid,28
+2024-11-30 14:18:22,Auctioneer,"The current bid is $29 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $29?",29
+2024-11-30 14:18:22,Buyer_0,bid,29
+2024-11-30 14:18:23,Buyer_1,bid,29
+2024-11-30 14:18:23,Buyer_2,bid,29
+2024-11-30 14:18:23,Buyer_3,bid,29
+2024-11-30 14:18:24,Buyer_4,bid,29
+2024-11-30 14:18:24,Buyer_5,bid,29
+2024-11-30 14:18:24,Buyer_6,bid,29
+2024-11-30 14:18:25,Buyer_7,bid,29
+2024-11-30 14:18:25,Buyer_8,bid,29
+2024-11-30 14:18:26,Buyer_9,bid,29
+2024-11-30 14:18:26,Auctioneer,"The current bid is $30 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $30?",30
+2024-11-30 14:18:26,Buyer_0,bid,30
+2024-11-30 14:18:26,Buyer_1,bid,30
+2024-11-30 14:18:27,Buyer_2,bid,30
+2024-11-30 14:18:27,Buyer_3,bid,30
+2024-11-30 14:18:27,Buyer_4,bid,30
+2024-11-30 14:18:28,Buyer_5,bid,30
+2024-11-30 14:18:28,Buyer_6,bid,30
+2024-11-30 14:18:28,Buyer_7,bid,30
+2024-11-30 14:18:29,Buyer_8,bid,30
+2024-11-30 14:18:29,Buyer_9,bid,30
+2024-11-30 14:18:29,Auctioneer,"The current bid is $31 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $31?",31
+2024-11-30 14:18:30,Buyer_0,bid,31
+2024-11-30 14:18:30,Buyer_1,bid,31
+2024-11-30 14:18:30,Buyer_2,bid,31
+2024-11-30 14:18:31,Buyer_3,bid,31
+2024-11-30 14:18:31,Buyer_4,bid,31
+2024-11-30 14:18:31,Buyer_5,bid,31
+2024-11-30 14:18:32,Buyer_6,bid,31
+2024-11-30 14:18:32,Buyer_7,bid,31
+2024-11-30 14:18:33,Buyer_8,bid,31
+2024-11-30 14:18:33,Buyer_9,bid,31
+2024-11-30 14:18:33,Auctioneer,"The current bid is $32 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $32?",32
+2024-11-30 14:18:34,Buyer_0,bid,32
+2024-11-30 14:18:34,Buyer_1,bid,32
+2024-11-30 14:18:35,Buyer_2,bid,32
+2024-11-30 14:18:35,Buyer_3,bid,32
+2024-11-30 14:18:35,Buyer_4,bid,32
+2024-11-30 14:18:36,Buyer_5,bid,32
+2024-11-30 14:18:36,Buyer_6,bid,32
+2024-11-30 14:18:37,Buyer_7,bid,32
+2024-11-30 14:18:37,Buyer_8,bid,32
+2024-11-30 14:18:37,Buyer_9,bid,32
+2024-11-30 14:18:37,Auctioneer,"The current bid is $33 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $33?",33
+2024-11-30 14:18:38,Buyer_0,bid,33
+2024-11-30 14:18:38,Buyer_1,bid,33
+2024-11-30 14:18:38,Buyer_2,bid,33
+2024-11-30 14:18:39,Buyer_3,bid,33
+2024-11-30 14:18:39,Buyer_4,bid,33
+2024-11-30 14:18:41,Buyer_5,bid,33
+2024-11-30 14:18:42,Buyer_6,bid,33
+2024-11-30 14:18:42,Buyer_7,bid,33
+2024-11-30 14:18:43,Buyer_8,bid,33
+2024-11-30 14:18:43,Buyer_9,bid,33
+2024-11-30 14:18:43,Auctioneer,"The current bid is $34 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $34?",34
+2024-11-30 14:18:44,Buyer_0,bid,34
+2024-11-30 14:18:44,Buyer_1,bid,34
+2024-11-30 14:18:44,Buyer_2,bid,34
+2024-11-30 14:18:45,Buyer_3,bid,34
+2024-11-30 14:18:45,Buyer_4,bid,34
+2024-11-30 14:18:45,Buyer_5,bid,34
+2024-11-30 14:18:46,Buyer_6,bid,34
+2024-11-30 14:18:46,Buyer_7,bid,34
+2024-11-30 14:18:47,Buyer_8,bid,34
+2024-11-30 14:18:47,Buyer_9,bid,34
+2024-11-30 14:18:47,Auctioneer,"The current bid is $35 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $35?",35
+2024-11-30 14:18:48,Buyer_0,bid,35
+2024-11-30 14:18:48,Buyer_1,bid,35
+2024-11-30 14:18:48,Buyer_2,bid,35
+2024-11-30 14:18:49,Buyer_3,bid,35
+2024-11-30 14:18:49,Buyer_4,bid,35
+2024-11-30 14:18:50,Buyer_5,bid,35
+2024-11-30 14:18:50,Buyer_6,bid,35
+2024-11-30 14:18:50,Buyer_7,bid,35
+2024-11-30 14:18:51,Buyer_8,bid,35
+2024-11-30 14:18:51,Buyer_9,bid,35
+2024-11-30 14:18:51,Auctioneer,"The current bid is $36 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $36?",36
+2024-11-30 14:18:52,Buyer_0,bid,36
+2024-11-30 14:18:52,Buyer_1,bid,36
+2024-11-30 14:18:52,Buyer_2,bid,36
+2024-11-30 14:18:53,Buyer_3,bid,36
+2024-11-30 14:18:53,Buyer_4,bid,36
+2024-11-30 14:18:53,Buyer_5,bid,36
+2024-11-30 14:18:54,Buyer_6,bid,36
+2024-11-30 14:18:54,Buyer_7,bid,36
+2024-11-30 14:18:54,Buyer_8,bid,36
+2024-11-30 14:18:55,Buyer_9,bid,36
+2024-11-30 14:18:55,Auctioneer,"The current bid is $37 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $37?",37
+2024-11-30 14:18:55,Buyer_0,bid,37
+2024-11-30 14:18:56,Buyer_1,bid,37
+2024-11-30 14:18:56,Buyer_2,bid,37
+2024-11-30 14:18:57,Buyer_3,bid,37
+2024-11-30 14:18:57,Buyer_4,bid,37
+2024-11-30 14:18:57,Buyer_5,bid,37
+2024-11-30 14:18:58,Buyer_6,bid,37
+2024-11-30 14:18:58,Buyer_7,bid,37
+2024-11-30 14:18:59,Buyer_8,bid,37
+2024-11-30 14:18:59,Buyer_9,bid,37
+2024-11-30 14:18:59,Auctioneer,"The current bid is $38 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $38?",38
+2024-11-30 14:18:59,Buyer_0,bid,38
+2024-11-30 14:19:00,Buyer_1,bid,38
+2024-11-30 14:19:00,Buyer_2,bid,38
+2024-11-30 14:19:00,Buyer_3,bid,38
+2024-11-30 14:19:01,Buyer_4,bid,38
+2024-11-30 14:19:01,Buyer_5,bid,38
+2024-11-30 14:19:02,Buyer_6,bid,38
+2024-11-30 14:19:03,Buyer_7,bid,38
+2024-11-30 14:19:03,Buyer_8,bid,38
+2024-11-30 14:19:03,Buyer_9,bid,38
+2024-11-30 14:19:03,Auctioneer,"The current bid is $39 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $39?",39
+2024-11-30 14:19:04,Buyer_0,bid,39
+2024-11-30 14:19:04,Buyer_1,bid,39
+2024-11-30 14:19:04,Buyer_2,bid,39
+2024-11-30 14:19:05,Buyer_3,bid,39
+2024-11-30 14:19:05,Buyer_4,bid,39
+2024-11-30 14:19:05,Buyer_5,bid,39
+2024-11-30 14:19:06,Buyer_6,bid,39
+2024-11-30 14:19:06,Buyer_7,bid,39
+2024-11-30 14:19:06,Buyer_8,bid,39
+2024-11-30 14:19:07,Buyer_9,bid,39
+2024-11-30 14:19:07,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 14:19:07,Buyer_0,pass,40
+2024-11-30 14:19:08,Buyer_1,pass,40
+2024-11-30 14:19:08,Buyer_2,pass,40
+2024-11-30 14:19:08,Buyer_3,pass,40
+2024-11-30 14:19:09,Buyer_4,pass,40
+2024-11-30 14:19:09,Buyer_5,bid,40
+2024-11-30 14:19:10,Buyer_6,pass,40
+2024-11-30 14:19:11,Buyer_7,pass,40
+2024-11-30 14:19:11,Buyer_8,pass,40
+2024-11-30 14:19:12,Buyer_9,pass,40
+2024-11-30 14:19:12,Auctioneer,Buyer_5 pays $40,40
