@@ -2,10 +2,9 @@ from abc import ABC, abstractmethod
 from utils.csv_logger import CSVLogger
 
 class BaseAuction(ABC):
-    def __init__(self, item, starting_price, seller, buyers, auctioneer, logger_filename):
+    def __init__(self, item, starting_price, buyers, auctioneer, logger_filename):
         self.item = item
         self.current_price = starting_price
-        self.seller = seller
         self.buyers = buyers
         self.auctioneer = auctioneer
         self.logger = CSVLogger(logger_filename)

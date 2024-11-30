@@ -1,8 +1,8 @@
 from .base_auction import BaseAuction
 
 class CommonAuction(BaseAuction):
-    def __init__(self, item, starting_price, seller, buyers, auctioneer, increment, logger_filename):
-        super().__init__(item, starting_price, seller, buyers, auctioneer, logger_filename)
+    def __init__(self, item, starting_price, buyers, auctioneer, increment, logger_filename):
+        super().__init__(item, starting_price, buyers, auctioneer, logger_filename)
         self.increment = increment
         self.max_rounds = 100
         self.bids = {buyer: 0 for buyer in buyers}  # Track bids for all buyers
