@@ -1,5 +1,5 @@
 from .base_agent import BaseAgent
-from utils.llm_interface import query_openai
+from utils.llm_interface import query_gemini
 
 class AuctioneerAgent(BaseAgent):
     def __init__(self, name, attributes):
@@ -7,7 +7,7 @@ class AuctioneerAgent(BaseAgent):
 
     def act(self, auction_state):
         prompt = f"You are {self.name}, an auctioneer. The current auction state is: {auction_state}. What is your next action? Respond with a statement to encourage bidding or close the auction."
-        action = query_openai(prompt)
+        action = query_gemini(prompt)
         return action
 
     def announce_price(self, price, item):

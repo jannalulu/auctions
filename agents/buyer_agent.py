@@ -11,7 +11,7 @@ class BuyerAgent(BaseAgent):
     def act(self, auction_state):
         history = "\n".join(self.conversation_history) if self.conversation_history else "No previous actions"
         prompt = f"""
-            You are {self.name}, a Pokemon card collector in an all-pay auction. There are ten potential buyers in this auction, including yourself. Your budget is ${self.budget}.
+            You are {self.name}, a Pokemon card collector in an all-pay auction. Your budget is ${self.budget}.
             Your previous actions in this auction:
             {history}
 
