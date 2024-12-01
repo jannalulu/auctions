@@ -1,12 +1,12 @@
 from .base_auction import BaseAuction
 
 class DutchAuction(BaseAuction):
-    def __init__(self, item, starting_price, seller, buyers, auctioneer, decrement, logger_filename, max_rounds):
-        super().__init__(item, starting_price, seller, buyers, auctioneer, logger_filename)
+    def __init__(self, item, starting_price, buyers, auctioneer, decrement, log_file):
+        super().__init__(item, starting_price, buyers, auctioneer, log_file)
         self.decrement = decrement
-        self.max_rounds = max_rounds
         self.winner = None
-        self.starting_price = starting_price  # Add this line to set the starting_price attribute
+        self.max_rounds = 100
+        self.starting_price = starting_price
 
     def run(self):
         self.current_price = self.starting_price
@@ -19,9 +19,7 @@ class DutchAuction(BaseAuction):
             for buyer in self.buyers:
                 buyer_action = buyer.act(self.get_auction_state())
                 self.log_action(buyer, buyer_action)
-                auctioneer_response = self.process_buyer_action(buyer, buyer_action)
-                self.log_action(self.auctioneer, auctioneer_response)
-                
+                                
                 if buyer_action == "bid":
                     self.winner = buyer
                     self.log_action(self.auctioneer, f"Sold to {self.winner.name} for ${self.current_price}!")
@@ -39,11 +37,12 @@ class DutchAuction(BaseAuction):
         return self.end_auction()
 
     def process_buyer_action(self, buyer, action):
-        if action == "bid":
-            buyer.last_bid = self.current_price
-            return f"Accepted bid from {buyer.name} at ${self.current_price}"
-        else:
-            return f"{buyer.name} passed"
+        if action.lower() == "bid":
+            if self.current_price <= buyer.budget:
+                buyer.last_bid = self.current_price
+                return True
+            return False
+        return False
         
     def process_seller_action(self, action):
         return True
