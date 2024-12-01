@@ -1,0 +1,386 @@
+Timestamp,Agent,Action,Current Price
+2024-11-30 23:40:59,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:43:08,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:43:12,Buyer_0,pass,42
+2024-11-30 23:43:13,Buyer_1,pass,42
+2024-11-30 23:43:13,Buyer_2,pass,42
+2024-11-30 23:43:14,Buyer_3,pass,42
+2024-11-30 23:43:17,Buyer_4,pass,42
+2024-11-30 23:44:02,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:44:53,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:44:56,Buyer_0,pass,42
+2024-11-30 23:46:27,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:55:15,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:55:15,Buyer_0,pass,42
+2024-11-30 23:55:16,Buyer_1,pass,42
+2024-11-30 23:55:16,Buyer_2,pass,42
+2024-11-30 23:55:16,Buyer_3,pass,42
+2024-11-30 23:55:16,Buyer_4,pass,42
+2024-11-30 23:55:17,Buyer_5,pass,42
+2024-11-30 23:55:17,Buyer_6,pass,42
+2024-11-30 23:55:17,Buyer_7,pass,42
+2024-11-30 23:55:18,Buyer_8,pass,42
+2024-11-30 23:55:18,Buyer_9,pass,42
+2024-11-30 23:55:18,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:55:18,Buyer_0,pass,41
+2024-11-30 23:55:19,Buyer_1,pass,41
+2024-11-30 23:55:20,Buyer_2,pass,41
+2024-11-30 23:55:20,Buyer_3,pass,41
+2024-11-30 23:55:20,Buyer_4,pass,41
+2024-11-30 23:55:21,Buyer_5,pass,41
+2024-11-30 23:55:21,Buyer_6,pass,41
+2024-11-30 23:55:21,Buyer_7,pass,41
+2024-11-30 23:55:22,Buyer_8,pass,41
+2024-11-30 23:55:22,Buyer_9,pass,41
+2024-11-30 23:55:22,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:55:22,Buyer_0,pass,40
+2024-11-30 23:55:23,Buyer_1,pass,40
+2024-11-30 23:55:23,Buyer_2,pass,40
+2024-11-30 23:55:23,Buyer_3,pass,40
+2024-11-30 23:55:24,Buyer_4,pass,40
+2024-11-30 23:55:24,Buyer_5,pass,40
+2024-11-30 23:55:24,Buyer_6,pass,40
+2024-11-30 23:55:25,Buyer_7,pass,40
+2024-11-30 23:55:25,Buyer_8,pass,40
+2024-11-30 23:55:25,Buyer_9,bid,40
+2024-11-30 23:55:25,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:55:25,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:55:26,Buyer_0,pass,42
+2024-11-30 23:55:26,Buyer_1,pass,42
+2024-11-30 23:55:27,Buyer_2,pass,42
+2024-11-30 23:55:27,Buyer_3,pass,42
+2024-11-30 23:55:27,Buyer_4,pass,42
+2024-11-30 23:55:28,Buyer_5,pass,42
+2024-11-30 23:55:28,Buyer_6,pass,42
+2024-11-30 23:55:28,Buyer_7,pass,42
+2024-11-30 23:55:29,Buyer_8,pass,42
+2024-11-30 23:55:29,Buyer_9,pass,42
+2024-11-30 23:55:29,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:55:30,Buyer_0,pass,41
+2024-11-30 23:55:30,Buyer_1,pass,41
+2024-11-30 23:55:30,Buyer_2,pass,41
+2024-11-30 23:55:30,Buyer_3,pass,41
+2024-11-30 23:55:31,Buyer_4,pass,41
+2024-11-30 23:55:31,Buyer_5,pass,41
+2024-11-30 23:55:31,Buyer_6,pass,41
+2024-11-30 23:55:32,Buyer_7,pass,41
+2024-11-30 23:55:32,Buyer_8,pass,41
+2024-11-30 23:55:32,Buyer_9,pass,41
+2024-11-30 23:55:32,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:55:33,Buyer_0,pass,40
+2024-11-30 23:55:33,Buyer_1,pass,40
+2024-11-30 23:55:34,Buyer_2,pass,40
+2024-11-30 23:55:34,Buyer_3,pass,40
+2024-11-30 23:55:34,Buyer_4,pass,40
+2024-11-30 23:55:35,Buyer_5,pass,40
+2024-11-30 23:55:35,Buyer_6,pass,40
+2024-11-30 23:55:35,Buyer_7,pass,40
+2024-11-30 23:55:36,Buyer_8,pass,40
+2024-11-30 23:55:36,Buyer_9,bid,40
+2024-11-30 23:55:36,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:55:36,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:55:36,Buyer_0,pass,42
+2024-11-30 23:55:37,Buyer_1,pass,42
+2024-11-30 23:55:37,Buyer_2,pass,42
+2024-11-30 23:55:37,Buyer_3,pass,42
+2024-11-30 23:55:38,Buyer_4,pass,42
+2024-11-30 23:55:38,Buyer_5,pass,42
+2024-11-30 23:55:38,Buyer_6,pass,42
+2024-11-30 23:55:39,Buyer_7,pass,42
+2024-11-30 23:55:39,Buyer_8,pass,42
+2024-11-30 23:55:39,Buyer_9,pass,42
+2024-11-30 23:55:39,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:55:40,Buyer_0,pass,41
+2024-11-30 23:55:40,Buyer_1,pass,41
+2024-11-30 23:55:40,Buyer_2,pass,41
+2024-11-30 23:55:41,Buyer_3,pass,41
+2024-11-30 23:55:41,Buyer_4,pass,41
+2024-11-30 23:55:41,Buyer_5,pass,41
+2024-11-30 23:55:42,Buyer_6,pass,41
+2024-11-30 23:55:42,Buyer_7,pass,41
+2024-11-30 23:55:42,Buyer_8,pass,41
+2024-11-30 23:55:42,Buyer_9,pass,41
+2024-11-30 23:55:42,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:55:43,Buyer_0,pass,40
+2024-11-30 23:55:43,Buyer_1,pass,40
+2024-11-30 23:55:43,Buyer_2,pass,40
+2024-11-30 23:55:44,Buyer_3,pass,40
+2024-11-30 23:55:44,Buyer_4,pass,40
+2024-11-30 23:55:44,Buyer_5,pass,40
+2024-11-30 23:55:45,Buyer_6,pass,40
+2024-11-30 23:55:45,Buyer_7,pass,40
+2024-11-30 23:55:46,Buyer_8,pass,40
+2024-11-30 23:55:46,Buyer_9,bid,40
+2024-11-30 23:55:46,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:55:46,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:55:46,Buyer_0,pass,42
+2024-11-30 23:55:47,Buyer_1,pass,42
+2024-11-30 23:55:47,Buyer_2,pass,42
+2024-11-30 23:55:47,Buyer_3,pass,42
+2024-11-30 23:55:48,Buyer_4,pass,42
+2024-11-30 23:55:48,Buyer_5,pass,42
+2024-11-30 23:55:48,Buyer_6,pass,42
+2024-11-30 23:55:48,Buyer_7,pass,42
+2024-11-30 23:55:49,Buyer_8,pass,42
+2024-11-30 23:55:49,Buyer_9,pass,42
+2024-11-30 23:55:49,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:55:49,Buyer_0,pass,41
+2024-11-30 23:55:50,Buyer_1,pass,41
+2024-11-30 23:55:50,Buyer_2,pass,41
+2024-11-30 23:55:50,Buyer_3,pass,41
+2024-11-30 23:55:51,Buyer_4,pass,41
+2024-11-30 23:55:51,Buyer_5,pass,41
+2024-11-30 23:55:51,Buyer_6,pass,41
+2024-11-30 23:55:52,Buyer_7,pass,41
+2024-11-30 23:55:52,Buyer_8,pass,41
+2024-11-30 23:55:53,Buyer_9,pass,41
+2024-11-30 23:55:53,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:55:53,Buyer_0,pass,40
+2024-11-30 23:55:53,Buyer_1,pass,40
+2024-11-30 23:55:54,Buyer_2,pass,40
+2024-11-30 23:55:54,Buyer_3,pass,40
+2024-11-30 23:55:54,Buyer_4,pass,40
+2024-11-30 23:55:54,Buyer_5,pass,40
+2024-11-30 23:55:55,Buyer_6,pass,40
+2024-11-30 23:55:55,Buyer_7,pass,40
+2024-11-30 23:55:56,Buyer_8,pass,40
+2024-11-30 23:55:56,Buyer_9,bid,40
+2024-11-30 23:55:56,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:55:56,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:55:56,Buyer_0,pass,42
+2024-11-30 23:55:56,Buyer_1,pass,42
+2024-11-30 23:55:57,Buyer_2,pass,42
+2024-11-30 23:55:57,Buyer_3,pass,42
+2024-11-30 23:55:57,Buyer_4,pass,42
+2024-11-30 23:55:58,Buyer_5,pass,42
+2024-11-30 23:55:58,Buyer_6,pass,42
+2024-11-30 23:55:58,Buyer_7,pass,42
+2024-11-30 23:55:59,Buyer_8,pass,42
+2024-11-30 23:55:59,Buyer_9,pass,42
+2024-11-30 23:55:59,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:55:59,Buyer_0,pass,41
+2024-11-30 23:56:00,Buyer_1,pass,41
+2024-11-30 23:56:00,Buyer_2,pass,41
+2024-11-30 23:56:00,Buyer_3,pass,41
+2024-11-30 23:56:01,Buyer_4,pass,41
+2024-11-30 23:56:01,Buyer_5,pass,41
+2024-11-30 23:56:01,Buyer_6,pass,41
+2024-11-30 23:56:01,Buyer_7,pass,41
+2024-11-30 23:56:02,Buyer_8,pass,41
+2024-11-30 23:56:02,Buyer_9,pass,41
+2024-11-30 23:56:02,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:56:03,Buyer_0,pass,40
+2024-11-30 23:56:03,Buyer_1,pass,40
+2024-11-30 23:56:03,Buyer_2,pass,40
+2024-11-30 23:56:04,Buyer_3,pass,40
+2024-11-30 23:56:04,Buyer_4,pass,40
+2024-11-30 23:56:04,Buyer_5,pass,40
+2024-11-30 23:56:04,Buyer_6,pass,40
+2024-11-30 23:56:05,Buyer_7,pass,40
+2024-11-30 23:56:05,Buyer_8,pass,40
+2024-11-30 23:56:06,Buyer_9,bid,40
+2024-11-30 23:56:06,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:56:06,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:56:06,Buyer_0,pass,42
+2024-11-30 23:56:06,Buyer_1,pass,42
+2024-11-30 23:56:07,Buyer_2,pass,42
+2024-11-30 23:56:07,Buyer_3,pass,42
+2024-11-30 23:56:07,Buyer_4,pass,42
+2024-11-30 23:56:07,Buyer_5,pass,42
+2024-11-30 23:56:08,Buyer_6,pass,42
+2024-11-30 23:56:08,Buyer_7,pass,42
+2024-11-30 23:56:08,Buyer_8,pass,42
+2024-11-30 23:56:08,Buyer_9,pass,42
+2024-11-30 23:56:08,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:56:09,Buyer_0,pass,41
+2024-11-30 23:56:09,Buyer_1,pass,41
+2024-11-30 23:56:09,Buyer_2,pass,41
+2024-11-30 23:56:10,Buyer_3,pass,41
+2024-11-30 23:56:10,Buyer_4,pass,41
+2024-11-30 23:56:10,Buyer_5,pass,41
+2024-11-30 23:56:11,Buyer_6,pass,41
+2024-11-30 23:56:11,Buyer_7,pass,41
+2024-11-30 23:56:11,Buyer_8,pass,41
+2024-11-30 23:56:12,Buyer_9,pass,41
+2024-11-30 23:56:12,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:56:12,Buyer_0,pass,40
+2024-11-30 23:56:12,Buyer_1,pass,40
+2024-11-30 23:56:13,Buyer_2,pass,40
+2024-11-30 23:56:13,Buyer_3,pass,40
+2024-11-30 23:56:13,Buyer_4,pass,40
+2024-11-30 23:56:14,Buyer_5,pass,40
+2024-11-30 23:56:14,Buyer_6,pass,40
+2024-11-30 23:56:14,Buyer_7,pass,40
+2024-11-30 23:56:15,Buyer_8,pass,40
+2024-11-30 23:56:15,Buyer_9,bid,40
+2024-11-30 23:56:15,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:56:15,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:56:16,Buyer_0,pass,42
+2024-11-30 23:56:16,Buyer_1,pass,42
+2024-11-30 23:56:16,Buyer_2,pass,42
+2024-11-30 23:56:16,Buyer_3,pass,42
+2024-11-30 23:56:17,Buyer_4,pass,42
+2024-11-30 23:56:17,Buyer_5,pass,42
+2024-11-30 23:56:17,Buyer_6,pass,42
+2024-11-30 23:56:18,Buyer_7,pass,42
+2024-11-30 23:56:18,Buyer_8,pass,42
+2024-11-30 23:56:18,Buyer_9,pass,42
+2024-11-30 23:56:18,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:56:19,Buyer_0,pass,41
+2024-11-30 23:56:19,Buyer_1,pass,41
+2024-11-30 23:56:19,Buyer_2,pass,41
+2024-11-30 23:56:20,Buyer_3,pass,41
+2024-11-30 23:56:20,Buyer_4,pass,41
+2024-11-30 23:56:20,Buyer_5,pass,41
+2024-11-30 23:56:21,Buyer_6,pass,41
+2024-11-30 23:56:21,Buyer_7,pass,41
+2024-11-30 23:56:21,Buyer_8,pass,41
+2024-11-30 23:56:22,Buyer_9,pass,41
+2024-11-30 23:56:22,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:56:22,Buyer_0,pass,40
+2024-11-30 23:56:23,Buyer_1,pass,40
+2024-11-30 23:56:23,Buyer_2,pass,40
+2024-11-30 23:56:23,Buyer_3,pass,40
+2024-11-30 23:56:23,Buyer_4,pass,40
+2024-11-30 23:56:24,Buyer_5,pass,40
+2024-11-30 23:56:24,Buyer_6,pass,40
+2024-11-30 23:56:24,Buyer_7,pass,40
+2024-11-30 23:56:25,Buyer_8,pass,40
+2024-11-30 23:56:25,Buyer_9,bid,40
+2024-11-30 23:56:25,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:56:25,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:56:25,Buyer_0,pass,42
+2024-11-30 23:56:26,Buyer_1,pass,42
+2024-11-30 23:56:26,Buyer_2,pass,42
+2024-11-30 23:56:26,Buyer_3,pass,42
+2024-11-30 23:56:27,Buyer_4,pass,42
+2024-11-30 23:56:27,Buyer_5,pass,42
+2024-11-30 23:56:27,Buyer_6,pass,42
+2024-11-30 23:56:28,Buyer_7,pass,42
+2024-11-30 23:56:28,Buyer_8,pass,42
+2024-11-30 23:56:28,Buyer_9,pass,42
+2024-11-30 23:56:28,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:56:29,Buyer_0,pass,41
+2024-11-30 23:56:29,Buyer_1,pass,41
+2024-11-30 23:56:29,Buyer_2,pass,41
+2024-11-30 23:56:30,Buyer_3,pass,41
+2024-11-30 23:56:30,Buyer_4,pass,41
+2024-11-30 23:56:30,Buyer_5,pass,41
+2024-11-30 23:56:30,Buyer_6,pass,41
+2024-11-30 23:56:31,Buyer_7,pass,41
+2024-11-30 23:56:31,Buyer_8,pass,41
+2024-11-30 23:56:31,Buyer_9,pass,41
+2024-11-30 23:56:31,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:56:32,Buyer_0,pass,40
+2024-11-30 23:56:32,Buyer_1,pass,40
+2024-11-30 23:56:32,Buyer_2,pass,40
+2024-11-30 23:56:32,Buyer_3,pass,40
+2024-11-30 23:56:33,Buyer_4,pass,40
+2024-11-30 23:56:35,Buyer_5,pass,40
+2024-11-30 23:56:35,Buyer_6,pass,40
+2024-11-30 23:56:35,Buyer_7,pass,40
+2024-11-30 23:56:36,Buyer_8,pass,40
+2024-11-30 23:56:36,Buyer_9,bid,40
+2024-11-30 23:56:36,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:56:36,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:56:36,Buyer_0,pass,42
+2024-11-30 23:56:37,Buyer_1,pass,42
+2024-11-30 23:56:37,Buyer_2,pass,42
+2024-11-30 23:56:37,Buyer_3,pass,42
+2024-11-30 23:56:38,Buyer_4,pass,42
+2024-11-30 23:56:38,Buyer_5,pass,42
+2024-11-30 23:56:39,Buyer_6,pass,42
+2024-11-30 23:56:39,Buyer_7,pass,42
+2024-11-30 23:56:39,Buyer_8,pass,42
+2024-11-30 23:56:40,Buyer_9,pass,42
+2024-11-30 23:56:40,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:56:40,Buyer_0,pass,41
+2024-11-30 23:56:40,Buyer_1,pass,41
+2024-11-30 23:56:41,Buyer_2,pass,41
+2024-11-30 23:56:41,Buyer_3,pass,41
+2024-11-30 23:56:41,Buyer_4,pass,41
+2024-11-30 23:56:42,Buyer_5,pass,41
+2024-11-30 23:56:42,Buyer_6,pass,41
+2024-11-30 23:56:42,Buyer_7,pass,41
+2024-11-30 23:56:43,Buyer_8,pass,41
+2024-11-30 23:56:43,Buyer_9,pass,41
+2024-11-30 23:56:43,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:56:43,Buyer_0,pass,40
+2024-11-30 23:56:44,Buyer_1,pass,40
+2024-11-30 23:56:44,Buyer_2,pass,40
+2024-11-30 23:56:44,Buyer_3,pass,40
+2024-11-30 23:56:45,Buyer_4,pass,40
+2024-11-30 23:56:45,Buyer_5,pass,40
+2024-11-30 23:56:45,Buyer_6,pass,40
+2024-11-30 23:56:45,Buyer_7,pass,40
+2024-11-30 23:56:46,Buyer_8,pass,40
+2024-11-30 23:56:46,Buyer_9,bid,40
+2024-11-30 23:56:46,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:56:46,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:56:46,Buyer_0,pass,42
+2024-11-30 23:56:47,Buyer_1,pass,42
+2024-11-30 23:56:47,Buyer_2,pass,42
+2024-11-30 23:56:48,Buyer_3,pass,42
+2024-11-30 23:56:48,Buyer_4,pass,42
+2024-11-30 23:56:48,Buyer_5,pass,42
+2024-11-30 23:56:49,Buyer_6,pass,42
+2024-11-30 23:56:49,Buyer_7,pass,42
+2024-11-30 23:56:49,Buyer_8,pass,42
+2024-11-30 23:56:50,Buyer_9,pass,42
+2024-11-30 23:56:50,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:56:50,Buyer_0,pass,41
+2024-11-30 23:56:51,Buyer_1,pass,41
+2024-11-30 23:56:51,Buyer_2,pass,41
+2024-11-30 23:56:51,Buyer_3,pass,41
+2024-11-30 23:56:52,Buyer_4,pass,41
+2024-11-30 23:56:52,Buyer_5,pass,41
+2024-11-30 23:56:52,Buyer_6,pass,41
+2024-11-30 23:56:52,Buyer_7,pass,41
+2024-11-30 23:56:53,Buyer_8,pass,41
+2024-11-30 23:56:53,Buyer_9,pass,41
+2024-11-30 23:56:53,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:56:53,Buyer_0,pass,40
+2024-11-30 23:56:54,Buyer_1,pass,40
+2024-11-30 23:56:54,Buyer_2,pass,40
+2024-11-30 23:56:54,Buyer_3,pass,40
+2024-11-30 23:56:55,Buyer_4,pass,40
+2024-11-30 23:56:55,Buyer_5,pass,40
+2024-11-30 23:56:55,Buyer_6,pass,40
+2024-11-30 23:56:56,Buyer_7,pass,40
+2024-11-30 23:56:56,Buyer_8,pass,40
+2024-11-30 23:56:56,Buyer_9,bid,40
+2024-11-30 23:56:56,Auctioneer,Sold to Buyer_9 for $40!,40
+2024-11-30 23:56:57,Auctioneer,"The current bid is $42 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $42?",42
+2024-11-30 23:56:57,Buyer_0,pass,42
+2024-11-30 23:56:57,Buyer_1,pass,42
+2024-11-30 23:56:58,Buyer_2,pass,42
+2024-11-30 23:56:58,Buyer_3,pass,42
+2024-11-30 23:56:58,Buyer_4,pass,42
+2024-11-30 23:56:58,Buyer_5,pass,42
+2024-11-30 23:56:59,Buyer_6,pass,42
+2024-11-30 23:56:59,Buyer_7,pass,42
+2024-11-30 23:56:59,Buyer_8,pass,42
+2024-11-30 23:57:00,Buyer_9,pass,42
+2024-11-30 23:57:00,Auctioneer,"The current bid is $41 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $41?",41
+2024-11-30 23:57:00,Buyer_0,pass,41
+2024-11-30 23:57:00,Buyer_1,pass,41
+2024-11-30 23:57:01,Buyer_2,pass,41
+2024-11-30 23:57:01,Buyer_3,pass,41
+2024-11-30 23:57:01,Buyer_4,pass,41
+2024-11-30 23:57:02,Buyer_5,pass,41
+2024-11-30 23:57:02,Buyer_6,pass,41
+2024-11-30 23:57:02,Buyer_7,pass,41
+2024-11-30 23:57:03,Buyer_8,pass,41
+2024-11-30 23:57:03,Buyer_9,pass,41
+2024-11-30 23:57:03,Auctioneer,"The current bid is $40 for Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer. Do I hear any advance on $40?",40
+2024-11-30 23:57:03,Buyer_0,pass,40
+2024-11-30 23:57:03,Buyer_1,pass,40
+2024-11-30 23:57:04,Buyer_2,pass,40
+2024-11-30 23:57:04,Buyer_3,pass,40
+2024-11-30 23:57:05,Buyer_4,pass,40
+2024-11-30 23:57:05,Buyer_5,pass,40
+2024-11-30 23:57:05,Buyer_6,pass,40
+2024-11-30 23:57:06,Buyer_7,pass,40
+2024-11-30 23:57:06,Buyer_8,pass,40
+2024-11-30 23:57:06,Buyer_9,bid,40
+2024-11-30 23:57:06,Auctioneer,Sold to Buyer_9 for $40!,40
