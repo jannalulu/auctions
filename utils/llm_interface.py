@@ -20,14 +20,14 @@ def query_anthropic(prompt, model="claude-3-5-sonnet-latest"):
     )
     return response.content[0].text
 
-def query_openai(prompt, model="gpt-4o"):
+def query_openai(prompt, model="gpt-4o-mini"):
     response = openai_client.chat.completions.create(
         model=model,
         messages=[{"role": "user", "content": prompt}]
     )
     return response.choices[0].message.content
 
-def query_gemini(prompt, model="gemini-1.5-flash"):
+def query_gemini(prompt, model="gemini-1.5-pro"):
     response = gemini_client.chat.completions.create(
         model=model,
         messages=[{"role": "user", "content": prompt}]

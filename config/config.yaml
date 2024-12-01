@@ -1,7 +1,7 @@
 item: "Lightly played Alakazam Holofoil Pokemon Card, valued at $28.25 on TCGPlayer"
 starting_price: 0
 price_increment: 1
-log_file: "English_auction_log_4o.csv"
+log_file: "english_auction_log_4o.csv"
 max_rounds: 200 # Not implemented in English
 
 auctioneer:
@@ -11,52 +11,42 @@ auctioneer:
 
 buyers:
   - attributes:
-      risk_tolerance: "neutral"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 30
   - attributes:
-      risk_tolerance: "neutral"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 32
   - attributes:
-      risk_tolerance: "neutral"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 34
   - attributes:
-      risk_tolerance: "neutral"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 35
   - attributes:
-      risk_tolerance: "neutral"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 35
   - attributes:
-      risk_tolerance: "neutral"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 36
   - attributes:
-      risk_tolerance: "neutral"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 37
   - attributes:
-      risk_tolerance: "low"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 38
   - attributes:
-      risk_tolerance: "low"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
-    budget: 40
+    budget: 39
   - attributes:
-      risk_tolerance: "low"
       bidding_knowledge: "sophiscated"
       rational_bidder: true
     budget: 40
