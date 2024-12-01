@@ -1,5 +1,5 @@
 from auctions.english_auction import EnglishAuction
-# from auctions.dutch_auction import DutchAuction
+from auctions.dutch_auction import DutchAuction
 from auctions.common_auction import CommonAuction
 from agents.buyer_agent import BuyerAgent
 from agents.auctioneer_agent import AuctioneerAgent
@@ -12,14 +12,13 @@ def run_auction(config):
     auctioneer = AuctioneerAgent("Auctioneer", config['auctioneer_attributes'])
     
     # Type of auction that I'm running
-    auction = CommonAuction( # auction = EnglishAuction / CommonAuction / DutchAuction
+    auction = DutchAuction( # auction = EnglishAuction / CommonAuction / DutchAuction
         config['item'],
         config['starting_price'],
         buyers,
         auctioneer,
-        config['price_increment'], #or config['price_decrement'] for Dutch Auctions
+        config['price_decrement'], #or config['price_decrement'] for Dutch Auctions and _increment for English / Common Auction
         config['log_file']
-        # config ['max_rounds'] # comment out for English and common auctions
     )
     
     results = auction.run()
@@ -34,8 +33,8 @@ if __name__ == "__main__":
       config = yaml.safe_load(f)
   
   if args.loop:
-    for i in range(10):
-      print(f"\nAuction {i+1}/10")
+    for i in range(11):
+      print(f"\nAuction {i+1}/11")
       results = run_auction(config)
       print(results)
   else:
