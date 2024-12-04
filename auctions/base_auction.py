@@ -24,7 +24,7 @@ class BaseAuction(ABC):
         self.logger.close()
 
     def get_auction_state(self):
-        return f"Current price: ${self.current_price}"
+        return f"Current price: ${self.current_price} for {self.item}"
 
     @abstractmethod
     def process_buyer_action(self, buyer, action):

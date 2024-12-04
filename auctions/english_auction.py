@@ -52,7 +52,7 @@ class EnglishAuction(BaseAuction):
             self.final_price = highest_bidder.last_bid
     
     def get_auction_state(self):
-        return f"Current price: ${self.current_price}"
+        return f"Current price: ${self.current_price} for {self.item}"
         
     def process_seller_action(self, action):
         return True

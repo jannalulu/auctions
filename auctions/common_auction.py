@@ -57,4 +57,4 @@ class CommonAuction(BaseAuction):
         return True
 
     def get_auction_state(self):
-        return f"Current price: ${self.current_price}"
+        return f"Current price: ${self.current_price} for {self.item}"
